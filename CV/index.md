@@ -1,18 +1,20 @@
 ---
-layout: post
-title: CV
-categories: CV
+layout: page
+title: Curriculum Vitae
+excerpt: "Curriculum Vitae of Sungpil Han"
+search_omit: true
 ---
+
 # SungPil Han, M.D./Ph.D.
 
-+82-10-6782-0522 pil.han@gmail.com
++82-10-6782-0522 shan@acp.kr
 Oct 2015
 
 ## EDUCATION
 
 ### PUSAN NATIONAL UNIVERSITY	GPA : 3.94/4.50	Pusan, Korea
--	M.D./Ph.D. in Molecular Cell Biology and Genetics	School of Medicine	2007 - 2015 	
--	Ph.D. Dissertation research performed through NIH Graduate Partnership Program (2010-2012)
+* M.D./Ph.D. in Molecular Cell Biology and Genetics	School of Medicine	2007 - 2015 	
+* Ph.D. Dissertation research performed through NIH Graduate Partnership Program (2010-2012)
 
 ### UNIVERSITY OF LONDON-RHUL 		London, UK
 -	Exchange Student	Department of Computer Science	2005 – 2006
@@ -20,25 +22,29 @@ Oct 2015
 ### KOREA UNIVERSITY	GPA:3.34/4.00	Seoul, Korea
 -	Bachelor in Electrical Engineering	College of Engineering	2000 – 2007		
 
-##EXPERIENCE
-###NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
+## EXPERIENCE
+
+### NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
 -	Predoctoral Fellow	Neuroimmunology branch, NINDS	2010~2012
 -	Advisor: Bibiana Bielekova, M.D.
 -	Participate in phase I clinical trial of DAC HYP for multiple sclerosis patients (Anti-IL-2-receptor alpha chain antibody : Biogen Idec, Inc.)
 -	Investigate the mechanism of action of DAC HYP by observing surface cell phenotype, cell signaling, microarray data and transcription factors
 -	Probe the immune response in MS patients' cerebrospinal fluid(CSF) by means of 12-color flow cytometry technique
-###PUSAN NATIONAL UNIVERSITY		Pusan, Korea
+
+### PUSAN NATIONAL UNIVERSITY		Pusan, Korea
 -	Research Assistant	School of Medicine	2009
 -	Advisor: Saeock Oh, M.D., Ph.D. 
 -	Investigate a role of Epithelial-Mesenchymal Transition(EMT)-related transcription factor, Snail in metastastic potential of glioblastoma multiforme
-###JOHNS HOPKINS UNIVERSITY		Baltimore, MD
+
+### JOHNS HOPKINS UNIVERSITY		Baltimore, MD
 -	Research Elective in Neuropathology	School of Medicine	2009
 -	Advisor : Charles Eberhart, M.D./Ph.D. and Eric H. Raabe, M.D./Ph.D.
 -	Investigate the developmental relationship between human neural stem cells and pediatric brain tumors
-###KYUSHU UNIVERSITY		Fukuoka, Japan
+
+### KYUSHU UNIVERSITY		Fukuoka, Japan
 -	Clinical Elective in Neurosurgery and Pathology	School of Medicine	2008
 
-##PUBLICATION
+## PUBLICATION
 -	Han S*, Lin YC*, Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (*. Equal Contribution)
    (Impact factor : 4.922)
 -	Perry JS*, Han S*, Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis" 
