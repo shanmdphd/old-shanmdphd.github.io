@@ -56,7 +56,7 @@ Nature Medicine. 2011;17(5);604-609. DOI: 10.1038/nm.2365
 -	Han S, Kim JH, Han ME, Sim HE, Kim KS, Yoon S, Baek SY, Kim BS, Oh SO. (2011) "SNAI1 is Involved in the Proliferation and Migration of Glioblastoma Cells." 
 Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010-9643-4
    (Impact factor : 2.506)
- 
+
 ### PROCEEDINGS
 -	Sungpil Han, Alan Salgado, Tariq Alfahad and Bibiana Bielekova (2012) “Flow Cytometric Immunophenotyping of the Blood and CSF of Patients with Multiple Sclerosis” 64th American Academy of Neurology 2012, New Orleans, LA 
 -	Simone Wuest, SungPil Han, Jayne Martin, Dragan Maric, Bibiana Bielekova (2011) “Anti-CD25 Antibody Inhibits Antigen-specific T cell Expansion by Blocking IL-2 Transpresentation by Dendritic Cells”, Federation of Clinical Immunology Societies 2011, Washington DC
