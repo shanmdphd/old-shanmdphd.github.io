@@ -89,7 +89,6 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 -	Korea University - Full Scholarship for Exchange Student to University of London (2005,2006) 
 -	Korea University - Partial Scholarship of Academic Achievement  (2001)
 
- 
 ### SCIENTIFIC SOCIETY AND CONSORTIA MEMBERSHIP
 -	2010- Member, American Academy of Neurology (AAN) 
 -	2011- Member, Federation of Clinical Immunology Societies (FOCIS)
