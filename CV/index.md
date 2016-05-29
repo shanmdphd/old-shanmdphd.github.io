@@ -10,38 +10,38 @@ search_omit: true
 +82-10-6782-0522 shan@acp.kr
 Oct 2015
 
-## EDUCATION
+### EDUCATION
 
-### PUSAN NATIONAL UNIVERSITY	GPA : 3.94/4.50	Pusan, Korea
+#### PUSAN NATIONAL UNIVERSITY	GPA : 3.94/4.50	Pusan, Korea
 * M.D./Ph.D. in Molecular Cell Biology and Genetics	School of Medicine	2007 - 2015 	
 * Ph.D. Dissertation research performed through NIH Graduate Partnership Program (2010-2012)
 
-### UNIVERSITY OF LONDON-RHUL 		London, UK
+#### UNIVERSITY OF LONDON-RHUL 		London, UK
 -	Exchange Student	Department of Computer Science	2005 – 2006
 
-### KOREA UNIVERSITY	GPA:3.34/4.00	Seoul, Korea
+#### KOREA UNIVERSITY	GPA:3.34/4.00	Seoul, Korea
 -	Bachelor in Electrical Engineering	College of Engineering	2000 – 2007		
 
 ## EXPERIENCE
 
-### NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
+#### NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
 -	Predoctoral Fellow	Neuroimmunology branch, NINDS	2010~2012
 -	Advisor: Bibiana Bielekova, M.D.
 -	Participate in phase I clinical trial of DAC HYP for multiple sclerosis patients (Anti-IL-2-receptor alpha chain antibody : Biogen Idec, Inc.)
 -	Investigate the mechanism of action of DAC HYP by observing surface cell phenotype, cell signaling, microarray data and transcription factors
 -	Probe the immune response in MS patients' cerebrospinal fluid(CSF) by means of 12-color flow cytometry technique
 
-### PUSAN NATIONAL UNIVERSITY		Pusan, Korea
+#### PUSAN NATIONAL UNIVERSITY		Pusan, Korea
 -	Research Assistant	School of Medicine	2009
 -	Advisor: Saeock Oh, M.D., Ph.D. 
 -	Investigate a role of Epithelial-Mesenchymal Transition(EMT)-related transcription factor, Snail in metastastic potential of glioblastoma multiforme
 
-### JOHNS HOPKINS UNIVERSITY		Baltimore, MD
+#### JOHNS HOPKINS UNIVERSITY		Baltimore, MD
 -	Research Elective in Neuropathology	School of Medicine	2009
 -	Advisor : Charles Eberhart, M.D./Ph.D. and Eric H. Raabe, M.D./Ph.D.
 -	Investigate the developmental relationship between human neural stem cells and pediatric brain tumors
 
-### KYUSHU UNIVERSITY		Fukuoka, Japan
+#### KYUSHU UNIVERSITY		Fukuoka, Japan
 -	Clinical Elective in Neurosurgery and Pathology	School of Medicine	2008
 
 ## PUBLICATION
