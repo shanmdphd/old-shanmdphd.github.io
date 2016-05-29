@@ -44,7 +44,7 @@ Oct 2015
 #### KYUSHU UNIVERSITY		Fukuoka, Japan
 -	Clinical Elective in Neurosurgery and Pathology	School of Medicine	2008
 
-## PUBLICATION
+### PUBLICATION
 -	Han S*, Lin YC*, Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (*. Equal Contribution)
    (Impact factor : 4.922)
 -	Perry JS*, Han S*, Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis" 
@@ -58,7 +58,7 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
    (Impact factor : 2.506)
 
  
-##PROCEEDINGS
+### PROCEEDINGS
 -	Sungpil Han, Alan Salgado, Tariq Alfahad and Bibiana Bielekova (2012) “Flow Cytometric Immunophenotyping of the Blood and CSF of Patients with Multiple Sclerosis” 64th American Academy of Neurology 2012, New Orleans, LA 
 -	Simone Wuest, SungPil Han, Jayne Martin, Dragan Maric, Bibiana Bielekova (2011) “Anti-CD25 Antibody Inhibits Antigen-specific T cell Expansion by Blocking IL-2 Transpresentation by Dendritic Cells”, Federation of Clinical Immunology Societies 2011, Washington DC
 -	Justin Perry, SungPil Han, Lucy Kennedy, Bibiana Bielekova (2011) "Opposing Developmental Regulation Between Lymphoid Tissue Inducer Cells and Immunoregulatory CD56bright NK Cells Contributes to Therapeutic Benefit of Daclizumab in Multiple Sclerosis", Federation of Clinical Immunology Societies 2011, Washington DC
@@ -69,7 +69,7 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 -	SungPil Han, Bibiana Bielekova (2010) "Comprehensive investigation of the mechanism of action of CD25-blocking Ab DAC-HYP in multiple sclerosis", Annual Bioscience and Engineering Symposium 2010, Bethesda, MD
 -	Justin Perry, SungPil Han, Lucy Boyd Kennedy, Bibiana Bielekova (2010) "Opposing regulation between lymphoid tissue inducer cells and immunoregulatory CD56bright NK cells underlies therapeutic benefit of daclizumab in multiple sclerosis", International Society of Neuroimmunology 2010, Sitges, Italy
 
-##INVITED TALKS 
+### INVITED TALKS 
 - NIH Neuroimmunology Branch Seminar 	Mar 2012	Bethesda, MD
 	 “Comprehensive Investigation of Mechanism of Action of DAC HYP in Patients with Multiple Sclerosis”
 - Annual Bioscience and Engineering Symposium	Nov 2011	Vienna, VA
@@ -79,7 +79,7 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 - PNU Research Festival 	Dec 2009	Gyeongju, Korea
 	“Genome-wide identification of Gli3 direct target genes during neurodevelopment”
 
-##GRANTS AND AWARDS
+### GRANTS AND AWARDS
 -	National Research Foundation, Korea - Medical Scientist Training Program Fellowship (2008~2015)
 -	National Institutes of Health - Intramural Research Fellowship (2010~2012)
 -	Annual Bioscience and Engineering Symposium - Travel Award (2011)
