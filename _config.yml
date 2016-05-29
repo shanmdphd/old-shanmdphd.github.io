@@ -48,14 +48,14 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Sungpil Han
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: shan@acp.kr
   disqus-shortname:
-  twitter: #username
+  twitter: wreckord
   facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  github: wreckord
+  stackexchange: users/1748866/sungpil-han
   linkedin: #username
   instagram: #username
   flickr: #username
