@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 excerpt: "Curriculum Vitae of Sungpil Han"
-search_omit: true
+search_omit: false
 ---
 
 # SungPil Han, M.D./Ph.D.
