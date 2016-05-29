@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://wreckord.github.io
+url: http://shanmdphd.github.io
 
 # Jekyll configuration
 
@@ -54,7 +54,7 @@ owner:
   disqus-shortname:
   twitter: wreckord
   facebook: #username
-  github: wreckord
+  github: shanmdphd
   stackexchange: users/1748866/sungpil-han
   linkedin: #username
   instagram: #username
