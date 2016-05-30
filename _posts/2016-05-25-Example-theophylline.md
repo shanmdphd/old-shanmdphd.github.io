@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Computing NCA Parameters for Theophylline"
 author: "Bill Denney"
 output:
