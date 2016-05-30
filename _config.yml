@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: shanmdphd.github.io
+title: Sungpil Han, MD/PhD
 locale: en_US
 description: Clinical Pharmacology and Therapeutics
 logo: #site-logo.png
@@ -43,13 +43,12 @@ post_layout: post
 page_layout: page
 
 # Format titles with titlecase?
-titlecase: false
-
+titlecase: true
 
 # Site owner
 owner:
   name: Sungpil Han
-  avatar: bio-photo.jpg
+  avatar: bio-photo.png
   email: shan@acp.kr
   disqus-shortname:
   twitter: wreckord
