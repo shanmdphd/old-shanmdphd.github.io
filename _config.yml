@@ -2,7 +2,7 @@
 
 title: Sungpil Han
 locale: en_US
-description: Describe your website here.
+description: Clinical Pharmacology and Therapeutics
 logo: site-logo.png
 search: true
 url: http://shanmdphd.github.io
@@ -43,7 +43,7 @@ post_layout: post
 page_layout: page
 
 # Format titles with titlecase?
-titlecase: true
+titlecase: false
 
 
 # Site owner
