@@ -1,11 +1,6 @@
 ---
 layout: post
 title: "Computing NCA Parameters for Theophylline"
-author: "Bill Denney"
-output:
-  html_document:
-    toc: false
-    toc_depth: 2
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 2016-05-29 it's a difficult way.
 date: 2016-05-29
 tags: Clinical Pharmacology, 
