@@ -1,7 +1,3 @@
-<!--
-%\VignetteEngine{knitr::rmarkdown}
-%\VignetteIndexEntry{Computing NCA Parameters for Theophylline}
--->
 ---
 title: "Computing NCA Parameters for Theophylline"
 author: "Bill Denney"
