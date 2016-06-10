@@ -5,8 +5,6 @@ excerpt: "Curriculum Vitae of Sungpil Han"
 search_omit: false
 ---
 
-# SungPil Han, M.D./Ph.D.
-
 +82-10-6782-0522 shan@acp.kr
 Oct 2015
 
