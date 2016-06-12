@@ -21,6 +21,7 @@ Oct 2015
 -	Bachelor in Electrical Engineering	College of Engineering	2000 – 2007		
 
 ## EXPERIENCE
+#### ASAN MEDICAL CENTER
 
 #### NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
 -	Predoctoral Fellow	Neuroimmunology branch, NINDS	2010~2012
