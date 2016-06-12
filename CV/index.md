@@ -11,16 +11,17 @@ Oct 2015
 ### EDUCATION
 
 #### PUSAN NATIONAL UNIVERSITY	GPA : 3.94/4.50	Pusan, Korea
-* M.D./Ph.D. in Molecular Cell Biology and Genetics	School of Medicine	2007 - 2015 	
+* M.D./Ph.D. in Molecular Cell Biology and Genetics	School of Medicine	2007 - 2015
 * Ph.D. Dissertation research performed through NIH Graduate Partnership Program (2010-2012)
 
 #### UNIVERSITY OF LONDON-RHUL 		London, UK
 -	Exchange Student	Department of Computer Science	2005 – 2006
 
 #### KOREA UNIVERSITY	GPA:3.34/4.00	Seoul, Korea
--	Bachelor in Electrical Engineering	College of Engineering	2000 – 2007		
+-	Bachelor in Electrical Engineering	College of Engineering	2000 – 2007
 
 ## EXPERIENCE
+
 #### ASAN MEDICAL CENTER
 
 #### NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
@@ -32,7 +33,7 @@ Oct 2015
 
 #### PUSAN NATIONAL UNIVERSITY		Pusan, Korea
 -	Research Assistant	School of Medicine	2009
--	Advisor: Saeock Oh, M.D., Ph.D. 
+-	Advisor: Saeock Oh, M.D., Ph.D.
 -	Investigate a role of Epithelial-Mesenchymal Transition(EMT)-related transcription factor, Snail in metastastic potential of glioblastoma multiforme
 
 #### JOHNS HOPKINS UNIVERSITY		Baltimore, MD
@@ -46,18 +47,18 @@ Oct 2015
 ### PUBLICATION
 -	Han S*, Lin YC*, Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (*. Equal Contribution)
    (Impact factor : 4.922)
--	Perry JS*, Han S*, Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis" 
+-	Perry JS*, Han S*, Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis"
 Science Translational Medicine. 2012;4(145); 145ra106. DOI: 10.1126/scitranslmed.3004140   (*. Equal Contribution)
    (Impact factor : 15.843)
--	Wuest SC, Edwan JH, Martin JF, Han S, Perry JS, Cartagena CM, Matsuura E, Maric D, Waldmann TA, Bielekova B. (2011) "A vital role for IL-2 trans-presentation in DC-mediated T cell activation in humans as revealed by daclizumab therapy" 
+-	Wuest SC, Edwan JH, Martin JF, Han S, Perry JS, Cartagena CM, Matsuura E, Maric D, Waldmann TA, Bielekova B. (2011) "A vital role for IL-2 trans-presentation in DC-mediated T cell activation in humans as revealed by daclizumab therapy"
 Nature Medicine. 2011;17(5);604-609. DOI: 10.1038/nm.2365
    (Impact factor : 27.363)
--	Han S, Kim JH, Han ME, Sim HE, Kim KS, Yoon S, Baek SY, Kim BS, Oh SO. (2011) "SNAI1 is Involved in the Proliferation and Migration of Glioblastoma Cells." 
+-	Han S, Kim JH, Han ME, Sim HE, Kim KS, Yoon S, Baek SY, Kim BS, Oh SO. (2011) "SNAI1 is Involved in the Proliferation and Migration of Glioblastoma Cells."
 Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010-9643-4
    (Impact factor : 2.506)
 
 ### PROCEEDINGS
--	Sungpil Han, Alan Salgado, Tariq Alfahad and Bibiana Bielekova (2012) “Flow Cytometric Immunophenotyping of the Blood and CSF of Patients with Multiple Sclerosis” 64th American Academy of Neurology 2012, New Orleans, LA 
+-	Sungpil Han, Alan Salgado, Tariq Alfahad and Bibiana Bielekova (2012) “Flow Cytometric Immunophenotyping of the Blood and CSF of Patients with Multiple Sclerosis” 64th American Academy of Neurology 2012, New Orleans, LA
 -	Simone Wuest, SungPil Han, Jayne Martin, Dragan Maric, Bibiana Bielekova (2011) “Anti-CD25 Antibody Inhibits Antigen-specific T cell Expansion by Blocking IL-2 Transpresentation by Dendritic Cells”, Federation of Clinical Immunology Societies 2011, Washington DC
 -	Justin Perry, SungPil Han, Lucy Kennedy, Bibiana Bielekova (2011) "Opposing Developmental Regulation Between Lymphoid Tissue Inducer Cells and Immunoregulatory CD56bright NK Cells Contributes to Therapeutic Benefit of Daclizumab in Multiple Sclerosis", Federation of Clinical Immunology Societies 2011, Washington DC
 -	SungPil Han, Justin Perry, Kory Johnson, Bibiana Bielekova (2011) "Signaling Though High- versus Intermediate-affinity Interleukin-2 (IL-2) Receptor Provides Qualitatively Different Signals to T cells", Annual conference of National Institute of Neurological Disorders and Stroke 2011, VA
@@ -67,7 +68,7 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 -	SungPil Han, Bibiana Bielekova (2010) "Comprehensive investigation of the mechanism of action of CD25-blocking Ab DAC-HYP in multiple sclerosis", Annual Bioscience and Engineering Symposium 2010, Bethesda, MD
 -	Justin Perry, SungPil Han, Lucy Boyd Kennedy, Bibiana Bielekova (2010) "Opposing regulation between lymphoid tissue inducer cells and immunoregulatory CD56bright NK cells underlies therapeutic benefit of daclizumab in multiple sclerosis", International Society of Neuroimmunology 2010, Sitges, Italy
 
-### INVITED TALKS 
+### INVITED TALKS
 - NIH Neuroimmunology Branch Seminar 	Mar 2012	Bethesda, MD
 	 “Comprehensive Investigation of Mechanism of Action of DAC HYP in Patients with Multiple Sclerosis”
 - Annual Bioscience and Engineering Symposium	Nov 2011	Vienna, VA
@@ -85,11 +86,11 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 -	National Research Foundation, Korea - Brain Korea 21, Global Internship Fellowship (2010)
 -	National Research Foundation, Korea - Brain Korea 21, Graduate Student Fellowship (2007, 2008)
 -	Pusan National University - Full Scholarship of Academic Achievement (2007,2008)
--	Korea University - Full Scholarship for Exchange Student to University of London (2005,2006) 
+-	Korea University - Full Scholarship for Exchange Student to University of London (2005,2006)
 -	Korea University - Partial Scholarship of Academic Achievement  (2001)
 
 ### SCIENTIFIC SOCIETY AND CONSORTIA MEMBERSHIP
--	2010- Member, American Academy of Neurology (AAN) 
+-	2010- Member, American Academy of Neurology (AAN)
 -	2011- Member, Federation of Clinical Immunology Societies (FOCIS)
 -	2011- Member, Korean-American Scientists and Engineers Association (KSEA) : NIH-KSA(2010- ), KASBP(2012- )
 
@@ -99,17 +100,17 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 
 ### REFERENCE
 -	Investigator Bibiana Bielekova M.D.
-o	Chief of Neuroimmunological Diseases Unit(NDU) 
+o	Chief of Neuroimmunological Diseases Unit(NDU)
 o	Neuroimmunology Branch, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.
 o	Tel : (301) 402-4488
-o	E-mail : Bibi.Bielekova@nih.gov 
+o	E-mail : Bibi.Bielekova@nih.gov
 -	Professor Charles G. Eberhart, M.D./Ph.D.
 o	Associate Professor of Departments of Pathology, Ophthalmology, and Oncology
 o	Johns Hopkins University School of Medicine
 o	Tel : (410) 955-3455
-o	E-mail : ceberha@jhmi.edu 
+o	E-mail : ceberha@jhmi.edu
 -	Professor Saeock Oh, M.D., Ph.D.
 o	Associate professor of Department of Anatomy
 o	School of Medicine, Pusan National University, Mulgeum-Eup, Beomeo-Ri, Yangsan, South Korea 626770
 o	Tel : +82-51-510-8045
-o	E-mail : hedgehog@pusan.ac.kr 
+o	E-mail : hedgehog@pusan.ac.kr
