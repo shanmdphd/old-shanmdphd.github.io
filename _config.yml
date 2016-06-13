@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Sungpil Han, MD/PhD
+title: Sungpil Han, M.D/Ph.D
 locale: en_US
-description: Clinical Pharmacology and Therapeutics
+description: Neuroimmunology, Data Science, Clinical Pharmacology and Therapeutics
 logo: #site-logo.png
 search: true
 url: http://shanmdphd.github.io
@@ -50,7 +50,7 @@ owner:
   name: Sungpil Han
   avatar: bio-photo.png
   email: shan@acp.kr
-  disqus-shortname: pil.han@gmail.com
+  disqus-shortname: shanmdphd
   twitter: wreckord
   facebook: #username
   github: shanmdphd
@@ -58,7 +58,7 @@ owner:
   linkedin: pil.han@gmail.com #username
   instagram: #username
   flickr: #username
-  tumblr: sungpil#username
+  tumblr: sungpil #username
   pinterest: #username
   weibo: #userid
   google:
