@@ -5,8 +5,8 @@ excerpt: "Curriculum Vitae of Sungpil Han"
 search_omit: false
 ---
 
-+82-10-6782-0522 shan@acp.kr
-Oct 2015
++82-2-3010-4614 shan@acp.kr
+Jul 2016
 
 ### EDUCATION
 
@@ -15,14 +15,20 @@ Oct 2015
 * Ph.D. Dissertation research performed through NIH Graduate Partnership Program (2010-2012)
 
 #### UNIVERSITY OF LONDON-RHUL 		London, UK
--	Exchange Student	Department of Computer Science	2005 – 2006
+-	Exchange Student, Department of Computer Science	2005 – 2006
 
 #### KOREA UNIVERSITY	GPA:3.34/4.00	Seoul, Korea
--	Bachelor in Electrical Engineering	College of Engineering	2000 – 2007
+-	Bachelor in Electrical Engineering, College of Engineering	2000 – 2007
 
-## EXPERIENCE
+### CLINICAL EXPERIENCE
 
-#### ASAN MEDICAL CENTER
+#### ASAN MEDICAL CENTER, Seoul, Korea
+- Resident, Department of Clinical Pharmacology and Therapeutics
+
+#### ASAN MEDICAL CENTER, Seoul, Korea
+- Intern Physician
+
+### RESEARCH EXPERIENCE
 
 #### NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
 -	Predoctoral Fellow	Neuroimmunology branch, NINDS	2010~2012
@@ -46,16 +52,16 @@ Oct 2015
 
 ### PUBLICATION
 -	Han S*, Lin YC*, Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (*. Equal Contribution)
-   (Impact factor : 4.922)
+   (Impact factor : 4.985)
 -	Perry JS*, Han S*, Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis"
 Science Translational Medicine. 2012;4(145); 145ra106. DOI: 10.1126/scitranslmed.3004140   (*. Equal Contribution)
-   (Impact factor : 15.843)
+   (2015 Impact factor : 16.264)
 -	Wuest SC, Edwan JH, Martin JF, Han S, Perry JS, Cartagena CM, Matsuura E, Maric D, Waldmann TA, Bielekova B. (2011) "A vital role for IL-2 trans-presentation in DC-mediated T cell activation in humans as revealed by daclizumab therapy"
 Nature Medicine. 2011;17(5);604-609. DOI: 10.1038/nm.2365
-   (Impact factor : 27.363)
+   (Impact factor : 30.357)
 -	Han S, Kim JH, Han ME, Sim HE, Kim KS, Yoon S, Baek SY, Kim BS, Oh SO. (2011) "SNAI1 is Involved in the Proliferation and Migration of Glioblastoma Cells."
 Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010-9643-4
-   (Impact factor : 2.506)
+   (Impact factor : 2.328)
 
 ### PROCEEDINGS
 -	Sungpil Han, Alan Salgado, Tariq Alfahad and Bibiana Bielekova (2012) “Flow Cytometric Immunophenotyping of the Blood and CSF of Patients with Multiple Sclerosis” 64th American Academy of Neurology 2012, New Orleans, LA
