@@ -1,6 +1,6 @@
 ---
 title: descriptive statistics 구하는 package
-layout:post
+layout: post
 ---
 
 ```
