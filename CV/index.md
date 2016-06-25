@@ -8,7 +8,7 @@ search_omit: false
 +82-2-3010-4614 shan@acp.kr
 Jul 2016
 
-Keywords: Clinical Trial, Data science, Big Data, visualization (ggplot2, Boxplots, maps, animation), programming (RStudio, Sweave, LaTeX, SQL, JAVA, Eclipse, git, hadoop, Web Scraping) statistics (regression, PCA, time series)
+Interested in: Immunology, Neuroimmunology, Drug development, Clinical Trial, Data science, Big Data, visualization (ggplot2, Boxplots, maps, animation), programming (RStudio, Sweave, LaTeX, SQL, JAVA, Eclipse, git, hadoop, Web Scraping) statistics (ANOVA, regression, PCA, time series)
 
 ### EDUCATION
 
