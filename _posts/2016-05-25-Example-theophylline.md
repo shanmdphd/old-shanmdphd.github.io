@@ -3,11 +3,11 @@ layout: post
 title: "Computing NCA Parameters for Theophylline"
 ---
 
-
+PKNCA 패키지를 사용하는 방법이 나와있습니다.
 
 Examples simplify understanding.  Below is an example of how to use the theophylline dataset to generate NCA parameters.
 
-# Load the data
+# Load the data 데이타 불러오기.
 
 
 ```r
