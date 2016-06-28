@@ -39,3 +39,12 @@ layout: post
 ![스크린샷 2016-06-23 16.27.28](http://i.imgur.com/B46Rufv.png)
 ![스크린샷 2016-06-23 16.27.36](http://i.imgur.com/Mxmzcgp.png)
 ![스크린샷 2016-06-23 16.27.43](http://i.imgur.com/nBLuN47.png)
+
+### 과거자료
+Tamox -(CYP2D6)-> Z-4 hydroxy Tamoxifen
+N-desmethyl-tamoxifen -(CYP2D6)-> endoxifen
+
+Clinical benefit
+CYP2D6*10/*10
+Genotype이 treatment effect에 영향을 미친다.
+Shorter TTP in patients with CYP2D6*10/*10 than those with the other genotypes
