@@ -3,6 +3,7 @@ title: NINDS News
 layout: post
 comments: true
 share: true
+categories: News
 tags: [NINDS, NIH, News]
 ---
 
