@@ -3,6 +3,7 @@ title: NINDS News
 layout: post
 comments: true
 share: true
+tags: [NINDS, NIH, News]
 ---
 
 [NIH researchers implicate unique cell type in multiple sclerosis
