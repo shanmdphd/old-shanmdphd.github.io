@@ -5,7 +5,7 @@ excerpt: "Pathway to the physician-scientist"
 modified: 2014-08-08T19:44:38.564948-04:00
 comments: true
 image:
-  feature: PhilDoc.jpg
+  feature: sc.png
 ---
 
 http://scientificcritics.com/board/index.html?id=life&no=16
