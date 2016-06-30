@@ -3,13 +3,16 @@
 - title: About
   url: /about/
 
-- title: Publication
-  url: https://scholar.google.com/citations?user=TUK927cAAAAJ&hl=en
-
 - title: CV
   url: /CV/
 
-- title: Clinical Pharmacology
+- title: News
+  url: /News/
+
+- title: Publication
+  url: https://scholar.google.com/citations?user=TUK927cAAAAJ&hl=en
+
+- title: CPT
   url: /CPT/
 
 - title: Conferences
