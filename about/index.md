@@ -4,6 +4,8 @@ title: Only those who will risk going too far possibly finds out how far one can
 excerpt: "Pathway to the physician-scientist"
 modified: 2014-08-08T19:44:38.564948-04:00
 comments: true
+image:
+  feature: http://i.imgur.com/8NHVD87.jpg
 ---
 
 http://scientificcritics.com/board/index.html?id=life&no=16
