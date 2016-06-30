@@ -53,9 +53,9 @@ Interested in: Immunology, Neuroimmunology, Drug development, Clinical Trial, Da
 -	Clinical Elective in Neurosurgery and Pathology	School of Medicine	2008
 
 ### PUBLICATION
--	Han S*, Lin YC*, Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (*. Equal Contribution)
+-	Han S\*, Lin YC\*, Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (*. Equal Contribution)
    (Impact factor : 4.985)
--	Perry JS*, Han S*, Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis"
+-	Perry JS\*, Han S\*, Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis"
 Science Translational Medicine. 2012;4(145); 145ra106. DOI: 10.1126/scitranslmed.3004140   (*. Equal Contribution)
    (2015 Impact factor : 16.264)
 -	Wuest SC, Edwan JH, Martin JF, Han S, Perry JS, Cartagena CM, Matsuura E, Maric D, Waldmann TA, Bielekova B. (2011) "A vital role for IL-2 trans-presentation in DC-mediated T cell activation in humans as revealed by daclizumab therapy"
@@ -98,12 +98,14 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 -	Korea University - Partial Scholarship of Academic Achievement  (2001)
 
 ### SCIENTIFIC SOCIETY AND CONSORTIA MEMBERSHIP
+- 2016- Member, Korean Society of Clinical Pharmacology and Therapeutics
 -	2010- Member, American Academy of Neurology (AAN)
 -	2011- Member, Federation of Clinical Immunology Societies (FOCIS)
 -	2011- Member, Korean-American Scientists and Engineers Association (KSEA) : NIH-KSA(2010- ), KASBP(2012- )
 
 ### TEACHING EXPERIENCE
--	2010, NINDS Summer Internship, Mentor for a college student for the summer : Comprehensive Investigation on Mechanism of CD25-blocking Antibody in human
+- 2016, AMC Summer Internship, Mentor for medical students
+-	2010-2012, NINDS Summer Internship, Mentor for  college students for the summer : Comprehensive Investigation on Mechanism of CD25-blocking Antibody in human
 -	2009, "Creativity" Project, National Research Foundation of Korea, Mentor for Jangyoungsil Science High School students for a year : Mechanism of Action of siRNA
 
 ### REFERENCE

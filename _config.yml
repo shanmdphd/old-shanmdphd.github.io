@@ -9,7 +9,7 @@ url: http://shanmdphd.github.io
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:categories/:date/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
