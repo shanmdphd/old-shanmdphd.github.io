@@ -8,7 +8,7 @@ search: true
 url: http://shanmdphd.github.io
 
 # Jekyll configuration
-
+future: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
