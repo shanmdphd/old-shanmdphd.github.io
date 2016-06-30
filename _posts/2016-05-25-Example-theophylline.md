@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Computing NCA Parameters for Theophylline"
+title: "NCA 파라메터 계산하는 예시 for Theophylline"
+categories: CPT
 ---
 
 PKNCA 패키지를 사용하는 방법이 나와있습니다.
@@ -14,8 +15,6 @@ Examples simplify understanding.  Below is an example of how to use the theophyl
 ## 전체 데이타 보기.
 knitr::kable(datasets::Theoph)
 ```
-
-
 
 |Subject |   Wt| Dose|  Time|  conc|
 |:-------|----:|----:|-----:|-----:|
