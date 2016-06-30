@@ -1,9 +1,9 @@
 ---
 title: NINDS News
 layout: post
+categories: News
 comments: true
 share: true
-categories: News
 tags: [NINDS, NIH, News]
 ---
 
