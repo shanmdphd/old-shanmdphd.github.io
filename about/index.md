@@ -11,7 +11,7 @@ comments: true
 # 과학자를 꿈꾸는 그대에게
 
 
-[차례]
+## 차례
 
 I. 소개
 II. 고등학교시절–"신경과학자를 꿈꾸며"
@@ -100,7 +100,7 @@ Fig 8. 미국 보스톤에서 열린 International Society of Neuroimmunology (I
 
 메릴랜드에서
 한성필
-http://sungpilhan.org
+http://shanmdphd.github.io
 
 
 ## Reference

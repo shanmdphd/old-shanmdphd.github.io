@@ -3,6 +3,8 @@ layout: post
 title: "NCA 파라메터 계산하는 예시 for Theophylline"
 categories: CPT
 comments: true
+share: true
+tags: [CPT]
 ---
 
 PKNCA 패키지를 사용하는 방법이 나와있습니다.
