@@ -13,7 +13,6 @@ Examples simplify understanding.  Below is an example of how to use the theophyl
 
 # Load the data 데이타 불러오기.
 
-
 ```r
 ## 전체 데이타 보기.
 knitr::kable(datasets::Theoph)

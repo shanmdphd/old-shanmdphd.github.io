@@ -4,6 +4,7 @@ title: Pathway to the physician-scientist
 excerpt: "Pathway to the physician-scientist"
 modified: 2014-08-08T19:44:38.564948-04:00
 comments: true
+tags: [Physician-Scientist, Systems Biology, Neuroimmunology]
 ---
 
 [Scientific Critics](http://scientificcritics.com/board/index.html?id=life&no=16)에 2012년 기고한 글을 가져왔습니다. - shan, July 2016
