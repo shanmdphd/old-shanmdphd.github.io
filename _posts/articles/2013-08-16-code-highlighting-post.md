@@ -1,13 +1,8 @@
 ---
 layout: post
-title: Syntax Highlighting Post
+title: Jekyll 공부하기 - Syntax Highlighting
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-categories: articles
-tags: [sample-post, code, highlighting]
-image:
-  feature: so-simple-sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+tags: [Jekyll, Ruby]
 comments: true
 share: true
 ---
