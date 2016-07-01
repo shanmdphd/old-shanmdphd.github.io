@@ -4,10 +4,6 @@ title: MathJax 예제
 excerpt:
 tags: [MathJax, Jekyll]
 categories:
-image:
-  feature:
-date:
-modified:
 share: true
 comment: true
 ---
