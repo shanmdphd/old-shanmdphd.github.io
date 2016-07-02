@@ -5,6 +5,7 @@ tags: [R, Data Science]
 categories: DataScience
 share: true
 comments: true
+autolink: true
 ---
 
 정독할만 합니다. 특히 작명(?)하는 법, attach 사용하지 말라는 것, 그리고 TODO(username)이 새로운 점입니다.
