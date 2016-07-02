@@ -6,12 +6,16 @@ description: Clinical Pharmacology and Therapeutics, Data Science, Neuroimmunolo
 logo: #site-logo.png
 search: true
 url: http://shanmdphd.github.io
-autolink: true
 
 # Jekyll configuration
 future: true
 permalink:   pretty
 markdown:    kramdown
+kramdown:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
 highlighter: rouge
 sass:
   sass_dir: _sass
