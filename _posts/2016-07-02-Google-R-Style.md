@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Google R style
-excerpt: 구글이 제시하는 R style.
 tags: [R, Data Science]
 categories: DataScience
-date: 2016-07-02
 share: true
 comments: true
 ---
