@@ -8,7 +8,8 @@ search_omit: false
 Contact: +82-2-3010-4614; shan@acp.kr
 Last commit: 2016.07
 
-Interest: 
+Interest:
+
 - Immunology, Neuroimmunology(multiple sclerosis),
 - Drug development, Clinical Trial, 
 - Data science, Big Data,
