@@ -7,8 +7,6 @@ search_omit: false
 
 +82-2-3010-4614; shan@acp.kr; 2016.07
 
-의사, 의학박사, 과학자
-
 Interest:
 
 - Immunology, Neuroimmunology(multiple sclerosis),
