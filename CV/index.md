@@ -9,12 +9,12 @@ Contact: +82-2-3010-4614; shan@acp.kr
 Last commit: 2016.07
 
 Interest: 
-- Immunology, Neuroimmunology, 
+- Immunology, Neuroimmunology(multiple sclerosis),
 - Drug development, Clinical Trial, 
-- Data science, Big Data, 
-- Visualization (ggplot2, Boxplots, maps, animation), 
-- Programming (RStudio, Sweave, LaTeX, SQL, JAVA, Eclipse, git, hadoop, Web Scraping) 
-- Statistics (ANOVA, regression, PCA, time series)
+- Data science, Big Data,
+- Visualization (ggplot2, Boxplots, maps, animation),
+- Programming (RStudio, LaTeX, SQL, JAVA, Eclipse, git)
+- Statistics (ANOVA, regression, PCA, time series),
 - Skateboarding
 
 ### EDUCATION
@@ -104,28 +104,36 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 
 ### SCIENTIFIC SOCIETY AND CONSORTIA MEMBERSHIP
 - 2016- Member, Korean Society of Clinical Pharmacology and Therapeutics
--	2010- Member, American Academy of Neurology (AAN)
--	2011- Member, Federation of Clinical Immunology Societies (FOCIS)
--	2011- Member, Korean-American Scientists and Engineers Association (KSEA) : NIH-KSA(2010- ), KASBP(2012- )
+- 2010- Member, American Academy of Neurology (AAN)
+- 2011- Member, Federation of Clinical Immunology Societies (FOCIS)
+- 2011- Member, Korean-American Scientists and Engineers Association (KSEA) : NIH-KSA(2010- ), KASBP(2012- )
 
 ### TEACHING EXPERIENCE
 - 2016, AMC Summer Internship, Mentor for medical students
--	2010-2012, NINDS Summer Internship, Mentor for  college students for the summer : Comprehensive Investigation on Mechanism of CD25-blocking Antibody in human
--	2009, "Creativity" Project, National Research Foundation of Korea, Mentor for Jangyoungsil Science High School students for a year : Mechanism of Action of siRNA
+- 2010-2012, NINDS Summer Internship, Mentor for  college students for the summer : Comprehensive Investigation on Mechanism of CD25-blocking Antibody in human
+- 2009, "Creativity" Project, National Research Foundation of Korea, Mentor for Jangyoungsil Science High School students for a year : Mechanism of Action of siRNA
 
 ### REFERENCE
--	Investigator Bibiana Bielekova M.D.
-o	Chief of Neuroimmunological Diseases Unit(NDU)
-o	Neuroimmunology Branch, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.
-o	Tel : (301) 402-4488
-o	E-mail : Bibi.Bielekova@nih.gov
--	Professor Charles G. Eberhart, M.D./Ph.D.
-o	Associate Professor of Departments of Pathology, Ophthalmology, and Oncology
-o	Johns Hopkins University School of Medicine
-o	Tel : (410) 955-3455
-o	E-mail : ceberha@jhmi.edu
--	Professor Saeock Oh, M.D., Ph.D.
-o	Associate professor of Department of Anatomy
-o	School of Medicine, Pusan National University, Mulgeum-Eup, Beomeo-Ri, Yangsan, South Korea 626770
-o	Tel : +82-51-510-8045
-o	E-mail : hedgehog@pusan.ac.kr
+#### Professor Kyun-Seop Bae, M.D./Ph.D.
+- Chief of Department of Clinical Pharmacology of Therapeutics
+- Asan Medical Center, Seoul, School of Medicine, University of Ulsan
+- Tel : +82-2-3010-4645
+- E-mail : ksbae@acp.kr
+
+#### Investigator Bibiana Bielekova, M.D.
+- Chief of Neuroimmunological Diseases Unit(NDU)
+- Neuroimmunology Branch, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.
+- Tel : (301) 402-4488
+- E-mail : Bibi.Bielekova@nih.gov
+
+#### Professor Charles G. Eberhart, M.D./Ph.D.
+- Associate Professor of Departments of Pathology, Ophthalmology, and Oncology
+- Johns Hopkins University School of Medicine
+- Tel : (410) 955-3455
+- E-mail : ceberha@jhmi.edu
+
+#### Professor Saeock Oh, M.D., Ph.D.
+- Associate professor of Department of Anatomy
+- School of Medicine, Pusan National University, Mulgeum-Eup, Beomeo-Ri, Yangsan, South Korea 626770
+- Tel : +82-51-510-8045
+- E-mail : hedgehog@pusan.ac.kr
