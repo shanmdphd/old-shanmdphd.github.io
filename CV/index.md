@@ -48,8 +48,8 @@ Interest:
 -	Investigate the mechanism of action of DAC HYP by observing surface cell phenotype, cell signaling, microarray data and transcription factors
 -	Probe the immune response in MS patients' cerebrospinal fluid(CSF) by means of 12-color flow cytometry technique
 
-#### PUSAN NATIONAL UNIVERSITY, Pusan, Korea
--	Research Assistant	School of Medicine	2009
+#### PUSAN NATIONAL UNIVERSITY, School of Medicine, Pusan, Korea
+-	Research Assistant	2009
 -	Advisor: Saeock Oh, M.D., Ph.D.
 -	Investigate a role of Epithelial-Mesenchymal Transition(EMT)-related transcription factor, Snail in metastastic potential of glioblastoma multiforme
 
