@@ -8,16 +8,23 @@ search_omit: false
 Contact: +82-2-3010-4614; shan@acp.kr
 Last commit: 2016.07
 
-Interested in: Immunology, Neuroimmunology, Drug development, Clinical Trial, Data science, Big Data, visualization (ggplot2, Boxplots, maps, animation), programming (RStudio, Sweave, LaTeX, SQL, JAVA, Eclipse, git, hadoop, Web Scraping) statistics (ANOVA, regression, PCA, time series)
+Interest: 
+- Immunology, Neuroimmunology, 
+- Drug development, Clinical Trial, 
+- Data science, Big Data, 
+- Visualization (ggplot2, Boxplots, maps, animation), 
+- Programming (RStudio, Sweave, LaTeX, SQL, JAVA, Eclipse, git, hadoop, Web Scraping) 
+- Statistics (ANOVA, regression, PCA, time series)
+- Skateboarding
 
-## EDUCATION
+### EDUCATION
 
-### Pusan National University, School of Medicine, Pusan, Korea
+#### Pusan National University, School of Medicine, Pusan, Korea
 - M.D./Ph.D. in Molecular Cell Biology and Genetics 2007.03-2015.02
 - Ph.D. Dissertation research performed through NIH Graduate Partnership Program, Bethesda, MD 2010.01-2012.12
 - GPA : 3.94/4.50
 
-### University of London, Royal Holloway, Department of Computer Science, London, UK
+#### University of London, Royal Holloway, Department of Computer Science, London, UK
 - Exchange Student 2005.09–2006.08
 
 #### Korea University, College of Engineering, Seoul, Korea
@@ -27,32 +34,32 @@ Interested in: Immunology, Neuroimmunology, Drug development, Clinical Trial, Da
 ### CLINICAL EXPERIENCE
 
 #### ASAN MEDICAL CENTER, Seoul, Korea
-- Resident, Department of Clinical Pharmacology and Therapeutics
+- Resident, Department of Clinical Pharmacology and Therapeutics 2016.03-Current
 
 #### ASAN MEDICAL CENTER, Seoul, Korea
-- Intern Physician 20
+- Intern Physician 2015.03-2016.02
 
 ### RESEARCH EXPERIENCE
 
-#### NATIONAL INSTITUTES OF HEALTH		Bethesda, MD
--	Predoctoral Fellow	Neuroimmunology branch, NINDS	2010~2012
+#### National Institutes of Health Bethesda, MD
+-	Predoctoral Fellow	Neuroimmunology branch, NINDS	2010.01-2012.12
 -	Advisor: Bibiana Bielekova, M.D.
 -	Participate in phase I clinical trial of DAC HYP for multiple sclerosis patients (Anti-IL-2-receptor alpha chain antibody : Biogen Idec, Inc.)
 -	Investigate the mechanism of action of DAC HYP by observing surface cell phenotype, cell signaling, microarray data and transcription factors
 -	Probe the immune response in MS patients' cerebrospinal fluid(CSF) by means of 12-color flow cytometry technique
 
-#### PUSAN NATIONAL UNIVERSITY		Pusan, Korea
+#### PUSAN NATIONAL UNIVERSITY, Pusan, Korea
 -	Research Assistant	School of Medicine	2009
 -	Advisor: Saeock Oh, M.D., Ph.D.
 -	Investigate a role of Epithelial-Mesenchymal Transition(EMT)-related transcription factor, Snail in metastastic potential of glioblastoma multiforme
 
-#### JOHNS HOPKINS UNIVERSITY		Baltimore, MD
--	Research Elective in Neuropathology	School of Medicine	2009
+#### JOHNS HOPKINS UNIVERSITY, Baltimore, MD
+-	Research Elective in Neuropathology	School of Medicine	2009.02-2009.04
 -	Advisor : Charles Eberhart, M.D./Ph.D. and Eric H. Raabe, M.D./Ph.D.
 -	Investigate the developmental relationship between human neural stem cells and pediatric brain tumors
 
-#### KYUSHU UNIVERSITY		Fukuoka, Japan
--	Clinical Elective in Neurosurgery and Pathology	School of Medicine	2008
+#### KYUSHU UNIVERSITY, Fukuoka, Japan
+- Clinical Elective in Neurosurgery and Pathology	School of Medicine 2008.08
 
 ### [PUBLICATION](https://scholar.google.com/citations?user=TUK927cAAAAJ&hl=en)
 -	Han S\*, Lin YC\* (*. Equal Contribution), Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (Impact factor : 4.985)
