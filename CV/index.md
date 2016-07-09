@@ -33,10 +33,10 @@ Interest:
 
 ### CLINICAL EXPERIENCE
 
-#### ASAN MEDICAL CENTER, Seoul, Korea
+#### Asan Medical Center, Seoul, Korea
 - Resident, Department of Clinical Pharmacology and Therapeutics 2016.03-Current
 
-#### ASAN MEDICAL CENTER, Seoul, Korea
+#### Asan Medical Center, Seoul, Korea
 - Intern Physician 2015.03-2016.02
 
 ### RESEARCH EXPERIENCE
@@ -58,7 +58,7 @@ Interest:
 -	Advisor : Charles Eberhart, M.D./Ph.D. and Eric H. Raabe, M.D./Ph.D.
 -	Investigate the developmental relationship between human neural stem cells and pediatric brain tumors
 
-#### KYUSHU UNIVERSITY, Fukuoka, Japan
+#### Kyushu University, Fukuoka, Japan
 - Clinical Elective in Neurosurgery and Pathology	School of Medicine 2008.08
 
 ### [PUBLICATION](https://scholar.google.com/citations?user=TUK927cAAAAJ&hl=en)

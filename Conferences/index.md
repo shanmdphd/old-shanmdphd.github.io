@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conferences
-excerpt: "Conferences."
+excerpt: "Conferences"
 search_omit: false
 ---
 
