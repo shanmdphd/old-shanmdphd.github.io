@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Clinical Pharmacology and Therapeutics
-excerpt: "CPT"
+title: Personal
+excerpt: "Personal"
 search_omit: false
 ---
 
 <ul class="post-list">
-{% for post in site.categories.CPT %}
+{% for post in site.categories.Personal %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
