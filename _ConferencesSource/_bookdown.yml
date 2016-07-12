@@ -1,5 +1,5 @@
 book_filename: bookdown
 chapter_name: "Chapter "
-repo: https://github.com/rstudio/bookdown/
-output_dir: ../Conferences
-clean: [packages.bib, bookdown.bbl]
+repo: https://github.com/shanmdphd/shanmdphd.github.io
+output_dir: ../ConferencesBook
+
