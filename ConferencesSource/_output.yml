@@ -10,7 +10,7 @@ bookdown::gitbook:
         <li><a href="https://shanmdphd.github.io" target="blank">Back to shanmdphd.github.io</a></li>
     download: [pdf, epub, mobi]
     edit:
-      link: https://github.com/shanmdphd/shanmdphd.github.io/edit/master/ConferencesSource/%s
+      link: https://github.com/shanmdphd/shanmdphd/edit/master/ConferencesSource/%s
       text: "Edit"
 
 bookdown::html_chapters:
