@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>PRISM 2016</title>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <meta name="description" content="A guide to authoring books with R Markdown, including how to generate figures and tables, and insert cross-references, citations, HTML widgets, and Shiny apps in R Markdown. The book can be exported to HTML, PDF, and e-books (e.g. EPUB). The book style is customizable. You can easily write and preview the book in RStudio IDE or other editors, and host the book wherever you want (e.g. bookdown.org).">
+  <meta name="generator" content="bookdown 0.0.79 and GitBook 2.6.7">
+
+  <meta property="og:title" content="PRISM 2016" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://shanmdphd.github.io/ConferenceBook/" />
+  <meta property="og:image" content="https://shanmdphd.github.io/ConferenceBook/images/cover.png" />
+  <meta property="og:description" content="A guide to authoring books with R Markdown, including how to generate figures and tables, and insert cross-references, citations, HTML widgets, and Shiny apps in R Markdown. The book can be exported to HTML, PDF, and e-books (e.g. EPUB). The book style is customizable. You can easily write and preview the book in RStudio IDE or other editors, and host the book wherever you want (e.g. bookdown.org)." />
+  <meta name="github-repo" content="shanmdphd/PAPER" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="PRISM 2016" />
+  
+  <meta name="twitter:description" content="A guide to authoring books with R Markdown, including how to generate figures and tables, and insert cross-references, citations, HTML widgets, and Shiny apps in R Markdown. The book can be exported to HTML, PDF, and e-books (e.g. EPUB). The book style is customizable. You can easily write and preview the book in RStudio IDE or other editors, and host the book wherever you want (e.g. bookdown.org)." />
+  <meta name="twitter:image" content="https://shanmdphd.github.io/ConferenceBook/images/cover.png" />
+
+<meta name="author" content="Sungpil Han">
+
+<meta name="date" content="2016-07-13">
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  
+<link rel="prev" href="morning.html">
+
+
+<script src="libs/jquery/jquery.min.js"></script>
+<link href="libs/gitbook/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+</style>
+
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+
+<body>
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Conferences</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Prism</a><ul>
+<li class="chapter" data-level="1.1" data-path="morning.html"><a href="morning.html"><i class="fa fa-check"></i><b>1.1</b> Morning</a><ul>
+<li class="chapter" data-level="1.1.1" data-path="morning.html"><a href="morning.html#lim-covariate-model"><i class="fa fa-check"></i><b>1.1.1</b> Lim Covariate model</a></li>
+<li class="chapter" data-level="1.1.2" data-path="morning.html"><a href="morning.html#fda---lee"><i class="fa fa-check"></i><b>1.1.2</b> FDA - Lee</a></li>
+<li class="chapter" data-level="1.1.3" data-path="morning.html"><a href="morning.html#pfizer"><i class="fa fa-check"></i><b>1.1.3</b> Pfizer</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="prism-afternoon.html"><a href="prism-afternoon.html"><i class="fa fa-check"></i><b>1.2</b> PRISM Afternoon</a><ul>
+<li class="chapter" data-level="1.2.1" data-path="prism-afternoon.html"><a href="prism-afternoon.html#kim"><i class="fa fa-check"></i><b>1.2.1</b> Kim</a></li>
+<li class="chapter" data-level="1.2.2" data-path="prism-afternoon.html"><a href="prism-afternoon.html#strategic-application-of-pm-in-global-drug-development-experience-from-hanmi"><i class="fa fa-check"></i><b>1.2.2</b> Strategic application of PM in global drug development: Experience from Hanmi</a></li>
+<li class="chapter" data-level="1.2.3" data-path="prism-afternoon.html"><a href="prism-afternoon.html#mbdd"><i class="fa fa-check"></i><b>1.2.3</b> MBDD</a></li>
+<li class="chapter" data-level="1.2.4" data-path="prism-afternoon.html"><a href="prism-afternoon.html#pharmacometric-information-in-drug-label"><i class="fa fa-check"></i><b>1.2.4</b> Pharmacometric information in drug label</a></li>
+<li class="chapter" data-level="1.2.5" data-path="prism-afternoon.html"><a href="prism-afternoon.html#pharmacometrics-in-dose-optimization"><i class="fa fa-check"></i><b>1.2.5</b> Pharmacometrics in Dose Optimization</a></li>
+</ul></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">PRISM 2016</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="prism-afternoon" class="section level2">
+<h2><span class="header-section-number">1.2</span> PRISM Afternoon</h2>
+<p>2016.07.12</p>
+<div id="kim" class="section level3">
+<h3><span class="header-section-number">1.2.1</span> Kim</h3>
+<ul>
+<li>Modeling</li>
+<li>Buzz words</li>
+<li>M&amp;S</li>
+<li>SP&amp;PMx - MBDD - MIDD - MID3 (Drug discovery and deveopment)</li>
+<li>Lean, apply and confirm</li>
+<li>Case I : use of pk modeling in pre-cilnical stage
+<ul>
+<li>NOAEL : Rat 250mg, dog 500mg/kg</li>
+<li>Target exposure</li>
+<li>Questions - have we selected right starting dose? - FDA</li>
+<li>MRSD (FDA guidance) - following actions were taken</li>
+<li>Proposed FTiH dose were 50mg, 100mg~1200mga</li>
+<li>Dose 5-200mg</li>
+<li>MABEL, maybe a challenge but doable with lower s</li>
+<li>NOAEL - MABEL - allometry = we should use all of these.</li>
+</ul></li>
+<li>Case II : Use of PK in FTiH study Dose Escalation Stage
+<ul>
+<li>Unexpectedly longer half life (x5)</li>
+<li>everything is impacted. POC study</li>
+<li>Questions arose</li>
+<li>Emax model -&gt; nice when it’s adhered to the predicted.</li>
+<li>New formulation development</li>
+</ul></li>
+<li>Case III : Use of PK in FTiH / BIAL lab, BIOTRIAL research site in Rennes, France
+<ul>
+<li>BIA-102474-101 study design</li>
+<li>SAD 8 cohorts</li>
+<li>SAD -&gt; Food effect -&gt; MAD</li>
+<li>What caused these events - threshold, off-target pharmacology, FAAH inhibition</li>
+<li>TSSC report -&gt; Interesting observation related to PK - elimination HL of BIA is gradually extended. Non-proportionality begins.</li>
+<li>Non-proportionality - SAE probability</li>
+<li>Emax model - 80% !!! 50mg QD</li>
+<li>Recommendation : use of sentinel</li>
+</ul></li>
+<li>London incident, early human (Prediction)</li>
+<li>Summary - PK, PK/PD modeling and simulation is essential</li>
+</ul>
+<p><strong>Questions</strong> - 20<em>10 MAD -&gt; okay 50</em>5 MAD -&gt; not okay, why? - Eye drop -&gt; allometry experience?</p>
+</div>
+<div id="strategic-application-of-pm-in-global-drug-development-experience-from-hanmi" class="section level3">
+<h3><span class="header-section-number">1.2.2</span> Strategic application of PM in global drug development: Experience from Hanmi</h3>
+<ul>
+<li>Speaker: Lee Young Mi, Hanmi</li>
+<li>Why do we need PM? - biologically effective dose, earlier translational risk assessment, safety margin(systemic and quantitative translation of animal models to clinic), Pre-clinical modeling to guide clinical dosing, enhancing early stage decision-making, evidence-based decision making and accelerate drug approval</li>
+<li>Systemic and quantitative translational research. PK&amp;PD -&gt; target occupancy, mechanism</li>
+<li>Human PK projections - LAPSCOVERY development strategy
+<ul>
+<li>DRUG+AGLYCOSYLATED FC - Flexible linker</li>
+<li>Longer duration - once weekly, once monthly -&gt; FcRn mediated endothelium recycling / avoiding renal filtration!!!!! - Kidney failure patient can receive the LAPSCOVERY drug. Long-acting protein/peptide</li>
+<li>GLP1, insulin, somatostatin : peptide</li>
+<li>Protein : hGH, IFNa, mG-CSF</li>
+<li>Exendin-4 analog, IFNa -&gt; protein</li>
+<li>LAPSInsulin A (analog of insuling) -&gt; longer HL -&gt; human serum conc vs time profile</li>
+<li>Case 2. Targeted therapy &amp; surrogate PD marker</li>
+<li>It is important to select PD marker!!! Some cancer - hard to choose PD marker. (Eg. Lung ca)</li>
+<li>phosphoEGFR - OLITA (olmutinib) - breakthrough theray designation (FDA) by US FDA - phase II BTD -&gt; modeling when the n= increased??? -&gt; licensed out to Behringer Ingelheim</li>
+</ul></li>
+<li>Exposure-Response : PK-PD
+<ul>
+<li>Recommended dose selection - CRITICAL!!!</li>
+<li>PK-PD Xenograft</li>
+</ul></li>
+<li>Targeted therapy &amp; biomarkers - BRAF/KRASmut inhibitor
+<ul>
+<li>Next gen RAF inhibitor(PanRAF) (&lt;-&gt; Classical RAF inhibitor = rebound MAPK reacitivation)</li>
+<li>Methods difference (pMEK), (pERK) -&gt; aided dose seletion (lower exposure and the same PD marker)</li>
+</ul></li>
+<li>HM95573 and Cobimetinib in MAPK activated HCC cell lines
+<ul>
+<li>combination -&gt; can lower dose</li>
+</ul></li>
+</ul>
+</div>
+<div id="mbdd" class="section level3">
+<h3><span class="header-section-number">1.2.3</span> MBDD</h3>
+<ul>
+<li>Speaker: Lim</li>
+<li>MBDD (Learn &amp; confirm cycle) course run</li>
+<li>Information management tool = Modeling</li>
+<li>Quantitative information (GO/NO-GO decision)</li>
+<li>Various and diverse information</li>
+<li>Quick win, fast fail - PK/PD modeling and simulation
+<ul>
+<li>Abundance of drug discovery - preclinical development (Mechanism-based biomarker, imaging biomarker) - accelerated PoC (IIb/IIa) - confirmation, dose finding</li>
+</ul></li>
+<li>System-specific parameters, drug-specific parameters, structural model</li>
+<li>Extrapolation</li>
+<li>Quantify the exposure in remote and/or inaccessible</li>
+<li>Allometry vs PBPK
+<ul>
+<li>assumes that the nly diff between human and the other mammals is size = imprecise, mono-exponential elimination</li>
+</ul></li>
+<li>DHP107 - IV paclitaxel</li>
+<li>480mg/m2 was the most common MTD(Maximal Tolerability Dose) in virtual phase 1 trial for DHP107</li>
+<li>Case II - Ticagrelor PD
+<ul>
+<li>ticagrelor and AR-C124910XX</li>
+<li>Maximal platelet aggregation</li>
+</ul></li>
+<li>Case III - Early characterization of an antibiotics using bacterial time kill assays and human PK study
+<ul>
+<li>Preclinical PD + Human PK =&gt; Predict human PD</li>
+<li>Monte-Carlo simulation using PK/PD model</li>
+</ul></li>
+<li>Case IV - integrative PK/PD Model
+<ul>
+<li>16182HanLimPyung441) - MFDS</li>
+<li>Integrative, mechanistic PK/PD model</li>
+<li>Tumor size</li>
+</ul></li>
+</ul>
+<p><strong>Questions</strong> - NONMEM -&gt; PBPK? ADAPT?(Program?) - THETA, ETA (60-70) Generally 40</p>
+</div>
+<div id="pharmacometric-information-in-drug-label" class="section level3">
+<h3><span class="header-section-number">1.2.4</span> Pharmacometric information in drug label</h3>
+<ul>
+<li>Speaker : Bae</li>
+<li>Ocaliva (obeticholic acid tablets)
+<ul>
+<li>oral use | initial U.S. Approval 2016.05.27 - FXR agonist - Tx of PBC - Omega matrix -&gt; POPPK analysis</li>
+</ul></li>
+<li>NUPLAZID (pimavanserin)
+<ul>
+<li>Parkinson’s ds psychosis</li>
+<li>Oral</li>
+</ul></li>
+<li>POP modeling 구체적목적
+<ul>
+<li>fixed effects covariate 찾는다</li>
+<li>interintra subject random variability의 크기를 평가</li>
+<li>개인별 pk,pd</li>
+<li>농도, 폭로, 반응/효과, 유해반응 simulation하기 위한 모형을 구축</li>
+</ul></li>
+<li>Total variability
+<ul>
+<li>Fixed portion + random portion</li>
+<li>fixed effect = explainable
+<ul>
+<li>Eta (interindividual (random) variability)</li>
+</ul></li>
+<li>NONMEM
+<ul>
+<li>F = function of (theta, , covariates) # Fixed</li>
+<li>Y = function of (F, epsilon) # eta=0(무시)하면서 예측한경우 = Typical prediction</li>
+<li>theta = constant, nu~MVN(0,omega), eta~MVN(0, sigma) 확률변수</li>
+<li>Covariates - usually dose, time, demographics and other measurement</li>
+<li>Epsilon = express homoscedastic, proportional, exponential or combined errors</li>
+<li>Dose,time = covariate (statistics)</li>
+<li>Eta - Realized Eta = 0이 아닌 숫자화된 Eta (inter individual)고려해서 한거 - F:IPRE F:PRED(Typical prediction)</li>
+<li>Population Concept</li>
+<li>Eur J Pediatr(2015) 174:1671-8 <a href="http://link.springer.com/article/10.1007/s00431-015-2581-x" class="uri">http://link.springer.com/article/10.1007/s00431-015-2581-x</a> Prediction of plasma caffeine concentrations in young adolescents following ingestion of caffeinated energy drinks: a Monte Carlo simulation - Abstract</li>
+</ul></li>
+</ul></li>
+</ul>
+<blockquote>
+<p>The fast-growing consumption of caffeinated energy drinks (CEDs) is linked to increasing reports of caffeine intoxication in adolescents. There is limited data available regarding plasma caffeine concentrations in this population after CED intake and the potential implications for caffeine-related toxicity. This study was an in silico population pharmacokinetic analysis of caffeine. Population pharmacokinetic model of oral caffeine was derived from a previous study of healthy male volunteers. Maximal plasma caffeine concentration (C max) profiles following ingestion of one or two servings of popular CEDs were predicted using Monte Carlo simulation and available population body weight data of 10–15-year-old Korean adolescents. Caffeine C max values were positively correlated with the amount of caffeine ingested in CEDs and negatively correlated with body weight. The median (range) C max profiles varied from a low of 1.2 (0.5–2.6) mg/L to a concentration that is potentially associated with harmful caffeine-related effects of 25.4 (8.1–55.6) mg/L. A subgroup of female 10–11-year-old subjects exhibited the highest caffeine exposure profiles. Conclusion: These data indicate that CED ingestion can increase the risk of serious caffeine intoxication in young adolescents, particularly those with low body mass.</p>
+</blockquote>
+<pre><code>- CL, Vd(실제론 둘이 연관이 있다.) -&gt; Correlation을 유지한 채로 sampling 되도록. MVN
+- Pharmacometric Review : pop PK-PD model
+    - Visual Predicted Check
+    - Prediction band</code></pre>
+</div>
+<div id="pharmacometrics-in-dose-optimization" class="section level3">
+<h3><span class="header-section-number">1.2.5</span> Pharmacometrics in Dose Optimization</h3>
+<ul>
+<li>Speaker : Lee, FDA</li>
+<li>Interindividual variability (PD, PK)</li>
+<li>Secukinumab (Cosentyx) - target population
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Secukinumab" class="uri">https://en.wikipedia.org/wiki/Secukinumab</a> (Novartis)</li>
+<li>Example of dose optimization</li>
+<li>IL-17(A) - Etanercept, infliximab, adalimumab(humira, shallow), ustekinumab = biologics</li>
+<li>몸무게 크면</li>
+<li>IgA, 4 Phase III, (2 of them were pivotal study)</li>
+<li>PMC - post marketing commitment</li>
+<li>the higher conc. =&gt; the higher incidence of infections (tolerable)</li>
+</ul></li>
+<li>Edoxaban (흥미로운 약물)
+<ul>
+<li>NOAC - New Oral Anti-coagulants (4th)</li>
+<li>1st rivaroxaban, 2nd dabigatran(issue-EMA), 3rd apixaban</li>
+<li>Ace Meeting?</li>
+<li>Normal - Mild - Moderate</li>
+<li>Exposure - response relationships (Efficacy-Stroke, safety-bleeding)</li>
+<li>Benefir-risk relationship is not novel. (Dabigatran: RE-LY trial)</li>
+<li>exposure-response relationship PK matching.</li>
+</ul></li>
+</ul>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">write.bibtex</span>(<span class="dt">file=</span><span class="st">&quot;References.bib&quot;</span>)</code></pre></div>
+<pre><code>## Writing 1 Bibtex entries ...</code></pre>
+<pre><code>## OK
+## Results written to file &#39;References.bib&#39;</code></pre>
+
+<div id="refs" class="references">
+<div>
+<p>1. Lim H-S, Bae K-S (2014) Modeling and simulation analysis of the relationship between lesion recurrence on brain images and clinical recurrence in patients with ischemic stroke. The Journal of Clinical Pharmacology 55:458–466</p>
+</div>
+</div>
+</div>
+</div>
+<!-- </div> -->
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="morning.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+
+<script src="libs/gitbook/js/app.min.js"></script>
+<script src="libs/gitbook/js/lunr.js"></script>
+<script src="libs/gitbook/js/plugin-search.js"></script>
+<script src="libs/gitbook/js/plugin-sharing.js"></script>
+<script src="libs/gitbook/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook/js/jquery.highlight.js"></script>
+<script>
+require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"facebook": true,
+"twitter": true,
+"google": false,
+"weibo": false,
+"instapper": false,
+"vk": false,
+"all": ["facebook", "google", "twitter", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown/edit/master/inst/examples/index.Rmd",
+"text": "Edit"
+},
+"download": ["bookdown.pdf", "bookdown.epub", "bookdown.mobi"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
