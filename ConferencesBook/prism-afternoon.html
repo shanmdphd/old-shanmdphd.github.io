@@ -27,6 +27,11 @@
 
 <meta name="date" content="2016-07-13">
 
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -34,7 +39,7 @@
   
   
 <link rel="prev" href="morning.html">
-<link rel="next" href="now-lets-check-what-happens.html">
+
 
 <script src="libs/jquery/jquery.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
@@ -51,43 +56,6 @@
 
 
 
-<style type="text/css">
-div.sourceCode { overflow-x: auto; }
-table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
-  margin: 0; padding: 0; vertical-align: baseline; border: none; }
-table.sourceCode { width: 100%; line-height: 100%; }
-td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
-td.sourceCode { padding-left: 5px; }
-code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code > span.dt { color: #902000; } /* DataType */
-code > span.dv { color: #40a070; } /* DecVal */
-code > span.bn { color: #40a070; } /* BaseN */
-code > span.fl { color: #40a070; } /* Float */
-code > span.ch { color: #4070a0; } /* Char */
-code > span.st { color: #4070a0; } /* String */
-code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code > span.ot { color: #007020; } /* Other */
-code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code > span.fu { color: #06287e; } /* Function */
-code > span.er { color: #ff0000; font-weight: bold; } /* Error */
-code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
-code > span.cn { color: #880000; } /* Constant */
-code > span.sc { color: #4070a0; } /* SpecialChar */
-code > span.vs { color: #4070a0; } /* VerbatimString */
-code > span.ss { color: #bb6688; } /* SpecialString */
-code > span.im { } /* Import */
-code > span.va { color: #19177c; } /* Variable */
-code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code > span.op { color: #666666; } /* Operator */
-code > span.bu { } /* BuiltIn */
-code > span.ex { } /* Extension */
-code > span.pp { color: #bc7a00; } /* Preprocessor */
-code > span.at { color: #7d9029; } /* Attribute */
-code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-</style>
 
 <link rel="stylesheet" href="css/style.css" type="text/css" />
 </head>
@@ -104,23 +72,68 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li><a href="./">Conferences</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Prism</a><ul>
-<li class="chapter" data-level="1.1" data-path="morning.html"><a href="morning.html"><i class="fa fa-check"></i><b>1.1</b> Morning</a><ul>
-<li class="chapter" data-level="1.1.1" data-path="morning.html"><a href="morning.html#lim-covariate-model"><i class="fa fa-check"></i><b>1.1.1</b> Lim Covariate model</a></li>
-<li class="chapter" data-level="1.1.2" data-path="morning.html"><a href="morning.html#fda---lee"><i class="fa fa-check"></i><b>1.1.2</b> FDA - Lee</a></li>
-<li class="chapter" data-level="1.1.3" data-path="morning.html"><a href="morning.html#pfizer"><i class="fa fa-check"></i><b>1.1.3</b> Pfizer</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="2" data-path="kscpt.html"><a href="kscpt.html"><i class="fa fa-check"></i><b>2</b> 2016 KSCPT</a><ul>
+<li class="chapter" data-level="2.1" data-path="opening-remark.html"><a href="opening-remark.html"><i class="fa fa-check"></i><b>2.1</b> Opening Remark</a></li>
+<li class="chapter" data-level="2.2" data-path="first-session.html"><a href="first-session.html"><i class="fa fa-check"></i><b>2.2</b> First Session</a><ul>
+<li class="chapter" data-level="2.2.1" data-path="first-session.html"><a href="first-session.html#precision-medicine-a-clinical-pharmacological-perspective"><i class="fa fa-check"></i><b>2.2.1</b> 13:20~14:00 Precision Medicine: A Clinical Pharmacological Perspective</a></li>
+<li class="chapter" data-level="2.2.2" data-path="first-session.html"><a href="first-session.html#the-role-of-pharmacogenomics-in-drug-development-regulatory-review-and-clinical-practice"><i class="fa fa-check"></i><b>2.2.2</b> 14:00~14:30 The role of pharmacogenomics in drug development, regulatory review and clinical practice</a></li>
+<li class="chapter" data-level="2.2.3" data-path="first-session.html"><a href="first-session.html#the-liver-gut-microbiota-axis-modulates-inter-individual-variability-in-xenobiotic-disposition-and-toxicology"><i class="fa fa-check"></i><b>2.2.3</b> 14:30~15:00 The Liver-Gut Microbiota Axis Modulates Inter-Individual Variability in Xenobiotic Disposition and Toxicology</a></li>
 </ul></li>
-<li class="chapter" data-level="1.2" data-path="prism-afternoon.html"><a href="prism-afternoon.html"><i class="fa fa-check"></i><b>1.2</b> PRISM Afternoon</a><ul>
-<li class="chapter" data-level="1.2.1" data-path="prism-afternoon.html"><a href="prism-afternoon.html#kim"><i class="fa fa-check"></i><b>1.2.1</b> Kim</a></li>
-<li class="chapter" data-level="1.2.2" data-path="prism-afternoon.html"><a href="prism-afternoon.html#strategic-application-of-pm-in-global-drug-development-experience-from-hanmi"><i class="fa fa-check"></i><b>1.2.2</b> Strategic application of PM in global drug development: Experience from Hanmi</a></li>
-<li class="chapter" data-level="1.2.3" data-path="prism-afternoon.html"><a href="prism-afternoon.html#mbdd"><i class="fa fa-check"></i><b>1.2.3</b> MBDD</a></li>
-<li class="chapter" data-level="1.2.4" data-path="prism-afternoon.html"><a href="prism-afternoon.html#pharmacometric-information-in-drug-label"><i class="fa fa-check"></i><b>1.2.4</b> Pharmacometric information in drug label</a></li>
-<li class="chapter" data-level="1.2.5" data-path="prism-afternoon.html"><a href="prism-afternoon.html#pharmacometrics-in-dose-optimization"><i class="fa fa-check"></i><b>1.2.5</b> Pharmacometrics in Dose Optimization</a></li>
+<li class="chapter" data-level="2.3" data-path="second-session.html"><a href="second-session.html"><i class="fa fa-check"></i><b>2.3</b> Second Session</a><ul>
+<li class="chapter" data-level="2.3.1" data-path="second-session.html"><a href="second-session.html#the-role-of-stem-cells-in-discovery-and-validation-of-pharmacogenomic-markers"><i class="fa fa-check"></i><b>2.3.1</b> 15:20~15:50 The role of stem cells in discovery and validation of pharmacogenomic markers</a></li>
+<li class="chapter" data-level="2.3.2" data-path="second-session.html"><a href="second-session.html#pharmacogenomics-and-epigenomics"><i class="fa fa-check"></i><b>2.3.2</b> 15:50~16:20 Pharmacogenomics and Epigenomics</a></li>
+<li class="chapter" data-level="2.3.3" data-path="second-session.html"><a href="second-session.html#emerging-roles-of-human-cyp1b1-in-cancer-growth-and-metastasis"><i class="fa fa-check"></i><b>2.3.3</b> 16:20~16:50 Emerging roles of human CYP1B1 in cancer growth and metastasis</a></li>
+<li class="chapter" data-level="2.3.4" data-path="second-session.html"><a href="second-session.html#omics-for-precision-medicine-clinical-implementation-in-oncology"><i class="fa fa-check"></i><b>2.3.4</b> 16:50~17:20 omics for precision Medicine : Clinical Implementation in oncology</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="now-lets-check-what-happens.html"><a href="now-lets-check-what-happens.html"><i class="fa fa-check"></i><b>2</b> Now let’s check what happens</a></li>
+<li class="chapter" data-level="3" data-path="translation-and-convergence-for-future-medicine.html"><a href="translation-and-convergence-for-future-medicine.html"><i class="fa fa-check"></i><b>3</b> “Translation and Convergence for Future Medicine”</a><ul>
+<li class="chapter" data-level="3.1" data-path="plenary-session-ii-rd-.html"><a href="plenary-session-ii-rd-.html"><i class="fa fa-check"></i><b>3.1</b> Plenary Session II “의료기술및 R&amp;D 변화의최신동향”</a><ul>
+<li class="chapter" data-level="3.1.1" data-path="plenary-session-ii-rd-.html"><a href="plenary-session-ii-rd-.html#lecture-1--------"><i class="fa fa-check"></i><b>3.1.1</b> 13:30 ~ 14:15 Lecture 1 :의료분야에서의 빅데이터 :임상연구 및 진료를 위한 애널리틱스의 활용</a></li>
+<li class="chapter" data-level="3.1.2" data-path="plenary-session-ii-rd-.html"><a href="plenary-session-ii-rd-.html#lecture-2----"><i class="fa fa-check"></i><b>3.1.2</b> 14:15 ~ 15:00 Lecture 2 :합성 항체에서 합성 단백질로</a></li>
+</ul></li>
+<li class="chapter" data-level="3.2" data-path="parallel-session-i-chairperson-.html"><a href="parallel-session-i-chairperson-.html"><i class="fa fa-check"></i><b>3.2</b> Parallel Session I “의료분야에서의빅데이터” Chairperson :김태원(서울아산병원임상의학연구소장) [대강당]</a><ul>
+<li class="chapter" data-level="3.2.1" data-path="parallel-session-i-chairperson-.html"><a href="parallel-session-i-chairperson-.html#lecture-1------alexander-turchin-harvard-university-brigham-and-womens-hospital-usa"><i class="fa fa-check"></i><b>3.2.1</b> Lecture 1 :전자의무기록에 기반한 임상 빅데이터 연구 Alexander Turchin (Harvard University, Brigham and Women’s Hospital, USA)</a></li>
+<li class="chapter" data-level="3.2.2" data-path="parallel-session-i-chairperson-.html"><a href="parallel-session-i-chairperson-.html#lecture-2----tom-lawry-microsoft-corp.-usa"><i class="fa fa-check"></i><b>3.2.2</b> Lecture 2 : 의료분야에서의 빅데이터 분석 Tom Lawry (Microsoft Corp., USA)</a></li>
+<li class="chapter" data-level="3.2.3" data-path="parallel-session-i-chairperson-.html"><a href="parallel-session-i-chairperson-.html#lecture-3-------"><i class="fa fa-check"></i><b>3.2.3</b> Lecture 3 :생물기작 기반 암 오믹스 데이터 분석 기법</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="acrep.html"><a href="acrep.html"><i class="fa fa-check"></i><b>4</b> ACREP</a><ul>
+<li class="chapter" data-level="4.1" data-path="observational-study.html"><a href="observational-study.html"><i class="fa fa-check"></i><b>4.1</b> Observational Study</a><ul>
+<li class="chapter" data-level="4.1.1" data-path="observational-study.html"><a href="observational-study.html#contents"><i class="fa fa-check"></i><b>4.1.1</b> Contents</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="observational-study-pitfall-.html"><a href="observational-study-pitfall-.html"><i class="fa fa-check"></i><b>4.2</b> Observational Study의 Pitfall 및 이를 극복하기 위한 방법</a><ul>
+<li class="chapter" data-level="4.2.1" data-path="observational-study-pitfall-.html"><a href="observational-study-pitfall-.html#experimental-study-yes"><i class="fa fa-check"></i><b>4.2.1</b> Experimental study? Yes</a></li>
+<li class="chapter" data-level="4.2.2" data-path="observational-study-pitfall-.html"><a href="observational-study-pitfall-.html#experimental-study-no"><i class="fa fa-check"></i><b>4.2.2</b> Experimental study? No</a></li>
+<li class="chapter" data-level="4.2.3" data-path="observational-study-pitfall-.html"><a href="observational-study-pitfall-.html#contents-1"><i class="fa fa-check"></i><b>4.2.3</b> Contents</a></li>
+<li class="chapter" data-level="4.2.4" data-path="observational-study-pitfall-.html"><a href="observational-study-pitfall-.html#conclusion"><i class="fa fa-check"></i><b>4.2.4</b> Conclusion</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="diagnostic-test-biomarker-study.html"><a href="diagnostic-test-biomarker-study.html"><i class="fa fa-check"></i><b>4.3</b> Diagnostic test &amp; Biomarker Study</a><ul>
+<li class="chapter" data-level="4.3.1" data-path="diagnostic-test-biomarker-study.html"><a href="diagnostic-test-biomarker-study.html#contents---diagnostic-test"><i class="fa fa-check"></i><b>4.3.1</b> Contents - Diagnostic test</a></li>
+<li class="chapter" data-level="4.3.2" data-path="diagnostic-test-biomarker-study.html"><a href="diagnostic-test-biomarker-study.html#contents---biomarker"><i class="fa fa-check"></i><b>4.3.2</b> Contents - Biomarker</a></li>
+</ul></li>
+<li class="chapter" data-level="4.4" data-path="-.html"><a href="-.html"><i class="fa fa-check"></i><b>4.4</b> 2차 자료원을 이용한 역학 연구군</a></li>
+<li class="chapter" data-level="4.5" data-path="-clinical-prediction-model-individual-riskoutcome-probability-.html"><a href="-clinical-prediction-model-individual-riskoutcome-probability-.html"><i class="fa fa-check"></i><b>4.5</b> 대규모 이차 자료원을 이용한 clinical prediction model : individual risk/outcome probability 예측 분석법</a></li>
+<li class="chapter" data-level="4.6" data-path="web-r-org.html"><a href="web-r-org.html"><i class="fa fa-check"></i><b>4.6</b> Web-r.org</a><ul>
+<li class="chapter" data-level="4.6.1" data-path="web-r-org.html"><a href="web-r-org.html#contents-2"><i class="fa fa-check"></i><b>4.6.1</b> Contents</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="prism.html"><a href="prism.html"><i class="fa fa-check"></i><b>5</b> Prism</a><ul>
+<li class="chapter" data-level="5.1" data-path="morning.html"><a href="morning.html"><i class="fa fa-check"></i><b>5.1</b> Morning</a><ul>
+<li class="chapter" data-level="5.1.1" data-path="morning.html"><a href="morning.html#lim-covariate-model"><i class="fa fa-check"></i><b>5.1.1</b> Lim Covariate model</a></li>
+<li class="chapter" data-level="5.1.2" data-path="morning.html"><a href="morning.html#fda---lee"><i class="fa fa-check"></i><b>5.1.2</b> FDA - Lee</a></li>
+<li class="chapter" data-level="5.1.3" data-path="morning.html"><a href="morning.html#pfizer"><i class="fa fa-check"></i><b>5.1.3</b> Pfizer</a></li>
+</ul></li>
+<li class="chapter" data-level="5.2" data-path="prism-afternoon.html"><a href="prism-afternoon.html"><i class="fa fa-check"></i><b>5.2</b> PRISM Afternoon</a><ul>
+<li class="chapter" data-level="5.2.1" data-path="prism-afternoon.html"><a href="prism-afternoon.html#kim"><i class="fa fa-check"></i><b>5.2.1</b> Kim</a></li>
+<li class="chapter" data-level="5.2.2" data-path="prism-afternoon.html"><a href="prism-afternoon.html#strategic-application-of-pm-in-global-drug-development-experience-from-hanmi"><i class="fa fa-check"></i><b>5.2.2</b> Strategic application of PM in global drug development: Experience from Hanmi</a></li>
+<li class="chapter" data-level="5.2.3" data-path="prism-afternoon.html"><a href="prism-afternoon.html#mbdd"><i class="fa fa-check"></i><b>5.2.3</b> MBDD</a></li>
+<li class="chapter" data-level="5.2.4" data-path="prism-afternoon.html"><a href="prism-afternoon.html#pharmacometric-information-in-drug-label"><i class="fa fa-check"></i><b>5.2.4</b> Pharmacometric information in drug label</a></li>
+<li class="chapter" data-level="5.2.5" data-path="prism-afternoon.html"><a href="prism-afternoon.html#pharmacometrics-in-dose-optimization"><i class="fa fa-check"></i><b>5.2.5</b> Pharmacometrics in Dose Optimization</a></li>
+</ul></li>
+</ul></li>
 <li class="divider"></li>
-<li><a href="http://shanmdphd.github.io">shanmdphd.github.io</a></li>
+<li><a href="http://shanmdphd.github.io">Back to shanmdphd.github.io</a></li>
 
 </ul>
 
@@ -140,18 +153,17 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 
             <section class="normal" id="section-">
 <div id="prism-afternoon" class="section level2">
-<h2><span class="header-section-number">1.2</span> PRISM Afternoon</h2>
+<h2><span class="header-section-number">5.2</span> PRISM Afternoon</h2>
 <p>2016.07.12</p>
 <div id="kim" class="section level3">
-<h3><span class="header-section-number">1.2.1</span> Kim</h3>
+<h3><span class="header-section-number">5.2.1</span> Kim</h3>
 <ul>
 <li>Modeling</li>
 <li>Buzz words</li>
 <li>M&amp;S</li>
 <li>SP&amp;PMx - MBDD - MIDD - MID3 (Drug discovery and deveopment)</li>
 <li>Lean, apply and confirm</li>
-<li>Case I : use of pk modeling in pre-cilnical stage
-<ul>
+<li>Case I : use of pk modeling in pre-cilnical stage</li>
 <li>NOAEL : Rat 250mg, dog 500mg/kg</li>
 <li>Target exposure</li>
 <li>Questions - have we selected right starting dose? - FDA</li>
@@ -160,17 +172,13 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>Dose 5-200mg</li>
 <li>MABEL, maybe a challenge but doable with lower s</li>
 <li>NOAEL - MABEL - allometry = we should use all of these.</li>
-</ul></li>
-<li>Case II : Use of PK in FTiH study Dose Escalation Stage
-<ul>
+<li>Case II : Use of PK in FTiH study Dose Escalation Stage</li>
 <li>Unexpectedly longer half life (x5)</li>
 <li>everything is impacted. POC study</li>
 <li>Questions arose</li>
 <li>Emax model -&gt; nice when it’s adhered to the predicted.</li>
 <li>New formulation development</li>
-</ul></li>
-<li>Case III : Use of PK in FTiH / BIAL lab, BIOTRIAL research site in Rennes, France
-<ul>
+<li>Case III : Use of PK in FTiH / BIAL lab, BIOTRIAL research site in Rennes, France</li>
 <li>BIA-102474-101 study design</li>
 <li>SAD 8 cohorts</li>
 <li>SAD -&gt; Food effect -&gt; MAD</li>
@@ -179,20 +187,18 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>Non-proportionality - SAE probability</li>
 <li>Emax model - 80% !!! 50mg QD</li>
 <li>Recommendation : use of sentinel</li>
-</ul></li>
 <li>London incident, early human (Prediction)</li>
 <li>Summary - PK, PK/PD modeling and simulation is essential</li>
 </ul>
 <p><strong>Questions</strong> - 20<em>10 MAD -&gt; okay 50</em>5 MAD -&gt; not okay, why? - Eye drop -&gt; allometry experience?</p>
 </div>
 <div id="strategic-application-of-pm-in-global-drug-development-experience-from-hanmi" class="section level3">
-<h3><span class="header-section-number">1.2.2</span> Strategic application of PM in global drug development: Experience from Hanmi</h3>
+<h3><span class="header-section-number">5.2.2</span> Strategic application of PM in global drug development: Experience from Hanmi</h3>
 <ul>
 <li>Speaker: Lee Young Mi, Hanmi</li>
 <li>Why do we need PM? - biologically effective dose, earlier translational risk assessment, safety margin(systemic and quantitative translation of animal models to clinic), Pre-clinical modeling to guide clinical dosing, enhancing early stage decision-making, evidence-based decision making and accelerate drug approval</li>
 <li>Systemic and quantitative translational research. PK&amp;PD -&gt; target occupancy, mechanism</li>
-<li>Human PK projections - LAPSCOVERY development strategy
-<ul>
+<li>Human PK projections - LAPSCOVERY development strategy</li>
 <li>DRUG+AGLYCOSYLATED FC - Flexible linker</li>
 <li>Longer duration - once weekly, once monthly -&gt; FcRn mediated endothelium recycling / avoiding renal filtration!!!!! - Kidney failure patient can receive the LAPSCOVERY drug. Long-acting protein/peptide</li>
 <li>GLP1, insulin, somatostatin : peptide</li>
@@ -202,92 +208,65 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>Case 2. Targeted therapy &amp; surrogate PD marker</li>
 <li>It is important to select PD marker!!! Some cancer - hard to choose PD marker. (Eg. Lung ca)</li>
 <li>phosphoEGFR - OLITA (olmutinib) - breakthrough theray designation (FDA) by US FDA - phase II BTD -&gt; modeling when the n= increased??? -&gt; licensed out to Behringer Ingelheim</li>
-</ul></li>
-<li>Exposure-Response : PK-PD
-<ul>
+<li>Exposure-Response : PK-PD</li>
 <li>Recommended dose selection - CRITICAL!!!</li>
 <li>PK-PD Xenograft</li>
-</ul></li>
-<li>Targeted therapy &amp; biomarkers - BRAF/KRASmut inhibitor
-<ul>
+<li>Targeted therapy &amp; biomarkers - BRAF/KRASmut inhibitor</li>
 <li>Next gen RAF inhibitor(PanRAF) (&lt;-&gt; Classical RAF inhibitor = rebound MAPK reacitivation)</li>
 <li>Methods difference (pMEK), (pERK) -&gt; aided dose seletion (lower exposure and the same PD marker)</li>
-</ul></li>
-<li>HM95573 and Cobimetinib in MAPK activated HCC cell lines
-<ul>
+<li>HM95573 and Cobimetinib in MAPK activated HCC cell lines</li>
 <li>combination -&gt; can lower dose</li>
-</ul></li>
 </ul>
 </div>
 <div id="mbdd" class="section level3">
-<h3><span class="header-section-number">1.2.3</span> MBDD</h3>
+<h3><span class="header-section-number">5.2.3</span> MBDD</h3>
 <ul>
 <li>Speaker: Lim</li>
 <li>MBDD (Learn &amp; confirm cycle) course run</li>
 <li>Information management tool = Modeling</li>
 <li>Quantitative information (GO/NO-GO decision)</li>
 <li>Various and diverse information</li>
-<li>Quick win, fast fail - PK/PD modeling and simulation
-<ul>
+<li>Quick win, fast fail - PK/PD modeling and simulation</li>
 <li>Abundance of drug discovery - preclinical development (Mechanism-based biomarker, imaging biomarker) - accelerated PoC (IIb/IIa) - confirmation, dose finding</li>
-</ul></li>
 <li>System-specific parameters, drug-specific parameters, structural model</li>
 <li>Extrapolation</li>
 <li>Quantify the exposure in remote and/or inaccessible</li>
-<li>Allometry vs PBPK
-<ul>
+<li>Allometry vs PBPK</li>
 <li>assumes that the nly diff between human and the other mammals is size = imprecise, mono-exponential elimination</li>
-</ul></li>
 <li>DHP107 - IV paclitaxel</li>
 <li>480mg/m2 was the most common MTD(Maximal Tolerability Dose) in virtual phase 1 trial for DHP107</li>
-<li>Case II - Ticagrelor PD
-<ul>
+<li>Case II - Ticagrelor PD</li>
 <li>ticagrelor and AR-C124910XX</li>
 <li>Maximal platelet aggregation</li>
-</ul></li>
-<li>Case III - Early characterization of an antibiotics using bacterial time kill assays and human PK study
-<ul>
+<li>Case III - Early characterization of an antibiotics using bacterial time kill assays and human PK study</li>
 <li>Preclinical PD + Human PK =&gt; Predict human PD</li>
 <li>Monte-Carlo simulation using PK/PD model</li>
-</ul></li>
-<li>Case IV - integrative PK/PD Model
-<ul>
+<li>Case IV - integrative PK/PD Model</li>
 <li>16182HanLimPyung441) - MFDS</li>
 <li>Integrative, mechanistic PK/PD model</li>
 <li>Tumor size</li>
-</ul></li>
 </ul>
 <p><strong>Questions</strong> - NONMEM -&gt; PBPK? ADAPT?(Program?) - THETA, ETA (60-70) Generally 40</p>
 </div>
 <div id="pharmacometric-information-in-drug-label" class="section level3">
-<h3><span class="header-section-number">1.2.4</span> Pharmacometric information in drug label</h3>
+<h3><span class="header-section-number">5.2.4</span> Pharmacometric information in drug label</h3>
 <ul>
 <li>Speaker : Bae</li>
-<li>Ocaliva (obeticholic acid tablets)
-<ul>
+<li>Ocaliva (obeticholic acid tablets)</li>
 <li>oral use | initial U.S. Approval 2016.05.27 - FXR agonist - Tx of PBC - Omega matrix -&gt; POPPK analysis</li>
-</ul></li>
-<li>NUPLAZID (pimavanserin)
-<ul>
+<li>NUPLAZID (pimavanserin)</li>
 <li>Parkinson’s ds psychosis</li>
-<li>Oral</li>
-</ul></li>
-<li>POP modeling 구체적목적
-<ul>
+<li><p>Oral</p></li>
+<li>POP modeling 구체적목적</li>
 <li>fixed effects covariate 찾는다</li>
 <li>interintra subject random variability의 크기를 평가</li>
 <li>개인별 pk,pd</li>
 <li>농도, 폭로, 반응/효과, 유해반응 simulation하기 위한 모형을 구축</li>
-</ul></li>
-<li>Total variability
-<ul>
+<li>Total variability</li>
 <li>Fixed portion + random portion</li>
-<li>fixed effect = explainable
-<ul>
+<li>fixed effect = explainable</li>
 <li>Eta (interindividual (random) variability)</li>
-</ul></li>
-<li>NONMEM
-<ul>
+<li>NONMEM</li>
 <li>F = function of (theta, , covariates) # Fixed</li>
 <li>Y = function of (F, epsilon) # eta=0(무시)하면서 예측한경우 = Typical prediction</li>
 <li>theta = constant, nu~MVN(0,omega), eta~MVN(0, sigma) 확률변수</li>
@@ -296,25 +275,22 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>Dose,time = covariate (statistics)</li>
 <li>Eta - Realized Eta = 0이 아닌 숫자화된 Eta (inter individual)고려해서 한거 - F:IPRE F:PRED(Typical prediction)</li>
 <li>Population Concept</li>
-<li>Eur J Pediatr(2015) 174:1671-8 <a href="http://link.springer.com/article/10.1007/s00431-015-2581-x" class="uri">http://link.springer.com/article/10.1007/s00431-015-2581-x</a> Prediction of plasma caffeine concentrations in young adolescents following ingestion of caffeinated energy drinks: a Monte Carlo simulation - Abstract</li>
-</ul></li>
-</ul></li>
+<li>Eur J Pediatr(2015) 174:1671-8 Prediction of plasma caffeine concentrations in young adolescents following ingestion of caffeinated energy drinks: a Monte Carlo simulation - <span class="citation">[<a href="#ref-Lee_2015">2</a>]</span></li>
+<li>CL, Vd(실제론 둘이 연관이 있다.) -&gt; Correlation을 유지한 채로 sampling 되도록. MVN</li>
+<li>Pharmacometric Review : pop PK-PD model</li>
+<li>Visual Predicted Check</li>
+<li><p>Prediction band</p></li>
 </ul>
 <blockquote>
 <p>The fast-growing consumption of caffeinated energy drinks (CEDs) is linked to increasing reports of caffeine intoxication in adolescents. There is limited data available regarding plasma caffeine concentrations in this population after CED intake and the potential implications for caffeine-related toxicity. This study was an in silico population pharmacokinetic analysis of caffeine. Population pharmacokinetic model of oral caffeine was derived from a previous study of healthy male volunteers. Maximal plasma caffeine concentration (C max) profiles following ingestion of one or two servings of popular CEDs were predicted using Monte Carlo simulation and available population body weight data of 10–15-year-old Korean adolescents. Caffeine C max values were positively correlated with the amount of caffeine ingested in CEDs and negatively correlated with body weight. The median (range) C max profiles varied from a low of 1.2 (0.5–2.6) mg/L to a concentration that is potentially associated with harmful caffeine-related effects of 25.4 (8.1–55.6) mg/L. A subgroup of female 10–11-year-old subjects exhibited the highest caffeine exposure profiles. Conclusion: These data indicate that CED ingestion can increase the risk of serious caffeine intoxication in young adolescents, particularly those with low body mass.</p>
 </blockquote>
-<pre><code>- CL, Vd(실제론 둘이 연관이 있다.) -&gt; Correlation을 유지한 채로 sampling 되도록. MVN
-- Pharmacometric Review : pop PK-PD model
-    - Visual Predicted Check
-    - Prediction band</code></pre>
 </div>
 <div id="pharmacometrics-in-dose-optimization" class="section level3">
-<h3><span class="header-section-number">1.2.5</span> Pharmacometrics in Dose Optimization</h3>
+<h3><span class="header-section-number">5.2.5</span> Pharmacometrics in Dose Optimization</h3>
 <ul>
 <li>Speaker : Lee, FDA</li>
 <li>Interindividual variability (PD, PK)</li>
-<li>Secukinumab (Cosentyx) - target population
-<ul>
+<li>Secukinumab (Cosentyx) - target population</li>
 <li><a href="https://en.wikipedia.org/wiki/Secukinumab" class="uri">https://en.wikipedia.org/wiki/Secukinumab</a> (Novartis)</li>
 <li>Example of dose optimization</li>
 <li>IL-17(A) - Etanercept, infliximab, adalimumab(humira, shallow), ustekinumab = biologics</li>
@@ -322,9 +298,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>IgA, 4 Phase III, (2 of them were pivotal study)</li>
 <li>PMC - post marketing commitment</li>
 <li>the higher conc. =&gt; the higher incidence of infections (tolerable)</li>
-</ul></li>
-<li>Edoxaban (흥미로운 약물)
-<ul>
+<li>Edoxaban (흥미로운 약물)</li>
 <li>NOAC - New Oral Anti-coagulants (4th)</li>
 <li>1st rivaroxaban, 2nd dabigatran(issue-EMA), 3rd apixaban</li>
 <li>Ace Meeting?</li>
@@ -332,18 +306,35 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>Exposure - response relationships (Efficacy-Stroke, safety-bleeding)</li>
 <li>Benefir-risk relationship is not novel. (Dabigatran: RE-LY trial)</li>
 <li>exposure-response relationship PK matching.</li>
-</ul></li>
 </ul>
+<pre><code>## Writing 2 Bibtex entries ...</code></pre>
+<pre><code>## OK
+## Results written to file &#39;References.bib&#39;</code></pre>
+
+<div id="refs" class="references">
+<div>
+<p>1. Lim H-S, Bae K-S (2014) Modeling and simulation analysis of the relationship between lesion recurrence on brain images and clinical recurrence in patients with ischemic stroke. The Journal of Clinical Pharmacology 55:458–466</p>
+</div>
+<div>
+<p>2. Lee JW, Kim Y, Perera V, McLachlan AJ, Bae K-S (2015) Prediction of plasma caffeine concentrations in young adolescents following ingestion of caffeinated energy drinks: A monte carlo simulation. European Journal of Pediatrics 174:1671–1678</p>
+</div>
+</div>
 </div>
 </div>
 <!-- </div> -->
+<h3>References</h3>
+<div id="refs" class="references">
+<div id="ref-Lee_2015">
+<p>2. Lee JW, Kim Y, Perera V, McLachlan AJ, Bae K-S (2015) Prediction of plasma caffeine concentrations in young adolescents following ingestion of caffeinated energy drinks: A monte carlo simulation. European Journal of Pediatrics 174:1671–1678</p>
+</div>
+</div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="morning.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="now-lets-check-what-happens.html" class="navigation navigation-next " aria-label="Next page""><i class="fa fa-angle-right"></i></a>
+<a href="morning.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
 
 <script src="libs/gitbook/js/app.min.js"></script>
 <script src="libs/gitbook/js/lunr.js"></script>
@@ -370,7 +361,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/shanmdphd/shanmdphd.github.io/edit/master/_ConferencesSource/index.Rmd",
+"link": "https://github.com/shanmdphd/shanmdphd.github.io/edit/master/_ConferencesSource/2016-07-13-PRISM.rmd",
 "text": "Edit"
 },
 "download": ["bookdown.pdf", "bookdown.epub", "bookdown.mobi"],
@@ -381,6 +372,17 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    if (location.protocol !== "file:" && /^https?:/.test(script.src))
+      script.src  = script.src.replace(/^https?:/, '');
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

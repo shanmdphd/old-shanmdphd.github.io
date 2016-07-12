@@ -38,8 +38,8 @@ MathJax.Hub.Config({
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-<link rel="prev" href="prism.html">
-<link rel="next" href="prism-afternoon.html">
+<link rel="prev" href="-.html">
+<link rel="next" href="web-r-org.html">
 
 <script src="libs/jquery/jquery.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
@@ -152,67 +152,66 @@ MathJax.Hub.Config({
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="morning" class="section level2">
-<h2><span class="header-section-number">5.1</span> Morning</h2>
-<div id="lim-covariate-model" class="section level3">
-<h3><span class="header-section-number">5.1.1</span> Lim Covariate model</h3>
-<div id="ischemic-stroke" class="section level4">
-<h4><span class="header-section-number">5.1.1.1</span> Ischemic stroke</h4>
+<div id="----clinical-prediction-model-individual-riskoutcome-probability--" class="section level2">
+<h2><span class="header-section-number">4.5</span> 대규모 이차 자료원을 이용한 clinical prediction model : individual risk/outcome probability 예측 분석법</h2>
 <ul>
-<li>Primary endpoint</li>
-<li>time-to-primary endpoint (time-to-event)</li>
-<li>late recurrence, DM</li>
-<li>Secondary endpoint</li>
-<li>late recurrence</li>
-<li>통상적인 VPC - K-M plots</li>
-<li>Modeling and simulation analysis of the relationship between lesion recurrence on brain images and clinical recurrence in patients with ischemic stroke <a href="http://onlinelibrary.wiley.com/doi/10.1002/jcph.427/abstract" class="uri">http://onlinelibrary.wiley.com/doi/10.1002/jcph.427/abstract</a> <span class="citation">[<a href="#ref-Lim_2014">1</a>]</span></li>
+<li>Clinical prediction model</li>
+<li>Framingham risk score</li>
+<li>JAMA - moving from clinical trials to precision Medicine, 2016 Apr 26</li>
+<li>DAPT Trial</li>
+<li>Risk for advanced neoplasia and likelihood ratios in each risk group within derivation and validation sets <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840411/#!po=38.6364">Derivation and validation of a scoring system to stratify the risk of advanced colorectal neoplasia in asymptomatic adults</a> 분자:질병있는 / 분모:질병없는 - likelihood ratio</li>
+<li>Assumptions for model development - linear regression, Cox proportional hazard regression(Proportionality of hazard ### This should be confirmed.)</li>
 </ul>
-</div>
-<div id="mr-image----" class="section level4">
-<h4><span class="header-section-number">5.1.1.2</span> MR image -&gt; 예후 예측</h4>
+<table style="width:11%;">
+<colgroup>
+<col width="2%" />
+<col width="2%" />
+<col width="2%" />
+<col width="2%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>linear reg</th>
+<th>logi reg</th>
+<th>Cox reg</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Overall perf</td>
+<td>R2</td>
+<td>Nagelkerke r2, brir</td>
+<td>the same</td>
+</tr>
+<tr class="even">
+<td>discrimination ability</td>
+<td></td>
+<td>C concordance stat(AUC)</td>
+<td>Harell C stat, time-dependent AUC</td>
+</tr>
+<tr class="odd">
+<td>Calibratrion</td>
+<td>Calibration plot, slope</td>
+<td>the same+hosmer-lemeshow</td>
+<td>the same</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>mRS (modified Rankin Scale)</li>
-<li>응급실에 왔을때</li>
-<li>DM - NIH scale 3D Plot</li>
-<li>광학영상 - preclinical 에서 부터 NONMEM을 사용해서</li>
+<li>C-index 를 사용하여 분석 가능함. C = number of concordant pairs + 0.5/~~</li>
+<li>새로운 통계 지표. 2가지. NRI - net eclassification improvement</li>
+<li>Korean J Radiol 2016;17(3);339-350 -&gt; predicted probability - 사망할 확률을 계산할 수 있음.</li>
+<li>Framingham그룹에서 발표됨 2008 통계 저널에</li>
 </ul>
-</div>
-</div>
-<div id="fda---lee" class="section level3">
-<h3><span class="header-section-number">5.1.2</span> FDA - Lee</h3>
-<ul>
-<li><a href="http://www.dailypharm.com/News/202010" class="uri">http://www.dailypharm.com/News/202010</a></li>
-<li><a href="https://www.linkedin.com/in/jogagobburu">Joga Gobburu</a> - 인도사람</li>
-<li><a href="https://www.linkedin.com/in/yaning-wang-a47192b">Yaning Wang</a> - deputy director</li>
-<li><a href="https://www.linkedin.com/in/vikram-sinha-9a28476">Vikram Sinha</a></li>
-<li>math molecular biology - impressive - reviewer</li>
-<li>Office of CP - 7개 division, 1~5 clinical division- 질환별로 - align (DCP) PM(떠오르는 학문) PG division</li>
-</ul>
-</div>
-<div id="pfizer" class="section level3">
-<h3><span class="header-section-number">5.1.3</span> Pfizer</h3>
-<ul>
-<li>파리바?</li>
-<li>크루시파이? - Metz Karlsson과는 아니고..</li>
-<li>파일러비시니? UW - metrician -&gt; 임상약리에서 뽑았다. (파리바)</li>
-<li>피터 뮬리건? &lt;-&gt; 아만티아(놀려고 함..)</li>
-<li>밥 파월 = 임동석 선생님</li>
-</ul>
-</div>
-</div>
-<h3>References</h3>
-<div id="refs" class="references">
-<div id="ref-Lim_2014">
-<p>1. Lim H-S, Bae K-S (2014) Modeling and simulation analysis of the relationship between lesion recurrence on brain images and clinical recurrence in patients with ischemic stroke. The Journal of Clinical Pharmacology 55:458–466</p>
-</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="prism.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="prism-afternoon.html" class="navigation navigation-next " aria-label="Next page""><i class="fa fa-angle-right"></i></a>
+<a href="-.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="web-r-org.html" class="navigation navigation-next " aria-label="Next page""><i class="fa fa-angle-right"></i></a>
 
 <script src="libs/gitbook/js/app.min.js"></script>
 <script src="libs/gitbook/js/lunr.js"></script>
@@ -239,7 +238,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/shanmdphd/shanmdphd.github.io/edit/master/_ConferencesSource/2016-07-13-PRISM.rmd",
+"link": "https://github.com/shanmdphd/shanmdphd.github.io/edit/master/_ConferencesSource/2016-06-24-ACREP.rmd",
 "text": "Edit"
 },
 "download": ["bookdown.pdf", "bookdown.epub", "bookdown.mobi"],

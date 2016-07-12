@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Conferences</a></li>
       after: |
-        <li><a href="http://shanmdphd.github.io">shanmdphd.github.io</a></li>
+        <li><a href="http://shanmdphd.github.io">Back to shanmdphd.github.io</a></li>
     download: [pdf, epub, mobi]
     edit:
       link: https://github.com/shanmdphd/shanmdphd.github.io/edit/master/_ConferencesSource/%s

@@ -1,6 +1,7 @@
 setwd("~/GIT/shanmdphd.github.io/_ConferencesSource")
 quiet = "--quiet" %in% commandArgs(FALSE)
-formats = "bookdown::gitbook"  #commandArgs(TRUE)
+# formats = commandArgs(TRUE)
+formats = "bookdown::gitbook"  #
 travis = !is.na(Sys.getenv('CI', NA))
 
 # provide default formats if necessary
