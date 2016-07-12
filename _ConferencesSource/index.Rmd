@@ -186,15 +186,16 @@ library(bibtex)
 		- Dose,time = covariate (statistics)
 		- Eta - Realized Eta = 0이 아닌 숫자화된 Eta (inter individual)고려해서 한거 - F:IPRE F:PRED(Typical prediction)
 		- Population Concept
-		- Eur J Pediatr(2015) 174:1671-8 http://link.springer.com/article/10.1007/s00431-015-2581-x Prediction of plasma caffeine concentrations in young adolescents following ingestion of caffeinated energy drinks: a Monte Carlo simulation - Abstract
-
-> The fast-growing consumption of caffeinated energy drinks (CEDs) is linked to increasing reports of caffeine intoxication in adolescents. There is limited data available regarding plasma caffeine concentrations in this population after CED intake and the potential implications for caffeine-related toxicity. This study was an in silico population pharmacokinetic analysis of caffeine. Population pharmacokinetic model of oral caffeine was derived from a previous study of healthy male volunteers. Maximal plasma caffeine concentration (C max) profiles following ingestion of one or two servings of popular CEDs were predicted using Monte Carlo simulation and available population body weight data of 10–15-year-old Korean adolescents. Caffeine C max values were positively correlated with the amount of caffeine ingested in CEDs and negatively correlated with body weight. The median (range) C max profiles varied from a low of 1.2 (0.5–2.6) mg/L to a concentration that is potentially associated with harmful caffeine-related effects of 25.4 (8.1–55.6) mg/L. A subgroup of female 10–11-year-old subjects exhibited the highest caffeine exposure profiles.
-> Conclusion: These data indicate that CED ingestion can increase the risk of serious caffeine intoxication in young adolescents, particularly those with low body mass.
-
+	- Eur J Pediatr(2015) 174:1671-8 Prediction of plasma caffeine concentrations in young adolescents following ingestion of caffeinated energy drinks: a Monte Carlo simulation - `r citep("10.1007/s00431-015-2581-x")`
 	- CL, Vd(실제론 둘이 연관이 있다.) -> Correlation을 유지한 채로 sampling 되도록. MVN
 	- Pharmacometric Review : pop PK-PD model
 		- Visual Predicted Check
 		- Prediction band
+
+> The fast-growing consumption of caffeinated energy drinks (CEDs) is linked to increasing reports of caffeine intoxication in adolescents. There is limited data available regarding plasma caffeine concentrations in this population after CED intake and the potential implications for caffeine-related toxicity. This study was an in silico population pharmacokinetic analysis of caffeine. Population pharmacokinetic model of oral caffeine was derived from a previous study of healthy male volunteers. Maximal plasma caffeine concentration (C max) profiles following ingestion of one or two servings of popular CEDs were predicted using Monte Carlo simulation and available population body weight data of 10–15-year-old Korean adolescents. Caffeine C max values were positively correlated with the amount of caffeine ingested in CEDs and negatively correlated with body weight. The median (range) C max profiles varied from a low of 1.2 (0.5–2.6) mg/L to a concentration that is potentially associated with harmful caffeine-related effects of 25.4 (8.1–55.6) mg/L. A subgroup of female 10–11-year-old subjects exhibited the highest caffeine exposure profiles.
+> Conclusion: These data indicate that CED ingestion can increase the risk of serious caffeine intoxication in young adolescents, particularly those with low body mass.
+
+
 
 ### Pharmacometrics in Dose Optimization
 - Speaker : Lee, FDA
@@ -216,9 +217,6 @@ library(bibtex)
 	- Benefir-risk relationship is not novel. (Dabigatran: RE-LY trial)
 	- exposure-response relationship PK matching.
 
-# Now let's check what happens
-
-
-```{r bibtex}
+```{r bibtex, echo = FALSE}
 write.bibtex(file="References.bib")
 ```
