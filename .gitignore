@@ -10,3 +10,4 @@ node_modules
 .Rhistory
 
 *.docx
+.Rproj.user
