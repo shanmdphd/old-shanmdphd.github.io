@@ -5,7 +5,7 @@ layout: post
 
 # 2016 KSCPT
 
-![Materials](http://i.imgur.com/io9QIQDh.jpg)
+![Materials](images/2016KSCPT.jpg)
 
 ## Opening Remark
 - Yil-Seob Lee (president of KSCPT)

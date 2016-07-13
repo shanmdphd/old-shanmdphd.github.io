@@ -123,6 +123,6 @@ AIMS
 - Experimental validation requires collaborators who enjoy new approaches.
   - 혹시 talk를 들으시고 관심있으면 Contact.
 
- ![](http://aims.amc.seoul.kr/asan/imageDown/homebuilder/20160527?fileName=Scientific-Program-kor.jpg)
+ http://aims.amc.seoul.kr/asan/imageDown/homebuilder/20160527?fileName=Scientific-Program-kor.jpg
  http://www.amc.seoul.kr/asan/academy/event/eventDetail.do?eventId=572
  http://aims.amc.seoul.kr/asan/depts/aims/E/deptMain.do

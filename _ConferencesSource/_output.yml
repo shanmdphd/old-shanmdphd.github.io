@@ -22,6 +22,7 @@ bookdown::pdf_book:
   keep_tex: yes
   latex_engine: xelatex
   citation_package: natbib
+mainfont: NanumGothic
 
 bookdown::epub_book:
   stylesheet: css/style.css
