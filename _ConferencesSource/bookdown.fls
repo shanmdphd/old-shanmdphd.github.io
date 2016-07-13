@@ -71,8 +71,8 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
-INPUT /usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
@@ -166,5 +166,11 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT bookdown.out
+INPUT bookdown.out
+INPUT bookdown.out
+INPUT bookdown.out
 OUTPUT bookdown.out
+INPUT bookdown.toc
+INPUT bookdown.toc
 OUTPUT bookdown.toc
