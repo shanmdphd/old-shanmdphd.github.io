@@ -25,9 +25,18 @@ Speaker : Seung-Eun Choi, M.D., Ph.D. Ministry of Food and Drug Safety
 
 ## Session 2 Global regulatory experiences in orphan drug development
 
-### Considerations for drug development for rare diseases :
-Cases of inborn errors of metabolism
-Speaker: In Sook Kim, Ph.D.
+### Considerations for drug development for rare diseases : Cases of inborn errors of metabolism
+Speaker: In Sook Kim, Ph.D. FDA Office of Clinical Pharmacology
+
+- Beginning with the goal in mind
+- 45 NME/New BLA in 2015
+- Novel Drug Approval for rare diseases 2010-2015, 77 novel drugs for rare (37 cancer, 10 inborn e of metabolism)
+- Rare disease (Orphan disease) - less than 200k
+- ~500 rare disease have approved drugs. / ~7000 rare disease
+- Goals: safe and efficacious drug
+- uncertainty를 줄이고, evidence of efficacy and safety
+- Challenging: Limited clinical experiences, Lakc of understanding of natural history of the disease - limited opportunities for learning
+-
 
 
 ### Role of pharmacometrics in the development of orphan drugs
