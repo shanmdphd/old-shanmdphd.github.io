@@ -1,53 +1,43 @@
+# MFDS-Asan Joint Symposium on Rare Diseases 2016
+Accelerating Research and Development of Orphan Drugs for Rare Diseases
+식품의약품안전처-서울아산병원 임상시험글로벌선도센터 공동 주관 심포지엄
 
 ![](images/MFDS-Asan-Joint.jpg)
 
-# MFDS-Asan Joint Symposium on Rare Diseases
-식품의약품안전처-서울아산병원 임상시험글로벌선도센터 공동 주관 심포지엄
-Accelerating Research and Development of Orphan Drugs for Rare Diseases
+## Session 1 Rare diseases in Korea : Status & Research experiences
 
-2016년 7월 14일 (목) 12:40 - 17:30
-서울아산병원 동관 6층 대강당
+### National support for rare disease : Current status and future prospects
+Speaker : Hyun-Young Park, M.D., Ph.D. Centers for Disease Control and Prevention
 
+- Orphan disease
+- Disease criteria : EU 5/10000, US \<200k, japan \<50k, WHO \<6.5-10/10k, 유병인구 \<20k
+- 희귀성 : market failure
+- 2012 유전자 진단지원, 2016 희귀질환 종합대책
+- 희귀 난치성질환 전문정보 - helpline
+- IRDiRC
+- 정부지원사업의 문제점
 
-서울아산병원 임상시험글로벌선도센터 최영락
-02-3010-8636 cyr0114@amc.seoul.kr
-문 의 처
-일시· 장소
-온라인 접수 (http://ctc.amc.seoul.kr)
-6월 30일(목)일까지 선착순 : 300명 / 등록비 : 무료
-※선착순 등록으로 조기 마감될 수 있습니다.
+### Translational research for drug development : Historical perspective
+Speaker : Seung-Eun Choi, M.D., Ph.D. Ministry of Food and Drug Safety
 
-AGENDA
-Time Title Speaker
+- TM - History not so long 2004
+- T1(testing in humans), T2
 
-12:40 ~ 12:55 (’15) Congratulatory remarks
-Asan Medical Center
-Chong Jai Kim, M.D., Ph.D.
-Ministry of Food and Drug Safety
-Hye-Kyung Park, Ph.D.
-12:55 ~ 13:00 (’05) Opening remarks Asan Medical Center
-Tae Won Kim, M.D., Ph.D.
-Session 1 R are diseases in Korea : Status & Research experiences
-13:00 ~ 13:20 (’20) National support for rare disease : Current status and future
-prospects
-Centers for Disease Control and Prevention
-Hyun-Young Park, M.D., Ph.D.
-13:20 ~ 13:40 (’20) Translational research for drug development :
-Historical perspective
-Ministry of Food and Drug Safety
-Seung-Eun Choi, M.D., Ph.D.
-13:40 ~ 13:45 (’05) Q & A
-Session 2 Global r egulatory experiences in orphan drug development
-13:45 ~ 14:10 (’25) Considerations for drug development for rare diseases :
+## Session 2 Global regulatory experiences in orphan drug development
+
+### Considerations for drug development for rare diseases :
 Cases of inborn errors of metabolism
-USA
-In Sook Kim, Ph.D.
-14:10 ~ 14:35 (’25) Role of pharmacometrics in the development of orphan drugs
-USA
-Jee Eun Lee, Ph.D.
+Speaker: In Sook Kim, Ph.D.
+
+
+### Role of pharmacometrics in the development of orphan drugs
+14:10 ~ 14:35 (’25)
+Speaker: Jee Eun Lee, Ph.D. FDA
+
 14:35 ~ 14:45 (’10) Q & A
 14:45 ~ 15:00 (’15) Break
-Session 3 Lessons and learned : R&D for rare disease
+
+## Session 3 Lessons and learned : R&D for rare disease
 15:00 ~ 15:20 (’20) Lessons from an orphan drug development (I) SANOFI GENZYME
 Marcus Martin Klein, JPAC Medical Head
 15:20 ~ 15:40 (’20) Lessons from an orphan drug development (II) ISU ABXIS
@@ -60,20 +50,22 @@ Asan Medical Center
 Yoo Han-wook, M.D., Ph.D.
 16:20 ~ 16:30 (’10) Q & A
 16:30 ~ 16:45 (’15) Break
-Session 4 Asan initia tives for rare disease
+
+## Session 4 Asan initia tives for rare disease
 16:45 ~ 17:15 (’30)
 Leverage big data to better understand rare disease states and
 patient needs (rare disease registry & research experience)
 Asan Medical Center
 Kyu-pyo Kim, M.D., Ph.D.
-Align commercial and development team to forecast success
-through “PRISM”
+
+Align commercial and development team to forecast success through “PRISM”
 Asan Medical Center
-Young-Kwang Yoon, Ph.D.
-Knowledge and perceptions of clinical research of patients
-suffering from rare diseases
+Speaker: Young-Kwang Yoon, Ph.D.
+
+Knowledge and perceptions of clinical research of patients suffering from rare diseases
+
 Asan Medical Center
-So Young Park, M.D.
+Speaker : So Young Park, M.D.
+
 17:15 ~ 17:25 (’10) Q & A
 17:25 ~ 17:30 (’05) Wrap-up
-
