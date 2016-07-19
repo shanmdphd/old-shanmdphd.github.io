@@ -22,3 +22,10 @@ tag: [Julia, R]
  
 Julia를 배워볼만 하다는 생각이 듭니다.
 
+ATOM에서 Julia IDE를 사용할 수 있다는 [Julia의 공식 블로그 글](http://julialang.org/blog/2016/01/atom-work)을 보니 더욱 흥미롭습니다.
+
+![](https://github.com/JunoLab/atom-ink/raw/readme/demos/full.gif)
+
+> Julia users aren’t just programmers – they’re engineers, scientists, data mungers, financiers, statisticians, researchers, and many other things, so it’s vital that our IDE is flexible and extensible enough to support all their different workflows fluidly.
+
+무척이나 공감가는 블로그 본문의 문장입니다.
