@@ -10,7 +10,7 @@ tag: [Julia, R]
 
 [전북대 김민걸 교수님 블로그](http://blog.naver.com/kimmingul/220722294159)에서 Julia란 프로그램을 접하게 되었습니다.
 
-간단한 프로그램을 짜서 돌려보았습니다.
+간단한 프로그램을 다음의 [링크](http://www.johnmyleswhite.com/notebook/2012/03/31/julia-i-love-you/)에서 참고하여 돌려보았습니다.
 
 - Julia
 
