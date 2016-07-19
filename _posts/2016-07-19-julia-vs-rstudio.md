@@ -13,9 +13,11 @@ tag: [Julia, R]
 간단한 프로그램을 짜서 돌려보았습니다.
 
 - Julia
+
 ![](/images/julia.png)
 
 - Rstudio
+
 ![](/images/rstudio.png)
 
 속도의 차이가 상당합니다.
