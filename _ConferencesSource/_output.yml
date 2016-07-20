@@ -1,6 +1,6 @@
 bookdown::gitbook:
   css: css/style.css
-  split_by: section
+  split_by: chapter
   config:
     toc:
       collapse: subsection
@@ -22,7 +22,6 @@ bookdown::pdf_book:
   keep_tex: yes
   latex_engine: xelatex
   citation_package: natbib
-mainfont: NanumGothic
 
 bookdown::epub_book:
   stylesheet: css/style.css

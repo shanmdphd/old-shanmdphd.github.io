@@ -1,6 +1,6 @@
-# Prism
+# Prism 2016
 
-## Morning
+## Morning Session
 
 ### Lim Covariate model
 
@@ -11,7 +11,7 @@
 - Secondary endpoint
 - late recurrence
 - 통상적인 VPC - K-M plots
-- Modeling and simulation analysis of the relationship between lesion recurrence on brain images and clinical recurrence in patients with ischemic stroke http://onlinelibrary.wiley.com/doi/10.1002/jcph.427/abstract `r citep("10.1002/jcph.427")`
+- Modeling and simulation analysis of the relationship between lesion recurrence on brain images and clinical recurrence in patients with ischemic stroke ^[http://onlinelibrary.wiley.com/doi/10.1002/jcph.427/abstract] `r citep("10.1002/jcph.427")`
 
 #### MR image -> 예후 예측
 - mRS (modified Rankin Scale)
@@ -34,7 +34,7 @@
 - 피터 뮬리건? <-> 아만티아(놀려고 함..)
 - 밥 파월 =  임동석 선생님
 
-## PRISM Afternoon
+## Afternoon Session
 2016.07.12
 
 ### Kim
@@ -133,8 +133,6 @@
 - oral use | initial U.S. Approval 2016.05.27 - FXR agonist - Tx of PBC - Omega matrix -> POPPK analysis
 - NUPLAZID (pimavanserin)
 - Parkinson's ds psychosis
-- Oral
-
 - POP modeling 구체적목적
 - fixed effects covariate 찾는다
 - interintra subject random variability의 크기를 평가

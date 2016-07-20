@@ -1,4 +1,12 @@
-# MFDS-Asan Joint Symposium on Rare Diseases 2016
+---
+output:
+  bookdown::html_book:
+    toc: yes
+    css: toc.css
+---
+`r library(knitcitations)`
+
+# MFDS-Asan Joint Symposium on Rare Diseases 2016 {#MFDS}
 Accelerating Research and Development of Orphan Drugs for Rare Diseases
 식품의약품안전처-서울아산병원 임상시험글로벌선도센터 공동 주관 심포지엄
 
@@ -7,8 +15,7 @@ Accelerating Research and Development of Orphan Drugs for Rare Diseases
 ## Session 1 Rare diseases in Korea : Status & Research experiences
 
 ### National support for rare disease : Current status and future prospects
-Speaker : Hyun-Young Park, M.D., Ph.D. Centers for Disease Control and Prevention
-
+- Speaker : Hyun-Young Park, M.D., Ph.D. Centers for Disease Control and Prevention
 - Orphan disease
 - Disease criteria : EU 5/10000, US \<200k, japan \<50k, WHO \<6.5-10/10k, 유병인구 \<20k
 - 희귀성 : market failure
@@ -18,16 +25,14 @@ Speaker : Hyun-Young Park, M.D., Ph.D. Centers for Disease Control and Preventio
 - 정부지원사업의 문제점
 
 ### Translational research for drug development : Historical perspective
-Speaker : Seung-Eun Choi, M.D., Ph.D. Ministry of Food and Drug Safety
-
+- Speaker : Seung-Eun Choi, M.D., Ph.D. Ministry of Food and Drug Safety
 - TM - History not so long 2004
 - T1(testing in humans), T2
 
 ## Session 2 Global regulatory experiences in orphan drug development
 
 ### Considerations for drug development for rare diseases : Cases of inborn errors of metabolism
-Speaker: In Sook Kim, Ph.D. FDA Office of Clinical Pharmacology
-
+- Speaker: In Sook Kim, Ph.D. FDA Office of Clinical Pharmacology
 - Beginning with the goal in mind
 - 45 NME/New BLA in 2015
 - Novel Drug Approval for rare diseases 2010-2015, 77 novel drugs for rare (37 cancer, 10 inborn e of metabolism)
@@ -36,45 +41,86 @@ Speaker: In Sook Kim, Ph.D. FDA Office of Clinical Pharmacology
 - Goals: safe and efficacious drug
 - uncertainty를 줄이고, evidence of efficacy and safety
 - Challenging: Limited clinical experiences, Lakc of understanding of natural history of the disease - limited opportunities for learning
--
-
+- Ivacaftor: CFTR protein - for G551D(Defective CFTR protein), hard to apply
+![](http://www.cftr.info/wp-content/uploads/m1_s2_03_02_01_tab2_v2.jpg)
+  - [Phase II Trial](http://investors.vrtx.com/releasedetail.cfm?ReleaseID=902790)
+  - Phase 2 Trial - 39 patients
+  - PD parameters: sweat Cl, Nose potential difference, Lung function: FEV1
+  - [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa1409547)
+- Eliglustat ([Cerdelga^&reg;^](http://www.cerdelga.com/))
+  - glucosylceramide synthase inhibitor indicated for the long-term treatment of adult patients with Gaucher disease type 1 who are CYP2D6 extensive metabolizers (EMs), intermediate metabolizers (IMs), or poor metabolizers (PMs) as detected by an FDA-cleared test
+  - Metabolized by CYP2D6, CYP3A4
+  - Simulation and Modeling
+  - EM, systemic exposure at SS is 7-9 fold higher in poor metabolizer
+  - PBPK analysis - CYP2D6, CYP3A4 inhibitor 동시에 넣었을때 24배 증가 prediction
+  - Contraindication!
+  - Risk management에서 중요함!
+- Sebelipase alfa ([Kanuma^&reg;^](http://www.kanuma.com/))
+  - 2 Pivotal studies (Infantile-onset(Wolman ds), Late-onset(Cholesteryl ester storage ds))
+  - FDA-APPROVED TREATMENT FOR LYSOSOMAL ACID LIPASE DEFICIENCY (LAL-D)
+  - Webpage ^[http://news.alexionpharma.com/press-release/product-news/fda-approves-kanuma-sebelipase-alfa-treatment-patients-lysosomal-acid-lip]
+- Opportunities for innovation
 
 ### Role of pharmacometrics in the development of orphan drugs
-14:10 ~ 14:35 (’25)
-Speaker: Jee Eun Lee, Ph.D. FDA
+- Speaker: Jee Eun Lee, Ph.D. FDA
+- Orphan drug Act
+- NORD (National Organization for Rare Disorders)
 
-14:35 ~ 14:45 (’10) Q & A
-14:45 ~ 15:00 (’15) Break
+![](https://photos-1.dropbox.com/t/2/AACozuW4Vf4vK2D7o8LPQKzKP7PMAQH2Cfw6sEUwXNFJIA/12/572349295/png/32x32/3/1468490400/0/2/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-07-14%2014.31.57.png/EKbJsswEGJsBIAIoAg/jV9dY40okGZfhE2bWbwRM4AV3vzRSvHnAHoCNbCGcGc?size_mode=3&size=1280x960&dl=0)
+
+- Orphan vs non-orphan (# of CT 2.8 vs 3.5)
+- Pharmacometric analysis in 26% and 84% were pivotal for approval and labeling decisions, respectively.
+- Oncology에서는 body weight. drug & surface의 관계가 있다.
+- Adalimumab in pediatric CD
+  - CDAI vs PCDAI
+  - J.Lee Digestive Disease Week, 2016
+  - Role of Quantitative Clinical Pharmacology in Pediatric Approval and Labeling `r citep("10.1124/dmd.116.069559")` ^[http://dmd.aspetjournals.org/content/44/7/924.long]
 
 ## Session 3 Lessons and learned : R&D for rare disease
-15:00 ~ 15:20 (’20) Lessons from an orphan drug development (I) SANOFI GENZYME
-Marcus Martin Klein, JPAC Medical Head
-15:20 ~ 15:40 (’20) Lessons from an orphan drug development (II) ISU ABXIS
-June Young Park, Vice President
-15:40 ~ 16:00 (’20) Case studies on inflammatory bowel disease Asan Medical Center
-Byong Duk Ye, M.D., Ph.D.
-16:00 ~ 16:20 (’20) Case studies on drug targets in rare & ultra-rare genetic
-disorders
-Asan Medical Center
-Yoo Han-wook, M.D., Ph.D.
-16:20 ~ 16:30 (’10) Q & A
-16:30 ~ 16:45 (’15) Break
+
+### Lessons from an orphan drug development (I)
+- Speaker: Marcus Martin Klein, JPAC Medical Head SANOFI GENZYME
+- Gaucher ds.
+
+### Lessons from an orphan drug development (II)
+- Speaker: June Young Park, Vice President ISU ABXIS
+- 혈우병 치료제
+
+### Case studies on inflammatory bowel disease Asan Medical Center
+- Speaker: Byong Duk Ye, M.D., Ph.D. Asan Medical Center
+- 젊을때 발병해서 평생 지속되는 안좋은 특성
+- 원인 잘 몰라 Genetic predisposition, gut microbiota (dysbiosis)
+- Korean GWAS Gut 양석균
+
+### Case studies on drug targets in rare & ultra-rare genetic disorders
+- Speaker: Yoo Han-wook, M.D., Ph.D. Asan Medical Center
+- Disease-driven vs Drug driven
+- transformative drugs of past 25 years
+- ultra-rare genetic disorders
+- e-patient movement
+- UDP, rare disease consortium
+- [Palallel mover](http://biz.chosun.com/site/data/html_dir/2014/10/30/2014103002717.html)
 
 ## Session 4 Asan initia tives for rare disease
-16:45 ~ 17:15 (’30)
-Leverage big data to better understand rare disease states and
-patient needs (rare disease registry & research experience)
-Asan Medical Center
-Kyu-pyo Kim, M.D., Ph.D.
+### Leverage big data to better understand rare disease states and patient needs (rare disease registry & research experience)
+- Speaker: Kyu-pyo Kim, M.D., Ph.D. Asan Medical Center
+- Disease Registry : REDCap, Research Electronic Data Capture (eCRF)
+- CDMSs
+- ABLE (clinical data)
+- CRF Review
+- redcap.amc.seoul.kr
+- cancer, ARDS, ILD, ARCD
+- Longitudinal registries that self-update can be important to investigators
+- Identifying the population and individual may benefit
 
-Align commercial and development team to forecast success through “PRISM”
-Asan Medical Center
-Speaker: Young-Kwang Yoon, Ph.D.
+### Align commercial and development team to forecast success through “PRISM”
+- Speaker: Young-Kwang Yoon, Ph.D. Asan Medical Center
+-
 
-Knowledge and perceptions of clinical research of patients suffering from rare diseases
+### Knowledge and perceptions of clinical research of patients suffering from rare diseases
+- Speaker : So Young Park, M.D. Asan Medical Center
+-
 
-Asan Medical Center
-Speaker : So Young Park, M.D.
-
+Chapter []{#MFDS}
 17:15 ~ 17:25 (’10) Q & A
 17:25 ~ 17:30 (’05) Wrap-up
