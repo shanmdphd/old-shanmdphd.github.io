@@ -5,7 +5,7 @@ categories:
 share: true
 comments: true
 tag: [Data Science, R, Rstudio, Shiny]
-published: FALSE
+published: true
 ---
 
 공감가는 제목이네요.
