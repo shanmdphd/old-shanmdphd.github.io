@@ -1,9 +1,3 @@
----
-output:
-  bookdown::html_book:
-    toc: yes
-    css: toc.css
----
 `r library(knitcitations)`
 
 # MFDS-Asan Joint Symposium on Rare Diseases 2016 {#MFDS}

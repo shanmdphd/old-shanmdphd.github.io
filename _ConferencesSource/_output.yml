@@ -1,3 +1,16 @@
+prettydoc::html_pretty:
+  theme: cayman # cayman, tactile, architect
+  number_sections: no
+  toc: true
+
+html_document:
+  theme: readable
+  number_sections: no
+  toc: true
+
+bookdown::html_chapters:
+  css: [css/style.css, css/toc.css]
+
 bookdown::gitbook:
   css: css/style.css
   split_by: chapter
@@ -12,9 +25,6 @@ bookdown::gitbook:
     edit:
       link: https://github.com/shanmdphd/shanmdphd.github.io/edit/master/_ConferencesSource/%s
       text: "Edit"
-
-bookdown::html_chapters:
-  css: [css/style.css, css/toc.css]
 
 bookdown::pdf_book:
   includes:
