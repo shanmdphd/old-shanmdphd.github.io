@@ -1,0 +1,66 @@
+# Cancer immunotherapy
+
+Image
+ 
+ 
+Image
+2016.04.04.Tue 대강당 지하1층 
+ 
+Donor NK cell therapy for refractory acute leukemia - 이규형 (서울아산) 
+- NK cell 조기에 줬더니 합병증 있었다. 열이 났다. weight gain Cytokine syndrome 그러나 착상은 잘 된다.  
+- bilirubin 올라가기도 했다. 
+- 45명 -> 33명이 cytokine syndrome 12명은 안생겨 (19명은 complete, 3명은 백혈병 나빠져, 3명은 multi organ failure로 사망) 
+- ATG level은 낮아져. IL-15은 점차 상승해 
+- nkp40 receptor 낮으면 재발. 
+- DN 
+- CD56- : 1/1000이 아마 contaminating T cell이 있지 않을까? 
+- Randomized study 하고 싶다. IIT에서 SIT로 하고 싶다.. 
+- CAR NK 세포 1-2상 임상시험. (SIT) 
+- Q) ALL이 성적이 나쁜 이유는 무엇? A) Tumor별로 다르다. 정도.. 
+- Q) CAR NK를 공부하다보니 saline을 이용한 시도? A) 가능하구요.. shelf에서 꺼내 쓸 수 있어 장점인데 아직 모른다.. 오리무중 상태.. 
+ 
+ 
+Turning tumor mutations into personalized cancer therapies. - Roman Yalensky (Gritstone oncology) 
+Genetic instability is a  
+- immune checkpoint inhibitors -> CPI ground-breaking -  
+- Overall survival in NSCLC patients | docetaxel vs nivolumab  (Anti-PD-1 mAb) - both are poor (24mo) 
+- Question ) why? some are responsive others are non-responsive. 
+- highest mutated cancer - mutations are relevant to CPI mechanism of actions (Rizvi 2015 Science) 
+- TSNA first class of altered (non) self antigen | Non-self가 less risk of therapeutic failure due to immune tolerance (Tumor-specific net-antigens)  
+- Snyder 2014 NEJM  
+- IFNg+ T cell response - (mutation) -   anti CTLA4 
+- Vaccine | Tumor infiltrating T cells are CD4 and Vb22+ 
+- Bx-seqeunceing-manufacturing | personalized process 
+- Nucleic acid | synthetic long peptide | virus | cellular 
+- Selecting new antigen |  
+- HLA-IP/MS - 7/170(4%)  
+- <1 in 20 predicted HLA-bound neoantigens are presented by tumors (Gros) - nature med 2016 http://www.nature.com/nm/journal/vaop/ncurrent/full/nm.4051.html  
+- Exome and T txTome & tumor MS HLA peptide sequencing  
+- FFPE tissue specimens |  
+ 
+Translational Research of immune-oncology in real world - 정헌 (MSD) 
+- Immune monitoring 꼭 필요하다.  
+- MSD Oncology Medical Director 
+- PD-1/PD-L1 pathway development (20년) Dr.Honjo가 발견 
+- ipilimumab (Mono) - melanoma 3y OS|~20% 
+- Combination regimen (Optimal combination)  
+- Biomarker | Combination rationale | New immune modulator  
+- Enough resources + regulatory support + collaboration + clear objective + straightforward operation + agility flexibility + right IO target identification + irTME understanding + material archiving 
+- responder group찾고 관련된 target, pathway를 찾는다.  
+- combinational - 400여개의 trial 이 이뤄지고 있다. coinhibitory보다 costimulatory가 훨씬 어렵다. - antiCD137, antiPD-1, antiOX40 
+- Keynote (biomarker)  
+- Hurdle 
+- 1 Gap of immune related TME between human and animal | CD28 - mouse ? 
+- 2 immune monitoring이 중요하다.  
+- 3 evaluation of CD8+ TEM cell - CD45RO+ memory(responder) 
+- 4 Inadequate tissue quality and volume (20%가 necrosis, fibrosis) 
+- 5 SOC discordance (US and Korea) 
+- 6 different Ab or platform  
+- 7 FFPE - Gene expression signature - platform 찾아야. 
+- 8 gap between leading countries and second runner in IO (US - 4 pathway segment, 9 products segment) 
+- simple and easy to understand  
+ 
+
+
+
+
