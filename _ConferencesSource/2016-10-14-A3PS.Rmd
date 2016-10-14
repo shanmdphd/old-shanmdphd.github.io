@@ -1,15 +1,20 @@
-# The 2nd A3 Pharmacometrics Symposium
+The 2nd A3 Pharmacometrics Symposium
+==========================================
 
-Harmonization of Regulatory view about Pharmacometrics and sharing experience on population approach
-Date: 14th October, 2016 (Friday)
+**Harmonization of Regulatory view about Pharmacometrics and sharing experience on population approach**
 
-Location: Teok-Seong-Hwa Hall (Room No. 413-1), College of Pharmacy (Building No. W6), Chungnam National University, Daejeon, Korea
-
-Sponsored by: PAGK, PAGJa and PCPC
+- Date: 14th October, 2016 (Friday)
+- Location: Teok-Seong-Hwa Hall (Room No. 413-1), College of Pharmacy (Building No. W6), Chungnam National University, Daejeon, Korea
+- Sponsored by: PAGK, PAGJa and PCPC
 
 ![](http://imgur.com/37iVQ)
 
-### Noh
+Young Scientist Session
+-------------
+
+### Modeling of mycoplasma tuberculosis biomarkders for cure
+- speaker: Yookwhan Noh
+
 #### Introduction
 - mycobateria taxonomy
     - Myco. Tuberculosis
@@ -20,13 +25,13 @@ Sponsored by: PAGK, PAGJa and PCPC
 #### Gene Xpert
 - ETA distribution from Xpert : Skewed to left.
 
-### Herpes
+### Integrative PKPD modling and simulation of Amenamevir for treatment of recurrent genital herpes
+- Akitsuga Takada
 - HSV-1, HSV-2(Genital)
 - PKPD analysis
-- 
 
-### Hot flashes
-
+### Model Based Meta-Analysis to quantify and compare the efficacy of non-hormonal drugs on menopausal Hot flashes
+- Lujin Li (PCPC)
 - Hot flashes - low levels of estrogen
 - SSRI, SNRI, Gabapentin, clonidine
 - Tx : HRT, Non-hormonal drugs - regulators of central neurotransmitters, phytoestrogens
@@ -41,12 +46,8 @@ Sponsored by: PAGK, PAGJa and PCPC
 - Placebo
 - run-in design is better.
 
-#### Questions
-- Papers - 
-- heterogenous population - genetic predisposition
-psychological expectations
-
-### Meropenem, Obesity
+### Dosing optimization in obesity using pharmacometrics approach: population PK and PD of meropenem in non-obese, obese and mobidly obese patients
+- Eun Kyung Chung (PAGK)
 - PK model development
 - Stepwise model development
 - Covariate model building
@@ -57,6 +58,96 @@ psychological expectations
 - MIC - probability of target attainment
 - PD analysis - CrCl<50
 
+Application Session
+-------------
 
+### The application of pharmacometrics in individual therapy in China
+- speaker: Zheng Jiao (PCPC)
+- [Java PK for dashtop](http://pkpd.kmu.edu.tw/jpkd/)
+- Bayesian Dose Estimation
+- Drugs - Immunosuppressant, vanco, anti-epil
+- Non adhereence in chronic disease
+- individualized therapeutic range
+- many dashboard systems in China
 
+### PD model fo Bayesian Prediction of myelosuppression rpofiles based on routine clinical data after gemcitabine and carboplatin treatment
+- speaker: Yoshitaka Yano (PAGJa)
+- GEM, CDDP - PLT, RBC, WBC
+- NM7.3 FOCE
+- Bootstrap resampling / estimation
+- Correlation plots of IPRED vs DV
+- VPC - 90% predictive interval
+
+### Modeling and validating chronic pharmacological manupulation of circadian rhythms
+- speaker: Jaekyung Kim(PAGK)
+- Transcriptional negative clock
+- Entrain.org
+- sensitive to dosing timing, light
+- 180 variables
+- Okazaki (2014), Symptom differs (2010)
+
+### Application of PK/PD modeling and simulation in antiviral drug development
+- speaker: Kun Wang (PCPC)
+- varal dynamic model 
+- HIV replication cycle 
+- Target - Virus - Infected cell
+- T (CD4) I (Infected CD4) 
+- Lopinavir/Ritonavir (LPV/RTV) 
+- influenza - oseltamivir, oseltamivir carboxylate
+
+### pharmacometrics in clinical practice: pop PK analysis of febuxostat in patients with severe renal impairment
+- speaker: Daiki Hira
+- Febuxostat - renal execretion + biliary
+- Allopurinol -> Oxypurinol - renal execretion
+
+Regulation
+-------------
+
+### Japan
+- speaker: Yusuke Tanigawara (PAGJa)
+- Structural, Error, Covariate model
+- Model diagnosis - 각 스텝마다 해야 된다.
+- Model qualification(or evaluation / validation)이 중요하다. Final stage -> Bootstrap, External validation, VPC
+
+### Korea
+- speaker: Howard Lee (PAGK)
+- 의약품 개발 시 집단 약동학 활용
+- Dose optimization and ethnic bridging
+- Technical pharmacometrics trap
+- Impact 
+- Technical modelling
+
+### EMA regulations on meling issues
+- speaker: Jaewoo Kim (PAGK)
+- Guidance for industry
+
+### Recent examples of impact of pharmacometrics in decision making
+- speaker: Jee Eun Lee (USA)
+- Parieotide - somatostatin analogue (high affinity for sstr5) -> somatostatin analogue (Novartis)
+- 600ug BID failed to meet the pre-specified primary efficacy endpoint
+- Flat E-R for efficacy / steep E-R for hyperglycemia
+- Good for some - urine cortisol high patients 
+
+#### Secukinumab
+- Chronic Plaque Psoriasis
+- Interindividual variability (PD, PK)
+- Secukinumab (Cosentyx) - target population
+- https://en.wikipedia.org/wiki/Secukinumab (Novartis)
+- Example of dose optimization
+- Body weight - significant covariate - conc decreases with body weight (stratified by 90kg)
+- Conc are higher in patients < 90kg
+- 90kg 이상의 사람에게 150mg 추가 용량을 투여하는게 적합한가?
+- IL-17(A) - Etanercept, infliximab, adalimumab(humira, shallow), ustekinumab = biologics
+- IgA, 4 Phase III, (2 of them were pivotal study)
+- PMC - post marketing commitment
+- the higher conc. => the higher incidence of infections (tolerable)
+
+#### Edoxaban (흥미로운 약물)
+- NOAC - New Oral Anti-coagulants (4th)
+- 1st rivaroxaban, 2nd dabigatran(issue-EMA), 3rd apixaban
+- Ace Meeting?
+- Normal - Mild - Moderate
+- Exposure - response relationships (Efficacy-Stroke, safety-bleeding)
+- Benefir-risk relationship is not novel. (Dabigatran: RE-LY trial)
+- exposure-response relationship PK matching.
 

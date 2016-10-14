@@ -161,7 +161,7 @@
 > Conclusion: These data indicate that CED ingestion can increase the risk of serious caffeine intoxication in young adolescents, particularly those with low body mass.
 
 ### Pharmacometrics in Dose Optimization
-- Speaker : Lee, FDA
+- Speaker : Jee Eun Lee, FDA
 - Interindividual variability (PD, PK)
 - Secukinumab (Cosentyx) - target population
 - https://en.wikipedia.org/wiki/Secukinumab (Novartis)

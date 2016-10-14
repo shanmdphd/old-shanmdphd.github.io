@@ -1,4 +1,3 @@
-setwd("~/GIT/shanmdphd.github.io/_ConferencesSource")
 quiet = "--quiet" %in% commandArgs(FALSE) #formats = commandArgs(TRUE)
 formats = "bookdown::gitbook" #formats = "bookdown::pdf_book"
 
