@@ -1,6 +1,6 @@
 ---
-title: "Conferences 2016"
-author: "Sungpil Han"
+title: "Summary of Conferences 2016"
+author: "Sungpil Han, M.D./Ph.D."
 date: "`r Sys.Date()`"
 
 knit: "bookdown::render_book"

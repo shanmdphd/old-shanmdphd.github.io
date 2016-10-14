@@ -7,7 +7,7 @@ The 2nd A3 Pharmacometrics Symposium
 - Location: Teok-Seong-Hwa Hall (Room No. 413-1), College of Pharmacy (Building No. W6), Chungnam National University, Daejeon, Korea
 - Sponsored by: PAGK, PAGJa and PCPC
 
-![](http://imgur.com/37iVQ)
+![](http://i.imgur.com/L5sx5As.jpg)
 
 Young Scientist Session
 -------------
@@ -150,4 +150,5 @@ Regulation
 - Exposure - response relationships (Efficacy-Stroke, safety-bleeding)
 - Benefir-risk relationship is not novel. (Dabigatran: RE-LY trial)
 - exposure-response relationship PK matching.
+- Identifying covariates prior to Phase 3
 
