@@ -1,6 +1,5 @@
 # 2016년 신약임상개발 전문가 과정 "Clinical Research Science Expert Course for Cutting-edge Drug Development"
 
-![](http://i.imgur.com/ouxeUJu.png)
 
 - 교육기간 : 2016. 09. 29(목) ~ 2016. 09. 30(금) (2일)
 - 교육시간 : 9:00~18:00 
@@ -182,3 +181,5 @@
     + Adaptive clinical trial design 
 
 
+
+![](http://i.imgur.com/ouxeUJu.png)

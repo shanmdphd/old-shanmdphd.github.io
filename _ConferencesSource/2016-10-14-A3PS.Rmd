@@ -1,0 +1,62 @@
+# The 2nd A3 Pharmacometrics Symposium
+
+Harmonization of Regulatory view about Pharmacometrics and sharing experience on population approach
+Date: 14th October, 2016 (Friday)
+
+Location: Teok-Seong-Hwa Hall (Room No. 413-1), College of Pharmacy (Building No. W6), Chungnam National University, Daejeon, Korea
+
+Sponsored by: PAGK, PAGJa and PCPC
+
+![](http://imgur.com/37iVQ)
+
+### Noh
+#### Introduction
+- mycobateria taxonomy
+    - Myco. Tuberculosis
+    - MOTT
+- VPC results impreved by several steps
+- Model validation by **bootstrap**
+
+#### Gene Xpert
+- ETA distribution from Xpert : Skewed to left.
+
+### Herpes
+- HSV-1, HSV-2(Genital)
+- PKPD analysis
+- 
+
+### Hot flashes
+
+- Hot flashes - low levels of estrogen
+- SSRI, SNRI, Gabapentin, clonidine
+- Tx : HRT, Non-hormonal drugs - regulators of central neurotransmitters, phytoestrogens
+- Lancet 2008 - limitation : speed of onset
+- MBMA - useful (Model based meta analysis)
+- Pubmed, cochrane library
+- hot flash, 
+- Emax model
+15,5,4,~ (39 studies)
+    - The effects
+- soy isoflavones
+- Placebo
+- run-in design is better.
+
+#### Questions
+- Papers - 
+- heterogenous population - genetic predisposition
+psychological expectations
+
+### Meropenem, Obesity
+- PK model development
+- Stepwise model development
+- Covariate model building
+- Model selection criteria : goodness of fit plots, RSE, OFV
+- Structural CMT PK model
+- observed conc - individual predicted concentration
+- Visual predictive checks - quite good
+- MIC - probability of target attainment
+- PD analysis - CrCl<50
+
+
+
+
