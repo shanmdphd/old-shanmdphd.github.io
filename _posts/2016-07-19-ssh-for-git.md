@@ -11,7 +11,6 @@ tag: [Git, SSH, Data Science]
 
 검색을 해보니 SSH 설정을 새롭게 해보라는 설명이 있어 다음과 같이 시도하였습니다.
 
-
 ```shell
 ls -al ~/.ssh
 eval "$(ssh-agent -s)"
@@ -22,4 +21,3 @@ ssh-add ~/.ssh/github_rsa
 
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#adding-your-ssh-key-to-the-ssh-agent
 
-Sungpil Han
