@@ -9,7 +9,7 @@ Plenary lectures
 ----------------
 
 ### Plenary 2
-Camran Nezhat, M.D. Lectureship in Innovations in Medicine
+- speaker: Camran Nezhat, M.D. Lectureship in Innovations in Medicine
 - speaker: Diana W. Bianchi, M.D. Tufts University School of Medicine (NICHD director, soon-to-be)
 - Maternal Plasma DNA Sequencing 
 - Noninvasive prenatal genetic testing using analysis of cell-free DNA in maternal plasma has translated to and transformed clinical care. 
