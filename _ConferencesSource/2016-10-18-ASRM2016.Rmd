@@ -1,0 +1,328 @@
+ASRM 2016
+=========
+
+ASRM 2016은 미국생식의학회에서 주최하는 가장 큰 학회입니다.
+
+https://drive.google.com/open?id=0B7BS_yg2ja1EeUFxWkxFWVU3dEE
+
+Plenary lectures
+----------------
+
+### Plenary 2
+Camran Nezhat, M.D. Lectureship in Innovations in Medicine
+- speaker: Diana W. Bianchi, M.D. Tufts University School of Medicine (NICHD director, soon-to-be)
+- Maternal Plasma DNA Sequencing 
+- Noninvasive prenatal genetic testing using analysis of cell-free DNA in maternal plasma has translated to and transformed clinical care. 
+- importance of positive and negative predictive values
+
+### Plenary Lecture 3 : The importance of Long-acting reversible contraception (LARC)
+- speaker: Jeffrey F. Peipert (Indiana University)
+- Unintended pregnancy = High-risk pregnancy
+    - Less likely to seek prenatal management
+- Huge difference among countries - Sexual activity = Similar (US and Sweden)
+- Teen birth 는 감소하고 있다.
+- Common contraceptive method - OCP, Sterilization , Condom, Vasectomy
+- IUD, DMPA, Implant - highly effective
+- LNG-IUS ~ 5y, Copper ~ 10y, Implnat - 3y
+- Myths - infection, infertility, pain, cancer, 
+    - Providers - litigation fear
+- Safety 
+    - IUD does not cause PID (Only first month)
+    - IUD does not cause infertility (Chlamydia - infertility)
+    - Etopic pregnancy - Actually reduce!
+    - Actually lower risk of endometrial, cervical cancer
+- Poor candidates for IUD - puerperal sepsis, post septic abortion, unexplained vaginal bleeding, current cervitis, chlamydia
+- Adolescents - encourage use of dual
+- Etonogestrel implant - subdermally implant (NEXPLANON)
+    - inhibits ovulation
+    - <1%
+    - didn't vary by BMI status
+    - discontinuation - bleeding irregulatities
+- Contraceptive Choice Project
+    - Promote LARC use
+    - 50% believe IUC is safe
+    - 10,000 participants (4 years) CHOICE study
+    - 2000 teenagers
+    - 75% chose LARC. 
+    - NEJM published (2 papers)
+    - Very reliable - especially teenagers
+    - Decreased repeated abortion
+    - Race disparity can be minimized.
+- Edutcation, Access, Costs & LARC-friendly providers
+- Dissemination strategies - Short videos
+
+**Summary**
+
+- Unintended pregnancy and teen pregnancy continue to be important health problems in the United States. 
+- Long-acting reversible contraception (LARC) is one strategy that has proven to be effective, yet underutilized. 
+
+### Plenary 4
+- speaker: Jay Ross Kaplan, Ph.D. Wake Forest School of Medicine
+- CV (CHD and stroke) - not just for men
+- WISE study - endogenous estradiol in premenopausal women w or wo CHD
+- Conclusions from epidemiology of sex differences in CHD
+- Pre- and sugically postmenopausal monkeys
+- Subclinical ovarian dysfunction - relatively common in premenopausal monkeys - precocious acceleration of atherosclerosis.
+- Exogenous hormones (OCs) mitigate this effect.
+- Estrogen treatment immediately following ovariectomy inhibits atheosclerosis; **delayed treatment ineffective** - perhaps because lesions are larger.
+- CHD risk in pre- and early post-menopausal women - ELITE tiral and numerous re-examinations of existing trials.
+
+### Plenary 5
+- speaker: Jan Deprest, M.D., Ph.D., F.R.C.O.G. - University of Leuven
+- Fetal surgery
+- Obstetical endoscopy - TTTS 
+- Angiogram showed "Third" circulation.
+- "Chorangiopagus" - donor (oligohydramnios) recipient (polyhydramnios)
+- Ultrasound screening programs can pick up congenital malformations, of which some are eligible for prenatal surgical repair. 
+- **Some procedures are possible by fetoscopy**, while others require a hysterotomy. 
+- impact of fetal surgery on the future reproductive life of the mother
+- MOMS trial - 12mo outcomes (prenatal surgery, postnatal surgery) - uterine dehiscence (10%) !!!!
+- Congenital diaphragmatic hernia - lethal pulmonary hypoplasia - fetoscopic surgery (tracheal occlusion)
+    
+**Future**
+
+- Fetal surgery - fails in ~40% of cases -> Novel target discovery - gene expression analysis
+- Explorer candidate medical Tx. -> Viagra
+
+**Conclusion**
+
+- Fetoscopy is a clinical reality (few materal Cx <1%)
+- Open surgery (high materal morbidity)
+
+### Plenary 6 Update on Congenital Adrenal Hyperplasia
+- Maria I. New, M.D. -> Icahn School of Medicine at Mount Sinai
+- SRY (Y chromosome) Sertoli - MIF (Mullerian Inhibiting Factor -> supress tubes) -> Mullerian regression
+    - Leydig cells -> testosterone -> DHT (Penis, scrotum)
+- 17OH Progesterone (CAH screening)
+
+![](http://www.aafp.org/afp/1999/0301/afp19990301p1190-f2.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjtTN96V1rM" frameborder="0" allowfullscreen></iframe>
+
+- bone age advancement, rapid growth
+- Classical diseases
+- Congenital adrenal hyperplasia is a common inherited form of **adrenal insufficiency** due to mutations (genetic defects) in the genes coding for several enzymes needed to produce vital adrenal cortex hormones. 
+- such as drug therapy with androgen-blocking effects and growth hormone to delay puberty, as well as surgical options, including prenatal therapy. 
+
+### Plenary 7 - Why Parents Matter (Epigenetically): Genomic Imprinting in Health and Disease
+- Marisa S. Bartolomei, Ph.D.
+
+### Plenary 8: AUA Bruce Stewart Memorial Lecture: The Futures of (Male(Reproductive)) Medicine
+- Craig Niederberger, M.D., F.A.C.S.
+- stackoverflow - [advance all elements in a Range in Swift](http://stackoverflow.com/users/708833/dribbler)
+- WOLFRAM Mathematica
+- second order differential mathematics
+- [Wolfram Alpha](https://www.wolframalpha.com/) 
+- Raspberry Pi
+- [RASPBERRY PI ZERO: THE $5 COMPUTER](https://www.raspberrypi.org/blog/raspberry-pi-zero/)
+- Medical Therapy - prior to TESE
+- the future of reproductive medicine
+- Urine pressure checker by Raspberry Pi
+- Sperm analysis by automated machine
+- Future shock by Alvin Toffler
+
+Prize Oral
+----------
+
+### mTOR inhibitors preserve fertility in a murine model : a novel pharmacologic approach to fertility preservation during gonadotoxic chemotherapy 
+- Kara Goldmann (NYU) Schneider lab
+- diminished ovarian reserve
+- PI3K -> AKT -> mTORC1
+- mTORC1 inhibitors (Everolimus) - breast cancer
+- mTOR inhibitor 단독은 부작용 있지만, cyclophosphamide가 ovarian reserve를 보존할 수 있다
+- rodent experiment
+- AMH - (when increased, ovarian reserve decreased) 
+- Cytoxan단독은 AMH 낮추나 복합은 여전히 높아져 있음
+- RAD INK daily CY(cyclophosphamide) RAD+CY INK+CK
+- mTOR inhibitors preserved fertility
+
+### Verification of accuracy & safety for ovarian reserve assessment with optical coherence tomography using mouse ovary
+- Seido Takae
+- establishment of standard follicle imaging
+- Safety of OCT - No impact on IVF outcome
+- Clinical Trial - vitrification - aplastic anemia (15/F)
+- Young cancer or POI patient can be benefited (Ovariectomy)
+- Laparoscopy
+
+### O-6 RANDOMIZED CONTROLLED TRIAL OF LOW (5%) VS. ULTRALOW (2%) OXYGEN TENSION FOR IN VITRO DEVELOPMENT OF HUMAN EMBRYOS
+- speaker: Daniel Kaser
+- 5% - oviduct
+- 2% - uterine
+- How about culturing environment? 배양도 같은 방법으로 해야 하나?
+- Design : 5% O2 (D1-D3) -> 5% vs 2% O2 (D4~ )
+- Primary endpoint: Embryo stage and grade 
+- Secondary endpoint: Spent media analyses
+- These findings support our hypothesis that blastocyst yield and quality may be superior when O2 tension is reduced from 5% to 2% on day 3, thereby recapitulating the O2 environment in vivo. 
+
+Symposium : Overview of Food and Drug Administration (FDA) Regulations of Products Used to Treat Reproductive Conditions in Women
+---------------------------------------------------------------------------------------------
+
+- panel: Yun-shang Piao, Ph.D., R.A.C., Rhonda M. Hearns-Stewart, M.D., Shelley R. Slaughter, M.D., Ph.D., Monica Garcia, Ph.D., Michael T. Bailey, Ph.D.
+
+### Richard D. McFarland, M.D., Ph.D.
+- OTAT - Office of Tissues and Advanced Therapies
+- Cellular therapies, Cancer vaccines etc
+- Human cells, Tissues (HCT/Ps)
+- Two regulatory tiers 
+    - "361 HCT/P"
+    - Drugs, devices and/or biological products
+- 2667 registered (mostly HPC, blood bank)
+- Relavant communicable disease agents or disease (RCDADs) - HIV-1,2, HBV, HBC, syphilis, 
+- Donor eligibility (DE) determination
+    - DE exception (Cells and tissue for autologous use, by sexually intimate partner..)
+- Recent final guideline
+    - Syphilis Testing - FDA-licensed, approved or cleared donor screening tests
+    - WNV(West Nile Virus) Testing - licensed NAT donor screening test (June - Sep)
+    - HBV NAT - FDA-licensed NAT donor screening test 
+    - ZIKV Screening - immediate implementation guidance
+- 지금까지는 Subpart C, 지금부터는 Subpart A 
+
+### Rhonda - CDER Drug review process
+- speaker: Rhonda 
+- Important regulatory milestones
+    - 1906 - Pure Food Drugs Act
+    - 1938 - FDC (The Act)
+    - 1951 - Durham-Humphrey Amendment - prescription drug (habit forming, potentially harming drug)
+    - 1962 - Kefauver-Harris Drug Amendment - all new drugs must also establish efficacy
+    - 1984 - Hatch
+    - 1992 - prescription drug user fee act (PDUFA 프두파)  
+    - 2007 - FDA Amendments Act (FDAAA 파다) 
+- CDER responsibility
+- Investigational New Drug (IND) - how can an unapproved new drug be tested in clinical trials?
+- IND - need or not? - Lawfully marketed? Off-label? Treat patient?
+    - Cover, TOC, Introductory statement and general plan, IB, Tox, 
+    - 30 day safety review - are the risk to the clinical participant acceptable? adequate safety monitor? - Clinical Hold (deficiency)
+- NDA - efficacy, safety - 505(b)(1), 505(b)(2)
+    - Evaluation that all requirements for submission have been met and that NDA is well orgenized
+    - Multi-disciplinary approach - Multiple levels
+    - 74-day letter
+    - Physician labeling - PLR (Physician labeling reult)
+    - REMS (risk evaluation and mitigations strategies) - REMS for NDA - medication guide, communication plan, implementation
+    - ETASU (elements to assure safeuse) - specific training
+- Phase 4 : postmarketing requirements
+- **information on regulation of medical products intended for assisted reproduction**
+- Center for Biologics Evaluation and Research (CBER), Center for Drug Evaluation and Research (CDER), and Center for Devices and Radiological Health (CDRH)
+
+### CDRH (Center for Devices and Radiological Health)
+- Monica
+- Medical device - isn't metabolized.
+- Classification - Class I (Low risk)-premarket review not required, II (Intermediate) - Petri dishes etc - typically required, III (High) - PMA required.
+- OB/GYN devices branch - ART devices, vaginal lubricants etc...
+- 21 CFR Parts 884.6100 - 6200 subpart G
+- Class II - **substantially equivalence** to another marketed devices. - Same intended use, technological characteristics
+- MOA, Materials/components, Engineering schematics, Design specifications
+- 510(k) submission - 
+    - Device description,
+    - Labeling (False/misleading claims, instructions for use)
+    - Sterilization (Method, validation, package integrity)
+    - Shelf-life (duration of proposed shelf-life, performance), biocompatibility (patient contact, duration of contact)
+    - Electical safety, electromagnetic compatibility
+- ART II special controls - design spec, MEA(Mouse embryo assay), HSSA(human sperm survival assay), endotoxin testing
+- 510(k) outcomes - SE (substantially equivalence) | NES, try again | NSE
+- Device clearance after SE outcome
+- De Novo - the newest way for devices to come to market
+- When come to FDA? 
+    - Presubmission program for interactive feedback from FDA - regulatory pathway, 
+    - Investigation Device Exemption (IDE)
+- fda.gov/Tranining/CDRHlearn
+
+### Endometriosis, Tuesday EXPO theater
+- ESHRE, European Society of Human Reproduction and Embryology (2014), 
+- WES(World Endometriosis Society), Consensus on current management of endometriosis (2013) - [Consensus on current management of endometriosis.](https://www.ncbi.nlm.nih.gov/pubmed/23528916)
+
+**The case for surgical diagnosis of endometriosis - Diamond**
+
+- Michael Diamond, MD - Pelvic pain DDX - Endometriosis, fibroids, adenomyosis, adhesions, PID (gynecologic) IBS, Intestitial cystitis, fibromyalgia (non-gynecologic)
+- Most accurate technique for diagnosis -> laparoscopy with histological confirmation 
+
+**The case for clinical diagnosis of endometriosis - Surrey**
+
+- mean - dianosis, 9.3y, 5 patients 
+- Ultrasound findings - 81% PPV (K - 0.58)
+- Description of pain (throbbing ...)
+- Symptoms of women undergoing surgery -> dysmenorrha etc (high)
+- Can response to medication be used to diagnose endometriosis? GnRH agonist or OCs.
+- Dr. Surrey's proposed diagnostic algorithm
+
+**Discussion**
+
+- Diamond - Ix of GnRH agonist - absense of pathology apparent by noninvasive diagnostic modalities
+- Surrey - Ix of laparoscopy - suspicious or symptomatic adnexal mass, failure to respond to second-line therapy, management of fertility as primary concern, clear evidence of deeply invasive disease
+
+Scientific Congress Prize Paper Session 2
+-----------------------------------------
+
+### O-91 PREOVULATORY PROTEIN RESTRICTION (PPR): DISRUPTED AMINO ACID (AA) KINETICS AND MITOCHONDRIAL STRUCTURE AND FUNCTION IN THE RAT OOCYTE
+- speaker: Amy Schutt - Baylor College
+- Maternal dietary intake critically supports the oocyte through maturation, fertilization and until embryo genome activation. 
+- PPR -> profound changes in amino acid metabolism and COC mitochondrial structure and function in the rat. 
+- Amino acid kinetics in the oocyte 
+    - decreased ability to increase antioxidant precursor production
+    - lack of effective compensation in the setting of protein starvation. 
+- LP oocyte is vulnerable to oxidative stress as it cannot increase GSH production. 
+    - **abnormal COC mitochondrial ultrastructure** and 
+    - **altered oocyte expression of genes** related to mitochondrial biogenesis.
+
+### O-92 EFFECTS OF RESVERATROL ON POLYCYSTIC OVARY SYNDROME
+- speaker: Antoni Duleba (University of California, San Diego)
+- Hyperandrogenism is the central feature of PCOS
+- isolated ovarian theca-interstitial cells demonstrated that resveratrol, a natural polyphenol, inhibits mRNA expression of Cyp17a1 and reduces androgen production 
+- evaluated endocrine and metabolic effects of resveratrol on women with PCOS.
+- Prospective double-blind, randomized, placebo-controlled trial. 
+    - clinical trial evaluating the effects of resveratrol on PCOS
+- **Resveratrol significantly reduces serum levels of testosterone and DHEAS**
+    - effect on ovarian as well as adrenal androgen production. 
+    - **improvement of insulin sensitivity** and a decline of insulin level
+
+### O-93 GENOME-WIDE DNA METHYLATION CHANGES IN MOUSE ZYGOTES ASSOCIATED WITH SUPEROVULATION 
+- speaker: Bo Yu (University of Washington, Seattle)
+- Assisted Reproductive Technologies (ART) procedures can result in **abnormal methylation of some imprinted genes** in early embryos. 
+- **genome-wide effect**
+    - to identify **DNA methylome changes** in pre-implantation mouse embryos after **ovarian hyperstimulation**
+
+### O-94 CAN WE EXPECT TO IMPROVE AGE AT MENOPAUSE PREDICTIONS WITH REPEATED AMH MEASUREMENTS? 
+- speaker: Annelien de Kat (University Medical Center Utrecht, Utrecht, Netherlands)
+- high AMH -> late menopause, low AMH -> early menopause
+- AMH decline rate
+- Repeated measures of AMH levels
+- Anti-M€ullerian hormone (AMH) levels are considered to be an **indicator of ovarian aging 
+- unraveled **longitudinal decline trajectories of AMH with age**. 
+- **1,857 women enrolled in the prospective, population-based Doetinchem Cohort Study, with a known age at natural menopause (ANM)**
+- **picoAMH assay (AnshLabs) in a total of 7,666 plasma samples**
+- Time to menopause 
+    - modeled with the use of **mixed model analyses**, taking **non-linear** changes of AMH with age into account for each individual
+- **longitudinal study** confirms the **overall association of AMH levels with time to menopause**, while taking into account individual AMH changes with time
+
+Oral Presentation
+-----
+
+### O-229 THE IMPACT OF ELAGOLIX ON QUALITY OF LIFE IN WOMEN WITH ENDOMETRIOSIS-ASSOCIATED PAIN: RESULTS FROM TWO RANDOMIZED, PLACEBO-CONTROLLED STUDIES USING THE ENDOMETRIOSIS HEALTH PROFILE QUESTIONNAIRE (Hugh Taylor)
+- [PPT](https://drive.google.com/open?id=0B7BS_yg2ja1EUzlXbDB1VWZDZU0)
+
+### O-230 DIRECT AND INDIRECT COSTS ASSOCIATED WITH ENDOMETRIOSIS-RELATED SURGERY AMONG EMPLOYED WOMEN IN THE US
+- Speaker: Ahmed Soliman
+- surgery 10% endometriosis 
+- treatment of endometriosis by surgery is common
+- economic burden - MarketScan database
+- surgery cohort and non-surgery cohort
+- direct, indirect expenditures, multivariale analysis (GLM)
+- Hysterectomy $3k, laparoscopy $3k 
+- 18k all cause surgery vs 8k non-surgery
+- observational study
+
+### O-231 NEW PROCEDURE FOR THE ENDOMETRIOSIS DIAGNOSIS
+- speaker: Xavier Santamaria
+- mouse model - midventral incision, suture with peritoneal cavity
+- GFP - endometriotic cells, CD45 - leukocytes
+- LGR5 - transmembrane orphan receptors - microarray에서 control과 두드러진 차이 보임.
+- human : in silico study : affymetrix HG U133 Plus 2.0 Arrays
+- Co-localization with LGR5, 
+    - none in donor vs high in endometriosis patient
+- LGR5+ endometriosis vs LGR5- endometriosis 
+- Monocyte --(differentiation)--> macrophage, monocyte-derived DCs
+- Conclusion
+    - LGR5+ cells co localized in stroma of human eutopic endometrium
+    - immune system, adhesion molecules, migration pathways were differnetially expressed.
+
+### O-232 Elagolix on endometrium
+- [PPT](https://drive.google.com/open?id=0B7BS_yg2ja1EaWpDYmxDSnpMX00)
