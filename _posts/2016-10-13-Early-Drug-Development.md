@@ -36,3 +36,14 @@ tag: [Clinical Pharmacology]
 ## CRO (Contract Research Organizations)
 - CRO를 잘 골라야 한다. 문화를 잘 관찰
 
+# Chapter 2. ADME strategies in lead optimization
+- speaker: Park
+- date: 2016-10-25
+- Lead optimization - several screens to select an NCE with the best overall efficacy, ADME/PK
+- in silico adme screening
+- data-based modeling
+- log P(partition coefficient), log D (log P using buffer at pH7.4) - charge 띈게 많은 것을 고려함.
+- basic requirements for successful in silico modeling
+- 구조를 입력하면 대사에 대한 정보가 나옴.
+- Metabolomics - 대사체를 분석하는 것이 많은 정보를 줄 수 있다.
+
