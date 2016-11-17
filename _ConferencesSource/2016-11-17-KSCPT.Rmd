@@ -1,0 +1,132 @@
+# KSCPT 2016 Fall
+
+- 대한임상약리학회 2016년도 추계학술대회
+- 일 시 : 2016년 11월 17일(목)~18일(금)
+- 장 소 : 전북대병원 임상연구지원센터 2층 새만금홀
+
+## First Day
+
+### A new target for HIV-1 / AIDS drug 
+- speaker: 유지창 ((주)에빅스젠 / 가톨릭의대)
+- integrase inhibitor (4th generation)
+- 개발중인 치료제
+    - NtRTI, NNRTI, INSTI etc
+    - Targeting packaging.
+- Nucleocapsid (NC) protein - important for RNA packaging
+- Tox, body disposition
+- Traditional - Zinc chelator/ejector
+- Brand-new - NC and viral RNA attachment inhibition -> packaging and utilitzation
+- First-in-class
+- Phase I, SAD
+- Question: 동물실험? Answer: Not done
+- Quesiton: Screening을 어떤식으로 했는가? Answer: 직접 개발함
+
+### New drug target for osteoporosis: GPR120 
+- speaker: 김현주 (경북의대)
+- 골다공증
+- RANKL (OB) - RANK(OC) - Homeostasis
+- Reduced estrogen (menopause) -> OC strengthened.
+- bisphosphonate - OC inhibitor
+- Denosumab (anti-RANKL)
+- SERM - raloxifene -> anti-resorption - 약함
+- bisphosphonate - 악골 괴사
+- fatty acid-sensing GPCRs as therapeutic targets - GPR120 (receptor) - endogenous ligand - DHA, EPA 
+- GPR120 and diabetes
+- OC development (MQ is a precursor) - MQ proliferation -> Differentiation -> fusion -> polarization -> resorption
+- Characteristics - Ruffled border. Polarization - **cytoskeletal organization** - actin cluster and **ring formation**
+- GPR120 - upregulated during OC differentiation 
+- GPR120 signaling enhances apoptosis in mature OC. - 파골세포가 죽는다.
+- M-CSF-induced ring formation can be inhibited by GPR120.
+- in vivo research? - Jung-Min Koh (Asan Medical Center)
+- Beneficial effect of FFA4 on bone mass in an ovariectomized model.
+
+
+### Strategy for Anti-Cancer Target 신영기 (서울약대)
+
+### 재발자궁경부암 항암화학방사선 온열동시치료 이선영 (전북대학교병원)
+
+Drug development I 김훈교
+(가톨릭대학교 의과대학)
+15:00~15:25
+Non-clinical considerations for FIH 김봉태
+(CJ)
+15:25~15:50
+임상약리학 주도 환자 대상 초기임상시험의 경험과 전망 이형기
+(서울대학교병원)
+15:50~16:15
+The Contribution of Clinical Pharmacologist in Global Drug Development: Real Examples from a Big Pharma 김용호
+(Parexel)
+16:15~16:25 coffee & poster 
+Drug development II 신상구 (차바이오컴플렉스)
+16:25~16:50
+BA/BE 임상시험 결과분석 시 고려사항: 분산투여 vs 추가시험 김정렬
+(삼성서울병원)
+16:50~17:15
+The use of pharmacometrics for drug development in Korea 한승훈
+(가톨릭의대)
+17:15~17:40
+Fatal BIA 10-2474 Phase I Clinical Trial : What Can We Learn? 임경수
+(차의과대학 분당차병원)
+17:40~18:00
+우촌상 시상식 장인진 총무이사
+18:00~
+reception 
+Time Lecture Speaker
+학술대회
+18일(금)  Will big data and data science reshape the horizon of drug development?, If so, how? 
+Chair : Hiroshi Watanabe(president of JSCPT). Tae Sun Park(Chonbuk National University)
+09:00~09:20
+대규모 약물 유도 전사체 정보 기반 항암 신약 재창출 Wan Kyu Kim
+Ewha Womans University
+09:20~09:40
+Big data platform for multi-national data collaboration Rae Woong Park
+(Ajou University School
+of Medicine)
+09:40~10:00
+TBD Yoshinori Ochiai
+(Pharmaceuticals and
+Medical Devices Agency)
+10:00~10:20
+How big data (national registry data) can be a game changer ? Hiroshi Ohtsu
+(National Center for
+Global Health and Medicine)
+10:20~10:30
+Q & A 
+10:30~10:45 coffee break 
+How can clinical pharmacology facilitate collaboration between the drug development industry and academia, particularly in the Asian-Pacific region? 
+Chair : Kazutaka Shimoda(Dokkyo Medical University), Yil-Seob Lee(GSK)
+10:45~11:05
+Collaboration with Clinical Pharmacology in New Drug Development : Oncologist's View Do-Youn Oh
+(Seoul National University
+College of Medicine)
+11:05~11:25
+Drug development by connecting academy to venture company JungWon Woo 
+(Genexine)
+11:25~11:45
+Examples of collaborations with local government and academia for Global FIH studies in Japan Masako Nakano
+(Eli Lilly Japan K.K.)
+11:45~12:05
+Strategy for efficient drug development utilizing functions of ARO Yuji Kumagai
+(Kitasato University)
+12:05~12:15
+Q & A 
+12:15~13:30 점 심 시 간 
+IT : CDISC DM ICT 남문석
+(인하대학교 의과대학)
+13:30~13:55
+Case Report Form using Acrobat PDF 배균섭
+(울산대학교 의과대학)
+13:55~14:20
+Big Data 소개 및 주의점 임지연
+(동국대학교 의과대학)
+14:20~14:45
+Mobile App in clinical Trial 김민걸
+(전북대학교 의과대학)
+14:45~15:10
+IT 활용 임상시험 효율화 이승환
+(서울대학교 의과대학)
+15:10~15:30 coffee break 
+15:30~16:00
+Young Scientist (8명) 
+16:00~16:30 
+16:30~17:00 
