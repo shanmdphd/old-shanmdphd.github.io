@@ -4,7 +4,7 @@
 - 일 시 : 2016년 11월 17일(목)~18일(금)
 - 장 소 : 전북대병원 임상연구지원센터 2층 새만금홀
 
-## First Day
+## Therapeutics : New target
 
 ### A new target for HIV-1 / AIDS drug 
 - speaker: 유지창 ((주)에빅스젠 / 가톨릭의대)
@@ -39,62 +39,165 @@
 - M-CSF-induced ring formation can be inhibited by GPR120.
 - in vivo research? - Jung-Min Koh (Asan Medical Center)
 - Beneficial effect of FFA4 on bone mass in an ovariectomized model.
+- Question: assay with Omega3, Answer: Yes, we did.
 
+### Strategy for Anti-Cancer Target
+- speaker: 신영기 (서울약대)
+- Immuno-oncology
+- First-line treatment : Nivolumab
+- T cell activation process - tumor Ag -> Immunosuppression by PD-L1
+- Positive and negative signals - CTLA4, PD-1 checkpoint pathway
+- Lung cancer - 종전에는 immunogenic하지 않다고 봤기 때문에 놀라웠다.
+- Type-I Interferon (IFN-alpha/beta) - Antitumor effect +, ADCC enhancement, APC activation, etc (Semin Oncol. 2014; 41:623-636)
+- How to increase productivity of IFN? - Carbiferon - Rebif, Avonex보다 우수함.
+- Sensitization of glycoengineered IFNb
+- cFLIP - death receptor - siRNA
+- Development of anti-ERBB2 Ab + IFNb - Ab-CK conjugation system
+- ADCC 유지됨. CDC 는 원래 없다.
+- Enhanced ADCC effects, immune response activation, enhancer R27T direct anti-cancer
+- TANS (Therapeutic antibody DB)
+    - Patent
 
-### Strategy for Anti-Cancer Target 신영기 (서울약대)
+### 재발자궁경부암 항암화학방사선 온열동시치료
+- speaker: 이선영 (전북대학교병원)
+- CCRT - Recurrence -> 7-14% - what better Tx?
+- Hyperthermia -> direct cell killing
+- 전도치료 -> GLUT2 channel + Radiofreq. = Protein damage
+- ciplatin 단독요법, paclitaxel add.
+- Adenoca. FIGO IIIb - 7cm Cx Ca.
+- Safety - not different.
+- 자궁경부암 혈류측정 (78% 증가) - Tyrosine kinase inhibitor, 넥사바 (sorafenib)
+- Question : 어떻게 온열치료 대상 환자를 선정하나?, Answer : 이건 reprospective research?
+- Question : 들어가는 energy의 양을 정량화할 수 있나?, Answer: Watt, Joule이 계산이 된다.
 
-### 재발자궁경부암 항암화학방사선 온열동시치료 이선영 (전북대학교병원)
+## Drug development I 
 
-Drug development I 김훈교
-(가톨릭대학교 의과대학)
-15:00~15:25
-Non-clinical considerations for FIH 김봉태
-(CJ)
-15:25~15:50
-임상약리학 주도 환자 대상 초기임상시험의 경험과 전망 이형기
-(서울대학교병원)
-15:50~16:15
-The Contribution of Clinical Pharmacologist in Global Drug Development: Real Examples from a Big Pharma 김용호
-(Parexel)
-16:15~16:25 coffee & poster 
-Drug development II 신상구 (차바이오컴플렉스)
-16:25~16:50
-BA/BE 임상시험 결과분석 시 고려사항: 분산투여 vs 추가시험 김정렬
-(삼성서울병원)
-16:50~17:15
-The use of pharmacometrics for drug development in Korea 한승훈
-(가톨릭의대)
-17:15~17:40
-Fatal BIA 10-2474 Phase I Clinical Trial : What Can We Learn? 임경수
-(차의과대학 분당차병원)
-17:40~18:00
-우촌상 시상식 장인진 총무이사
-18:00~
-reception 
-Time Lecture Speaker
-학술대회
-18일(금)  Will big data and data science reshape the horizon of drug development?, If so, how? 
-Chair : Hiroshi Watanabe(president of JSCPT). Tae Sun Park(Chonbuk National University)
-09:00~09:20
-대규모 약물 유도 전사체 정보 기반 항암 신약 재창출 Wan Kyu Kim
-Ewha Womans University
-09:20~09:40
-Big data platform for multi-national data collaboration Rae Woong Park
-(Ajou University School
-of Medicine)
-09:40~10:00
-TBD Yoshinori Ochiai
-(Pharmaceuticals and
-Medical Devices Agency)
-10:00~10:20
-How big data (national registry data) can be a game changer ? Hiroshi Ohtsu
-(National Center for
-Global Health and Medicine)
+### Non-clinical considerations for FIH 
+- speaker: 김봉태
+- MTD, NOAEL
+- MRHD - safety assessment of metabolites
+
+### 임상약리학 주도 환자 대상 초기임상시험의 경험과 전망 
+- speaker: 이형기 (서울대학교병원)
+- http://snuhclinicaltrials.com/kr/ 
+- Fast move to patients : hybrid approach
+- Optimize exposure 
+- Drug X - reduced adipogenesis lypophillic - 식사랑 같이하면 exposure 높아져.
+- Mechanistic biomarkers
+    - Total fat amount - CT volume
+    - TNF-alpha (200mg), surprizingly no effects (400,800mg)
+- Early detection of efficacy signal, identified potential biomarkers
+- Opportunities 
+    - More pharmas want fast transition to patients, 
+    - clinicians inexperienced, 
+    - commercial early hpase CROs lack patient access, patient access
+- **Hint of Efficacy**
+    - Variability and sensitivity, inter-rater consistency
+    - Study powered? - if not powered, what will you do with the results?
+    - Biomarkers
+- Enrollment and study management - *ward support*
+- Are we ready? - OK for routine care & management of patient with mild to moderate disease
+    - AE assessment - causality - more clinical practice
+- System support required, stay out of the safe zone, be prepared.
+
+### The Contribution of Clinical Pharmacologist in Global Drug Development: Real Examples from a Big Pharma 
+- speaker: 김용호 (Parexel)
+- industry perspective
+- Governing bodies review, regulatory agencies interactions, due diligence
+- **Big Pharma Clin Phar Group**
+- Dose-regimen selection or optimization
+- hepatotoxicity - Acetaminophen - CIx
+- Compound #1 - strong inhibitor of CYP2C8, CYP2C9 and ibuprofen is substrate of CYP2C9
+- Compound #1 + Ibuprofen -> Modeling -> It's okay.
+
+## Drug development II 신상구 (차바이오컴플렉스)
+
+### BA/BE 임상시험 결과분석 시 고려사항: 분산투여 vs 추가시험 
+- speaker: 김정렬 (삼성서울병원)
+- 분산투여
+- 추가시험 (MFDS, 2007) - 추가시험
+
+1. mean squared error - estimator of intra-subject variability
+    - 90% 신뢰구간 산출에 이용. 길이를 봐야한다. 따라서 합치기 힘들다.
+2. Interaction
+    - Study가 일관적이지 않다.
+    - F-test - 분산을 비교하는 방법. - two consistency tests must be done
+
+- 변경된 캐나다 규정 2012 일관성 입증 할 필요없다. 점추정치 기법이기 때문에 대상자수 많아지면 equivalence에 가까워져
+- Two-stage design - 1종 오류를 보정. 
+- priori power - 가정에 근거한 검정을 했을때 정해진 대상
+- post-hoc
+- Patvin D, Pharmaceutical Statistics 2008 - Method B (health Canada) or C
+- 1종 오류 보정. 
+- 윤리적 관점 - 개체내 변이가 작은 약물임에도 24명으로 수행.
+- 분산투여(일관성 입증 안해도 돼) vs 추가시험 (일관성 입증 해야)
+- 추가시험은 일관성 입증: penalty있어야 함.
+- Question: 투여 - fixed or random effect (분산투약) - 배교수님 random
+
+### The use of pharmacometrics for drug development in Korea 
+- speaker: 한승훈 (가톨릭의대)
+- Seoul - Bio International Convention, SCIC, Bio
+- 외국에서 가져오는 것이 방향
+- Modeling and Simulation, Biomarker
+- Decision-making with M&S
+    - Data -> Learn -> Apply -> Decision
+- MBDD (Model-based Drug Developments)
+    - Pharma + Governmental support 
+- 표준적인 data - **Q-fitter** - Oct 2016
+- On the job training
+- Licensing in and out
+- methodology vs subject
+
+㈜씨엔알리서치(대표 윤문태)는 20년의 임상 노하우 및 인프라를 적극 활용하기 위해, 가톨릭 계량약리학연구소(PIPET)와 국내 유일의 전문 계량약리학 상용 서비스기관인  ㈜큐피터(Q-fitter Inc.)를 설립했다고 밝혔다.
+큐피터는 씨엔알리서치가 100% 출자해 10월  27일 법인 등록을 마쳤으며, 큐피터의 대표이사는 씨엔알리서치 윤문태 대표이사가 맡게 된다.
+씨엔알리서치는 이번 법인 설립을 통해, 비임상자료를 이용한 초기임상시험 설계, 이전 임상 결과를 기반으로 한 다음 단계 임상시험 설계, 임상결과를 해석한 허가용 자료 작성 등 신약개발 전 과정에 걸쳐 후보물질의 약동-약력학 모델링 및 시뮬레이션 분석 및 자문 서비스를 시작한다. 신약 개발에 필수적이지만 독자적으로 계량약리학 전문성을 갖추기 어려운 국내외 제약 및 바이오 기업 등이 이 서비스의 주요한 수요자가 될 전망이다.
+씨엔알리서치는 이를 계기로, 신약개발사들의 후보물질 관련 정보의 활용도 극대화, 후속 단계 설계 최적화 및 후보 물질 가치 제고 등을 도모할 수 있을 것으로 기대되며, 이는 각 개발사의 신약 개발 역량 제고는 물론 국내 전체의 신약개발 및 임상시험 관련 경쟁력을 강화할 수 있는 중요한 기반기술이라고 설명했다.
+윤문태 대표이사는 “큐피터는 글로벌 기준에 부합하는 서비스를 국내외 제약 바이오 기업들에 제공하는 것을 목표로, 신약개발 생태계 조성을 위해 적극적으로 사업을 추진할 계획”이라고 밝혔다.
+씨엔알리서치는 1997년 설립돼 세계 임상시험의 트랜드 분석을 통한 임상시험의 질 향상과 서비스 개선에 매진, 매년 30% 이상 꾸준히 성장하며 2014년, 2015년 연속 국내에서 가장 많은 매출을 달성한 한국 최고 수준의 임상시험수탁기관이다.
+중국 지사(현지 법인) 운영 및 아세안지역 진출 등 아시아 전역을 대상으로 하는 신시장 개척을 통한 해외 인허가 및 임상 서비스를 제공하고 있고 있으며, 임상시험교육(Academy), 약물부작용감시(Pharmacovigilance), 품질관리(QA), 중앙모니터링(CM), 메디컬어드바이징(MA), IT 기반 e-Clinical 솔루션 등 고객의 니즈에 맞춘 신 사업 개발을 통해 폭 넓은 임상 솔루션을 제공하고 있다. 
+
+### Fatal BIA 10-2474 Phase I Clinical Trial : What Can We Learn? 
+- speaker: 임경수 (차의과대학 분당차병원)
+- TGN1412 - Lancet 2006
+- MABEL - minimal anticipated biological effect level
+- FAAH - BIA 10-2474
+- NEJM - FAAH -> Acute neurologic Sx.
+- MRI - brain damages!
+- BJCP - BIA - not high-risk compounds - No MABEL
+- Non-proportionality regarding dose and time
+- Off-target effect
+- Efficacy보이는 것만 개발해야 한다 / Dose selection and escalation / Pride
+
+# 2016-11-18 Will big data and data science reshape the horizon of drug development?, If so, how? 
+
+## JSCPT
+- Chair : Hiroshi Watanabe(president of JSCPT). Tae Sun Park(Chonbuk National University)
+
+### 대규모 약물 유도 전사체 정보 기반 항암 신약 재창출 
+- speaker: Wan Kyu Kim Ewha Womans University
+
+### Big data platform for multi-national data collaboration 
+- speaker: Rae Woong Park (Ajou University School of Medicine), veritas@ajou.ac.kr 
+- Distributed Research Network with common data model
+- Common Data Model - pSCANNER, **OHDSI**, NYC-CDRN
+- OHDSI ohdsi.org
+- http://github.com/OHDSI
+- ATLAS - http://www.ohdsi.org/web/atlas/
+- Question: CDM
+
+### Yoshinori Ochiai (Pharmaceuticals and Medical Devices Agency)
+
+### How big data (national registry data) can be a game changer?
+- speaker: Hiroshi Ohtsu (National Center for Global Health and Medicine)
+
 10:20~10:30
 Q & A 
+
 10:30~10:45 coffee break 
-How can clinical pharmacology facilitate collaboration between the drug development industry and academia, particularly in the Asian-Pacific region? 
-Chair : Kazutaka Shimoda(Dokkyo Medical University), Yil-Seob Lee(GSK)
+
+## How can clinical pharmacology facilitate collaboration between the drug development industry and academia, particularly in the Asian-Pacific region? 
+- Chair : Kazutaka Shimoda(Dokkyo Medical University), Yil-Seob Lee(GSK)
+
 10:45~11:05
 Collaboration with Clinical Pharmacology in New Drug Development : Oncologist's View Do-Youn Oh
 (Seoul National University
@@ -130,3 +233,11 @@ IT 활용 임상시험 효율화 이승환
 Young Scientist (8명) 
 16:00~16:30 
 16:30~17:00 
+
+### Thyroid
+- Thyroidectomy - Ca homeostasis
+- Hypoalbuminemia - 
+- Disease progression model - NONMEM
+- AIC? VPC
+- n = 1142
+- 
