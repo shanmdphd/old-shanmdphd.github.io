@@ -47,4 +47,13 @@ tag: [Clinical Pharmacology]
 - 구조를 입력하면 대사에 대한 정보가 나옴.
 - Metabolomics - 대사체를 분석하는 것이 많은 정보를 줄 수 있다.
 
-
+# Chapter 5. Chemistry, Manufacturing, and Controls
+- in vitro pharmacology
+- Pre-NCE activities and CMC development
+- Crystal forms - Table 5.5
+- preformulation
+- 특징화, 제제화
+- GMP, LBP
+- 특징화되어야 한다.
+- Toxicology Formulations
+    - later Stages of tretm
