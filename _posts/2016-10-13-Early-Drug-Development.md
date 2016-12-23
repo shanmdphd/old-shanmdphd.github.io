@@ -57,3 +57,21 @@ tag: [Clinical Pharmacology]
 - 특징화되어야 한다.
 - Toxicology Formulations
     - later Stages of tretm
+
+# Chapter 7. Toxicology Program to Support Initiation of a CLinical Phase I Program For a New Medicine
+
+- Nonclinical safety margin
+- 비임상 개발 review시에도 physician이 참가해야 한다.
+- Inactive ingredients -> FDA approval.
+- Timely Conduct 
+- Ames - IND 필수 항목. Regulatory submission of IND.
+- if + in Ames -> similar pharmacologic activity and negative in the Ames assay.
+- 미국 IND, 영국 CTA, 12-18 months
+- 28 days. Maximum duration of dosing that can occur in the human studies
+- No observable effect level
+- HNSTD - Highest nonsevere toxic dose - NOAEL보다는 좀더 높다. Severe adverse events가 나타나지 않는 최대의 용량을 말하는 것.
+- IND - regulatory requirement, guidelines, safety, controlled condition->synthesized. 
+- pre-FIH toxicity studies - providing a basis for selection of the initial dose
+- 1/10 NOAEL 1/6 non rodent
+- Toxicology만 받았는데.. 앞으로는 efficacy 측면에서 효과를 보여야 할지도 모른다.
+
