@@ -6,7 +6,7 @@ comments: true
 tags: []
 ---
 
-### Shiny Apps 
+I am actively developing pharmacometric Shiny apps. I have developed three apps and they are shown below. 
 
 #### Vancomycin TDM KR (2016-12)
 ![](http://i.imgur.com/M8R3Me8.png)
