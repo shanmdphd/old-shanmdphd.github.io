@@ -14,7 +14,7 @@ textConnection을 사용하면 가능합니다.
 
 Data dictionary 내에 coding되어 있는 파일을 decoding할때 유용히 사용할 수 있을 것 같습니다.
 
-```
+``` R
 library(dplyr)
 Dictionary <- data.frame(content = "1, Test\\n2,Ref", last = "3", stringsAsFactors = FALSE)
 Original <- data.frame(Code = c(1, 2, 1, 2, 2), name = c("A", "B", "C", "A", "B"))
