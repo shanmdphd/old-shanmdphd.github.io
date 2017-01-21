@@ -21,3 +21,26 @@ Original <- data.frame(Code = c(1, 2, 1, 2, 2), name = c("A", "B", "C", "A", "B"
 Coding <- read.csv(textConnection(A$content), header = FALSE, col.names = c("Code", "Decode"))
 ```
 
+
+```r
+library(dplyr)
+Dictionary <- data.frame(content = "1, Test\\n2,Ref", last = "3", stringsAsFactors = FALSE)
+Original <- data.frame(Code = c(1, 2, 1, 2, 2), name = c("A", "B", "C", "A", "B"))
+Coding <- read.csv(textConnection(A$content), header = FALSE, col.names = c("Code", "Decode"))
+```
+
+
+``` r
+library(dplyr)
+Dictionary <- data.frame(content = "1, Test\\n2,Ref", last = "3", stringsAsFactors = FALSE)
+Original <- data.frame(Code = c(1, 2, 1, 2, 2), name = c("A", "B", "C", "A", "B"))
+Coding <- read.csv(textConnection(A$content), header = FALSE, col.names = c("Code", "Decode"))
+```
+
+```R
+library(dplyr)
+Dictionary <- data.frame(content = "1, Test\\n2,Ref", last = "3", stringsAsFactors = FALSE)
+Original <- data.frame(Code = c(1, 2, 1, 2, 2), name = c("A", "B", "C", "A", "B"))
+Coding <- read.csv(textConnection(A$content), header = FALSE, col.names = c("Code", "Decode"))
+```
+
