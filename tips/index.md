@@ -61,7 +61,9 @@ function lazygit() {
 %s/^\(.*\)$/"\1"/
 ```
 
-<http://stackoverflow.com/questions/3218789/adding-characters-at-the-start-and-end-of-each-line-in-a-file>
+```vim
+%s/.*/"&"
+```
 
 **줄의 맨 뒤로 따옴표 붙이기**
 
@@ -69,3 +71,18 @@ function lazygit() {
 %s/^\(.*\)$/\1"/
 ```
 
+**Bash**
+
+```vim
+cat foo.txt | sed s/^\(.*\)$/"\1"/g
+```
+
+Reference: [Stackoverflow](http://stackoverflow.com/questions/3218789/adding-characters-at-the-start-and-end-of-each-line-in-a-file)
+
+##### Markdown 에서 bullet 맨 앞에 대문자로
+
+```vim
+:%s/\(- [a-z]\)/\U\1/
+```
+
+Reference: [Wikia](http://vim.wikia.com/wiki/Changing_case_with_regular_expressions)
