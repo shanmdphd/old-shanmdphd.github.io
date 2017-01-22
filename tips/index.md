@@ -12,13 +12,13 @@ tags: [R, Bash, Git]
 
 # R
 
-##### math styles in R plots
+#### math styles in R plots
 
 ```r
 demo(plotmath)
 ```
 
-##### Converting a matrix of characters into numeric
+#### Converting a matrix of characters into numeric
 
 {% highlight r %}
 mat <- matrix(c("5","6","7","8","hello","world"),ncol=3)
