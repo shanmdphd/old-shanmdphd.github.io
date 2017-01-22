@@ -20,10 +20,10 @@ demo(plotmath)
 
 ##### Converting a matrix of characters into numeric
 
-```r
+{% highlight r %}
 mat <- matrix(c("5","6","7","8","hello","world"),ncol=3)
 class(mat) <- "numeric"
-```
+{% endhighlight %}
 
 ---
 
