@@ -29,6 +29,20 @@ class(mat) <- "numeric"
 
 # Git
 
+##### .gitignore
+
+**Ignore 되어야 하지만 이미 add된 파일 표시**
+
+```bash
+git ls-files -ci --exclude-standard
+```
+
+**Ignore 되어야 하지만 이미 add된 파일을 GIT에서 제거 (파일 자체는 남겨둠.)**
+
+```bash
+git ls-files -ci --exclude-standard -z | xargs -0 git rm --cached
+```
+
 ##### In case of fire
 ![](https://hikaruzone.files.wordpress.com/2015/10/in-case-of-fire-1-git-commit-2-git-push-3-leave-building2.png?w=1200)
 
@@ -46,6 +60,10 @@ function lazygit() {
     git commit -a -m "$1"
     git push
 }
+```
+
+```bash
+lazygit "Update README.md"
 ```
 
 ---
