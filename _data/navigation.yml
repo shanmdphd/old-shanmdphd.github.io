@@ -3,20 +3,20 @@
 - title: About
   url: /about/
 
-- title: Publication
-  url: https://scholar.google.com/citations?user=TUK927cAAAAJ
+- title: Tips 
+  url: /tips/
 
 - title: News
   url: /News/
-
-- title: Blog
-  url: /tags/
 
 - title: Shiny 
   url: /Shiny/
 
 - title: Conferences
   url: /ConferencesBook/
+
+- title: Tags 
+  url: /tags/
 
 - title: Search
   url: /search/

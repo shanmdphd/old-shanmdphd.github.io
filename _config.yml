@@ -5,9 +5,16 @@ locale: en_US
 description: Clinical Pharmacology and Therapeutics, Data Science, Neuroimmunology
 logo: #site-logo.png
 search: true
-url: http://shanmdphd.github.io
+#url: http://shanmdphd.github.io
+
+# 서버 작동
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
 
 # Jekyll configuration
+
 future: true
 permalink:   pretty
 markdown:    kramdown
@@ -25,24 +32,18 @@ kramdown:
     coderay_tab_width:         4
     coderay_bold_every:        10
     coderay_css:               style
+
 redcarpet:
   extensions: [autolink]
-
 
 highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
+
 gems:
   - jekyll-sitemap
   - jekyll-gist
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
 
 mathjax: true
 
@@ -61,7 +62,7 @@ post_layout: post
 page_layout: page
 
 # Format titles with titlecase?
-titlecase: true
+titlecase: false
 
 # Site owner
 owner:
