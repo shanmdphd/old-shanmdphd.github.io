@@ -36,7 +36,9 @@ class(mat) <- "numeric"
 
 # Bash
 
-##### Lazygit : git add, commit, push for lazy people like me. Copy & paste this lines to your ~/.bash_profile
+##### Lazygit : git add, commit, push for lazy people like me. 
+
+Copy & paste this lines to your `~/.bash_profile`
 
 ``` bash
 function lazygit() {
