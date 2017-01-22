@@ -40,7 +40,7 @@ class(mat) <- "numeric"
 
 Copy & paste this lines to your `~/.bash_profile`
 
-``` bash
+```bash
 function lazygit() {
     git add .
     git commit -a -m "$1"

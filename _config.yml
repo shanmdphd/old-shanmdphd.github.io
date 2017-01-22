@@ -16,8 +16,8 @@ baseurl: "" # does not include hostname
 # Jekyll configuration
 
 future: true
-permalink:   pretty
-markdown:    kramdown
+permalink: pretty
+markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
@@ -27,14 +27,14 @@ kramdown:
   entity_output:  as_char
   toc_levels:     1..6
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
+#  enable_coderay: false
+#  coderay:
+#    coderay_wrap:              div
+#    coderay_line_numbers:      inline
+#    coderay_line_number_start: 1
+#    coderay_tab_width:         4
+#    coderay_bold_every:        10
+#    coderay_css:               style
 
 sass:
   sass_dir: _sass
