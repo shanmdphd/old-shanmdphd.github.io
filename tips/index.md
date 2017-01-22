@@ -29,6 +29,18 @@ class(mat) <- "numeric"
 
 # Git
 
+
+##### Git initializing
+
+```bash
+echo "# REPONAME" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/shanmdphd/REPONAME.git
+git push -u origin master
+```
+
 ##### .gitignore
 
 **Ignore 되어야 하지만 이미 add된 파일 표시**
