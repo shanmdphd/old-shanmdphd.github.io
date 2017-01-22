@@ -29,7 +29,7 @@ class(mat) <- "numeric"
 
 # Git
 
-### In case of fire
+##### In case of fire
 ![](https://hikaruzone.files.wordpress.com/2015/10/in-case-of-fire-1-git-commit-2-git-push-3-leave-building2.png?w=1200)
 
 ---
@@ -47,3 +47,25 @@ function lazygit() {
     git push
 }
 ```
+
+---
+
+# Vim
+
+
+##### Quote
+
+**줄의 앞뒤로 따옴표 붙이기**
+
+```vim
+%s/^\(.*\)$/"\1"/
+```
+
+<http://stackoverflow.com/questions/3218789/adding-characters-at-the-start-and-end-of-each-line-in-a-file>
+
+**줄의 맨 뒤로 따옴표 붙이기**
+
+```vim
+%s/^\(.*\)$/\1"/
+```
+
