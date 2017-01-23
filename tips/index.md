@@ -20,10 +20,10 @@ demo(plotmath)
 
 #### Converting a matrix of characters into numeric
 
-{% highlight r %}
+```r
 mat <- matrix(c("5","6","7","8","hello","world"),ncol=3)
 class(mat) <- "numeric"
-{% endhighlight %}
+```
 
 ---
 
@@ -60,6 +60,8 @@ git ls-files -ci --exclude-standard -z | xargs -0 git rm --cached
 git remote add --track master upstream https://github.com/mmistakes/so-simple-theme.git
 git fetch upstream
 git merge upstream/master --allow-unrelated-histories
+git checkout --ours README.md
+git checkout --theirs README.md
 ```
 
 Reference: [Dogfeet](http://dogfeet.github.io/)
