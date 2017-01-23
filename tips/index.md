@@ -29,7 +29,6 @@ class(mat) <- "numeric"
 
 # Git
 
-
 ##### Git initializing
 
 ```bash
@@ -54,6 +53,16 @@ git ls-files -ci --exclude-standard
 ```bash
 git ls-files -ci --exclude-standard -z | xargs -0 git rm --cached
 ```
+
+##### Syncing a fork
+
+```bash
+git remote add --track master upstream https://github.com/mmistakes/so-simple-theme.git
+git fetch upstream
+git merge upstream/master --allow-unrelated-histories
+```
+
+Reference: [Dogfeet](http://dogfeet.github.io/)
 
 ##### In case of fire
 ![](https://hikaruzone.files.wordpress.com/2015/10/in-case-of-fire-1-git-commit-2-git-push-3-leave-building2.png?w=1200)
