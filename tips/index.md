@@ -64,6 +64,12 @@ git merge upstream/master --allow-unrelated-histories
 
 Reference: [Dogfeet](http://dogfeet.github.io/)
 
+##### Diagram
+
+![](http://cfile7.uf.tistory.com/image/161305504DBE8DD22BBD45)
+
+Reference: [bunhere.tistory.com](http://bunhere.tistory.com/37)
+
 ##### In case of fire
 ![](https://hikaruzone.files.wordpress.com/2015/10/in-case-of-fire-1-git-commit-2-git-push-3-leave-building2.png?w=1200)
 
