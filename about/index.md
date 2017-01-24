@@ -12,6 +12,14 @@ tags: []
 <a href="https://scholar.google.com/citations?user=TUK927cAAAAJ" class="btn">Publication</a>
 <a href="/about/physicianscientist/" class="btn">Pathway to the physician-scientist</a>
 
+##### Academic interest
+
+- Immunology, Neuroimmunology(multiple sclerosis)
+- Drug development, Clinical Trial 
+- Data science, Big Data, Visualization (ggplot2)
+- Programming (RStudio, LaTeX, SQL, git)
+- Statistics (R, SAS, ANOVA, regression, PCA, time series)
+
 ##### Figure 1. Ollie in City Hall of Seongnam (2016)
 ![simple ollie](/figures/ollie.gif)
 

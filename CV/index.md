@@ -2,20 +2,11 @@
 layout: page
 title: Curriculum Vitae
 excerpt: "Curriculum Vitae of Sungpil Han"
-search_omit: false
+comments: true
+tags: []
 ---
 
-+82-2-3010-4614; shan@acp.kr; 2016.07
-
-Interest:
-
-- Immunology, Neuroimmunology(multiple sclerosis),
-- Drug development, Clinical Trial, 
-- Data science, Big Data,
-- Visualization (ggplot2, Boxplots, maps, animation),
-- Programming (RStudio, LaTeX, SQL, JAVA, Eclipse, git)
-- Statistics (ANOVA, regression, PCA, time series),
-- Skateboarding
++82-2-3010-4614; shan@acp.kr; 2017.01
 
 ### EDUCATION
 
@@ -38,6 +29,16 @@ Interest:
 
 #### Asan Medical Center, Seoul, Korea
 - Intern Physician 2015.03-2016.02
+
+### CLINICAL TRIALS INVOLVED
+
+| Dates(from-to) | Role | Study classification | Therapeutic area / phase |
+| :---  | :---  | :---  | :---  |
+| 07MAR2016~ | Sub-I | SIT | CPT/Phase I (Endometriosis treatment drug) |
+| 14MAR2016~ | Sub-I | SIT | CPT/Phase I (Osteoporosis treatment drug) |
+| 15MAR2016~ | Sub-I | SIT | CPT/Phase I (Anti-platelet agent) |
+| 06APR2016~ | Sub-I | SIT | CPT/Phase I (BPH treatment drug) |
+| 04AUG2016~ | Sub-I | SIT | CPT/Phase I (Tuberculosis treatment drug) |
 
 ### RESEARCH EXPERIENCE
 
@@ -62,34 +63,34 @@ Interest:
 - Clinical Elective in Neurosurgery and Pathology	School of Medicine 2008.08
 
 ### [PUBLICATION](https://scholar.google.com/citations?user=TUK927cAAAAJ&hl=en)
--	Han S\*, Lin YC\* (*. Equal Contribution), Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) “Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases.” J Immunol. 2014 Mar 15;192(6):2551-63. (Impact factor : 4.985)
--	Perry JS\*, Han S\* (*. Equal Contribution), Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis"
+-	Han S\*, Lin YC\* (\*. Equal Contribution), Wu T, Salgado AD, Mexhitaj I, Wuest SC, Romm E, Ohayon J, Goldbach-Mansky R, Vanderver A, Marques A, Toro C, Williamson P, Cortese I, Bielekova B. (2014) "Comprehensive immunophenotyping of cerebrospinal fluid cells in patients with neuroimmunological diseases." J Immunol. 2014 Mar 15;192(6):2551-63. (Impact factor : 4.985)
+-	Perry JS\*, Han S\* (\*. Equal Contribution), Xu Q, Herman ML, Kennedy LB, Csako G, Bielekova B. (2012) "Inhibition of LTi cell development by CD25 blockade is associated with decreased intrathecal inflammation in multiple sclerosis"
 Science Translational Medicine. 2012;4(145); 145ra106. DOI: 10.1126/scitranslmed.3004140  (Impact factor : 16.264)
 -	Wuest SC, Edwan JH, Martin JF, Han S, Perry JS, Cartagena CM, Matsuura E, Maric D, Waldmann TA, Bielekova B. (2011) "A vital role for IL-2 trans-presentation in DC-mediated T cell activation in humans as revealed by daclizumab therapy"
 Nature Medicine. 2011;17(5);604-609. DOI: 10.1038/nm.2365 (Impact factor : 30.357)
--	Han S\*, Kim JH\* (*. Equal Contribution), Han ME, Sim HE, Kim KS, Yoon S, Baek SY, Kim BS, Oh SO. (2011) "SNAI1 is Involved in the Proliferation and Migration of Glioblastoma Cells."
+-	Han S\*, Kim JH\* (\*. Equal Contribution), Han ME, Sim HE, Kim KS, Yoon S, Baek SY, Kim BS, Oh SO. (2011) "SNAI1 is Involved in the Proliferation and Migration of Glioblastoma Cells."
 Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010-9643-4 (Impact factor : 2.328)
 
 ### [PROCEEDINGS](https://scholar.google.com/citations?user=TUK927cAAAAJ&hl=en)
--	Sungpil Han, Alan Salgado, Tariq Alfahad and Bibiana Bielekova (2012) “Flow Cytometric Immunophenotyping of the Blood and CSF of Patients with Multiple Sclerosis” 64th American Academy of Neurology 2012, New Orleans, LA
--	Simone Wuest, SungPil Han, Jayne Martin, Dragan Maric, Bibiana Bielekova (2011) “Anti-CD25 Antibody Inhibits Antigen-specific T cell Expansion by Blocking IL-2 Transpresentation by Dendritic Cells”, Federation of Clinical Immunology Societies 2011, Washington DC
+-	Sungpil Han, Alan Salgado, Tariq Alfahad and Bibiana Bielekova (2012) "Flow Cytometric Immunophenotyping of the Blood and CSF of Patients with Multiple Sclerosis" 64th American Academy of Neurology 2012, New Orleans, LA
+-	Simone Wuest, SungPil Han, Jayne Martin, Dragan Maric, Bibiana Bielekova (2011) "Anti-CD25 Antibody Inhibits Antigen-specific T cell Expansion by Blocking IL-2 Transpresentation by Dendritic Cells", Federation of Clinical Immunology Societies 2011, Washington DC
 -	Justin Perry, SungPil Han, Lucy Kennedy, Bibiana Bielekova (2011) "Opposing Developmental Regulation Between Lymphoid Tissue Inducer Cells and Immunoregulatory CD56bright NK Cells Contributes to Therapeutic Benefit of Daclizumab in Multiple Sclerosis", Federation of Clinical Immunology Societies 2011, Washington DC
 -	SungPil Han, Justin Perry, Kory Johnson, Bibiana Bielekova (2011) "Signaling Though High- versus Intermediate-affinity Interleukin-2 (IL-2) Receptor Provides Qualitatively Different Signals to T cells", Annual conference of National Institute of Neurological Disorders and Stroke 2011, VA
 -	Simone Wuest, SungPil Han, Jayne Martin, Dragan Maric, Bibiana Bielekova (2011) "Daclizumab inhibits Expansion of Antigen (Ag)-specific T cells by blocking IL-2 Transpresentation by Dendritic Cells", 63rd American Academy of Neurology 2011, Honolulu, HI
 -	SungPil Han, Irene Cortese, Bibiana Bielekova (2011) "Effects of long-term (>5 years) daclizumab therapy on lymphocyte subpopulations – comparison of immediate ex-vivo immunophenotyping with commercially-available assay", 63rd American Academy of Neurology 2011, Honolulu, HI
--	Simone Wuest, Jayne Martin, SungPil Han, Justin Perry, Thomas Waldmann, Bibiana Bielekova (2011) “Important role for IL-2 transpresentation in the induction of antigen-specific T cell responses by dendritic cells.”, Keystone Symposia on Molecular and Cellular Biology: Dendritic cells and the initiation of adaptive immunity. Santa Fe, NM
+-	Simone Wuest, Jayne Martin, SungPil Han, Justin Perry, Thomas Waldmann, Bibiana Bielekova (2011) "Important role for IL-2 transpresentation in the induction of antigen-specific T cell responses by dendritic cells.", Keystone Symposia on Molecular and Cellular Biology: Dendritic cells and the initiation of adaptive immunity. Santa Fe, NM
 -	SungPil Han, Bibiana Bielekova (2010) "Comprehensive investigation of the mechanism of action of CD25-blocking Ab DAC-HYP in multiple sclerosis", Annual Bioscience and Engineering Symposium 2010, Bethesda, MD
 -	Justin Perry, SungPil Han, Lucy Boyd Kennedy, Bibiana Bielekova (2010) "Opposing regulation between lymphoid tissue inducer cells and immunoregulatory CD56bright NK cells underlies therapeutic benefit of daclizumab in multiple sclerosis", International Society of Neuroimmunology 2010, Sitges, Italy
 
 ### INVITED TALKS
 - NIH Neuroimmunology Branch Seminar 	Mar 2012	Bethesda, MD
-	 “Comprehensive Investigation of Mechanism of Action of DAC HYP in Patients with Multiple Sclerosis”
+	 "Comprehensive Investigation of Mechanism of Action of DAC HYP in Patients with Multiple Sclerosis"
 - Annual Bioscience and Engineering Symposium	Nov 2011	Vienna, VA
-	“Neuroimmunological findings from patients with multiple sclerosis by flow cytometric immunophenotyping of cerebrospinal fluid and blood”
+	"Neuroimmunological findings from patients with multiple sclerosis by flow cytometric immunophenotyping of cerebrospinal fluid and blood"
 - NIH Neuroimmunology Branch Seminar 	Jun 2011	Bethesda, MD
-	“Immunological findings from DAC HYP Clinical Trial (10-N-0125): Comprehensive ex vivo investigation of DAC HYP in MS patients”
+	"Immunological findings from DAC HYP Clinical Trial (10-N-0125): Comprehensive ex vivo investigation of DAC HYP in MS patients"
 - PNU Research Festival 	Dec 2009	Gyeongju, Korea
-	“Genome-wide identification of Gli3 direct target genes during neurodevelopment”
+	"Genome-wide identification of Gli3 direct target genes during neurodevelopment"
 
 ### GRANTS AND AWARDS
 -	National Research Foundation, Korea - Medical Scientist Training Program Fellowship (2008~2015)
@@ -114,11 +115,18 @@ Cellular and molecular neurobiology. 2011;31(3):489-496. DOI: 10.1007/s10571-010
 - 2009, "Creativity" Project, National Research Foundation of Korea, Mentor for Jangyoungsil Science High School students for a year : Mechanism of Action of siRNA
 
 ### REFERENCE
-#### Professor Kyun-Seop Bae, M.D./Ph.D.
+
+#### Professor Kyun-Seop Bae, M.D., Ph.D.
 - Chief of Department of Clinical Pharmacology of Therapeutics
 - Asan Medical Center, Seoul, School of Medicine, University of Ulsan
 - Tel : +82-2-3010-4645
 - E-mail : ksbae@acp.kr
+
+#### Professor Hyeong-seok Lim, M.D., Ph.D.
+- Chief of Department of Clinical Pharmacology of Therapeutics
+- Asan Medical Center, Seoul, School of Medicine, University of Ulsan
+- Tel : +82-2-3010-4613
+- E-mail : mdlhs@amc.seoul.kr
 
 #### Investigator Bibiana Bielekova, M.D.
 - Chief of Neuroimmunological Diseases Unit(NDU)
