@@ -13,6 +13,21 @@ tags: []
 
 #### ncar
 
+##### Installation from CRAN
+
+```r
+# get stable version
+install.packages('NonCompart')
+```
+
+##### Installation from Github 
+
+```r
+# get development version
+install.packages('devtools')
+devtools::install_github('asancpt/ncar')
+```
+
 <a markdown="0" href="https://github.com/asancpt/ncar" class="btn">ncar Github Repo</a>
 
 # Shiny Apps
