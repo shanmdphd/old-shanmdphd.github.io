@@ -79,6 +79,12 @@ Reference: [bunhere.tistory.com](http://bunhere.tistory.com/37)
 
 # Bash
 
+##### Replace string across directories
+
+```bash
+grep -rl 'NonCompart' * | xargs sed -i '' -e 's/NonCompart/ncar/g'
+```
+
 ##### Lazygit : git add, commit, push for lazy people like me. 
 
 Copy & paste this lines to your `~/.bash_profile`

@@ -17,7 +17,7 @@ tags: []
 
 ```r
 # get stable version
-install.packages('NonCompart')
+install.packages('ncar')
 ```
 
 ##### Installation from Github 
