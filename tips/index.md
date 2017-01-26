@@ -79,6 +79,14 @@ Reference: [bunhere.tistory.com](http://bunhere.tistory.com/37)
 
 # Bash
 
+##### Convert PDF to PNG - multiple files
+
+```bash
+for file in *_PK_Model_DV_vs_PRED.pdf; do
+    convert -density 300 "$file" "${file%.pdf}.png"
+done
+```
+
 ##### Replace string across directories
 
 ```bash
