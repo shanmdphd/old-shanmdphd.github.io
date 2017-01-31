@@ -113,6 +113,13 @@ lazygit "Update README.md"
 
 # Vim
 
+##### Title case
+
+```vim
+s/\<\(\w\)\(\w*\)\>/\u\1\L\2/g
+```
+
+Reference: [Wikia](http://vim.wikia.com/wiki/Switching_case_of_characters)
 
 ##### Quote
 
