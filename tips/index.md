@@ -113,6 +113,14 @@ lazygit "Update README.md"
 
 # Vim
 
+##### Word count
+
+```vim
+%s/[^ ]\+//gn
+```
+
+Reference: [Wikia](http://vim.wikia.com/wiki/Word_count)
+
 ##### Title case
 
 ```vim
