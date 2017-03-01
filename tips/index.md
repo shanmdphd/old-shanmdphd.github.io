@@ -186,3 +186,40 @@ Reference: [Stackoverflow](http://stackoverflow.com/questions/3218789/adding-cha
 ```
 
 Reference: [Wikia](http://vim.wikia.com/wiki/Changing_case_with_regular_expressions)
+
+# VB
+
+##### Repeat Header Row in Word
+
+```VBA
+Sub RepeatTableHeadings()
+
+  Dim tbl As Table
+
+  For Each tbl In ActiveDocument.Tables
+    tbl.Rows(1).HeadingFormat = True
+  Next tbl
+
+End Sub
+```
+
+Reference: [BeyondVBA](http://vba.relief.jp/word-macro-repeat-table-headings/)
+
+##### Image resize
+
+```VBA
+Sub resize()
+Dim i As Long
+With ActiveDocument
+    For i = 1 To .InlineShapes.Count
+        With .InlineShapes(i)
+            .ScaleHeight = 24
+            .ScaleWidth = 24
+        End With
+    Next i
+End With
+End Sub
+```
+
+Reference: [superuser](http://superuser.com/questions/940771/how-can-i-resize-multiple-images-in-a-ms-word-document)
+
