@@ -26,6 +26,9 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharin
 ---
 <!-- class: center, middle -->
 
+# Genomic Sampling
+
+---
 # 1. INTRODUCTION
 
 ## 1.1. Objectives of the Guideline
