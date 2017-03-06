@@ -1,3 +1,31 @@
+---
+layout: post
+title: 
+categories: 
+share: true
+comments: true
+tag: [ ]
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    keep_md: yes
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+  html_document:
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+---
+<!-- class: center, middle -->
+
 # 1. INTRODUCTION
 
 ## 1.1. Objectives of the Guideline
@@ -6,12 +34,14 @@
 - facilitate the implementation of genomic studies by enabling a common understanding of critical
 parameters for the unbiased collection, storage and optimal use of genomic samples and data
 
+---
 
 Further objectives of this guideline are to increase awareness and provide considerations
 regarding subject privacy, data protection, informed consent and transparency of findings.
 This guideline is intended to foster interactions amongst stakeholders, including drug
 developers, investigators and regulators, and to encourage genomic research within clinical
 studies.
+---
 
 ## 1.2. Background
 - growing awareness of, and interest in, **genomic data**

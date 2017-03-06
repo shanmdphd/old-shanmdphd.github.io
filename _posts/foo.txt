@@ -5,4 +5,7 @@ categories:
 share: true
 comments: true
 tag: [ ]
+output:
+  html_document:
+    keep_md: yes
 ---
