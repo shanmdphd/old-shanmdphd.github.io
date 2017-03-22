@@ -1,0 +1,29 @@
+# 2017-03-20
+
+- speaker: Dr. Park
+- Hypothesis-free (GWAS) or hypothesis-driven
+- Genomics-based approaches (top-down approach)
+- Finding the association (various ways)
+- Array - Sequencing: 2 methods >70 %
+- CGH - compa geno hybrid
+- Array spotter - printer
+- platform of microarry 
+    - single: affimatrix, illumina - beads array, scanner, analysis
+    - two : agilant
+- Sanger sequencing - traditional - needs primers (millions)
+- NGS - fragmentation, adapter, genome-browser matching, align
+- ChIP sequencing 
+- array vs sequencing - pros and cons
+- alpha, numeric - csv files? - data format
+- Data visualization - clustering
+    - 114 genes of 2000 patients - cluster A and B
+- GEO, EBI, TCGA
+- [Oncomine](Oncomine.org)
+- [Cbioportal](http://www.cbioportal.org/)
+- [GEO](https://www.ncbi.nlm.nih.gov/geo/browse/)
+- BRB array tool - Excel addon
+    - Download <https://brb.nci.nih.gov/BRB-ArrayTools/download.html>
+- RMA method
+- COX regression, hazard ratio - can find genes affecting survival
+
+- [kmplot.com](kmplot.com)
