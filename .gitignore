@@ -1,4 +1,7 @@
 *.docx
+*.swp
+Conference*
+_Conference*
 
 # Windows thumbnail cache files
 Thumbs.db

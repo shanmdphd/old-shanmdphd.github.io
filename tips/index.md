@@ -12,6 +12,47 @@ tags: [R, Bash, Git]
 
 # R
 
+#### switch
+
+If value is a character vector then the element of ‘...’ with a name that exactly matches value is evaluated. If there is no match a single unnamed argument will be used as a default. If no default is specified, NULL is returned.
+
+```r
+> y <- "fruit"
+> switch(y, fruit = "banana", vegetable = "broccoli", "Neither")
+[1] "banana"
+> y <- "meat"
+> switch(y, fruit = "banana", vegetable = "broccoli", "Neither")
+[1] "Neither"
+A common use of switch is to branch according to the character value of one of the arguments to a function.
+
+> centre <- function(x, type) {
++ switch(type,
++        mean = mean(x),
++        median = median(x),
++        trimmed = mean(x, trim = .1))
++ }
+> x <- rcauchy(10)
+> centre(x, "mean")
+[1] 0.8760325
+> centre(x, "median")
+[1] 0.5360891
+> centre(x, "trimmed")
+[1] 0.6086504
+```
+
+Reference: [R language definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html#switch)
+#### stars.pval {gtools}
+
+This will convert p-value to stars (\*).
+
+```r
+stars.pval <- function (p.value) {
+    unclass(symnum(p.value, corr = FALSE, na = FALSE, cutpoints = c(0, 
+        0.001, 0.01, 0.05, 0.1, 1), symbols = c("***", "**", 
+        "*", ".", " ")))
+}
+```
+
 #### identifying os
 
 ```r
