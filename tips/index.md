@@ -94,6 +94,16 @@ class(mat) <- "numeric"
 
 # Git
 
+##### Reducing size
+
+```bash
+git reflog expire --expire=now --all
+git gc --prune=now
+git gc --aggressive --prune=now
+```
+
+Reference: [npteam](https://www.npteam.net/954)
+
 ##### Github open
 
 ```bash
