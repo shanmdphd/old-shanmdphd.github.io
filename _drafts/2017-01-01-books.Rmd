@@ -1,0 +1,59 @@
+---
+title: Publications
+summary: 저술 활동입니다.
+---
+
+```{r include = FALSE}
+Github <- "asancpt/EdisonReport"
+Bookinfo <- function(Github){
+    indexRmd <- paste0("https://raw.githubusercontent.com/", Github, "/master/index.Rmd")
+    Rmd <- readLines(indexRmd)
+    
+    Title <- gsub('^title: |\\"', "", 
+            Rmd[grepl("^title", Rmd)])
+    Author <- gsub('^author: |#author: |\\"|\\[|\\]', "", 
+            Rmd[grepl("^author|#author", Rmd)])
+    Description <- gsub("description: ","", 
+            Rmd[grepl("^description", Rmd)])
+    Id <- strsplit(Github, split = "/")[[1]][1]
+    Repo <- strsplit(Github, split = "/")[[1]][2]
+    
+    Content <- paste0(
+        "**", Title, 
+        "** *by* ", Author,
+        " <small>", Description, "</small> ",
+        ' [<i class="fa fa-book" aria-hidden="true"></i>Read](https://', 
+        Id, ".github.io/", Repo, ")\n\n"
+        )
+    return(Content)
+}
+```
+
+We are pursuing reproducible research. Rmarkdown, bookdown, knitr and pandoc enable us to engage it and we are happy to share the results.
+
+## Books
+
+`r Bookinfo("asancpt/NonCompartBook")`
+![](/img/nca_cover.jpg){:.imgwidth style="width: 250px"}
+
+---
+
+`r Bookinfo("shanmdphd/conferences")`
+![](/img/conferences_cover.jpg){:.imgwidth style="width: 250px"}
+
+---
+
+`r Bookinfo("asancpt/EdisonReport")`
+![](/img/edison_cover.jpg){:.imgwidth style="width: 250px"}
+
+---
+
+`r Bookinfo("asancpt/Rprogramming")`
+![](https://asancpt.github.io/Rprogramming/images/cover.jpg){:.imgwidth style="width: 250px"}
+
+
+## Papers
+
+`r Bookinfo("asancpt/CaffeineEdison")`
+![](/img/caffeine_cover.jpg){:.imgwidth style="width: 250px"}
+
