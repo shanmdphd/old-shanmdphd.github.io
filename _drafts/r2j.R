@@ -11,7 +11,7 @@ if(!grepl(".Rmd", filename)) {
 }
 
 # Knit and place in _posts.
-dir = paste0("../_posts/")
+dir = paste0("../_posts/", Sys.Date(), "-")
 output = paste0(dir, sub('.Rmd', '.md', filename))
 knit(filename, output, encoding = "UTF-8")
 
@@ -22,3 +22,5 @@ todir = "../images"
 pics = list.files(fromdir, ".png")
 pics = sapply(pics, function(x) paste(fromdir, x, sep="/"))
 file.copy(pics, todir)
+
+# https://nicolewhite.github.io/2015/02/07/r-blogging-with-rmarkdown-knitr-jekyll.html
