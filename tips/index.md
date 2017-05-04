@@ -213,6 +213,14 @@ lazygit "Update README.md"
 
 # Vim
 
+##### find all the word 'foo' where there is no 'bar' following, we can do:
+
+```vim
+/foo\(.*bar\)\@!
+```
+
+Reference: [Wikia](http://vim.wikia.com/wiki/Search_for_lines_not_containing_pattern#Using_the_:v_command)
+
 ##### Word count
 
 ```vim
