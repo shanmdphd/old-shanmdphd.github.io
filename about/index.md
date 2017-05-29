@@ -6,7 +6,7 @@ comments: true
 tags: []
 ---
 
-<a href="/CV/" class="btn">Curriculum Vitae</a> 
+<a href="https://shanmdphd.github.io/cv/index.pdf" class="btn">Curriculum Vitae</a> 
 <a href="https://scholar.google.com/citations?user=TUK927cAAAAJ" class="btn">Publication</a>
 <a href="/about/physicianscientist/" class="btn">Pathway to the physician-scientist</a>
 
