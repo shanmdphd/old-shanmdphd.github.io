@@ -1,4 +1,4 @@
-- 2017-06-01 [제약, 다시 빅뱅](http://biz.chosun.com/site/data/html_dir/2017/05/31/2017053101621.html#csidx1f0373de91b7fca9bfd0bb0384e3e40)
+- 2017-06-01 [제약, 다시 빅뱅](http://biz.chosun.com/site/data/html_dir/2017/05/31/2017053101621.html#csidx1f0373de91b7fca9bfd0bb0384e3e40)  
 작년 대형 악재 딛고 국산 신약 28호 탄생  
 中 바이오시밀러 시장 진출…세계 최대 바이오의약품 공장 눈앞  
 R&D 투자 증가… 한미약품 1분기 426억, 종근당·유한양행 올해 1000억  
