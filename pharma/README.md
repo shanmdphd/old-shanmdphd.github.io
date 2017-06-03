@@ -10,3 +10,6 @@ R&D 투자 증가… 한미약품 1분기 426억, 종근당·유한양행 올해
 
 - [2008 모델 기반학적 신약개발에서 약동/약력학 모델링 및 시뮬레이션의 역할](http://www.kccp.or.kr/erp/erpmenus/journal_contents/upLoadFiles/18(2)-84(08-25)(p.84~96).pdf)
 
+# Pipelines
+
+- [National OncoVenture](http://nov.ncc.re.kr/joint-development/pipeline/#;)
